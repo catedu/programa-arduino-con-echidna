@@ -1,0 +1,8 @@
+{
+    "plugins": ["youtube", "accordion", "image-captions"],
+    "pluginsConfig": {
+        "image-captions": {
+            "caption": "Imagen - _CAPTION_"
+        }
+    }
+}

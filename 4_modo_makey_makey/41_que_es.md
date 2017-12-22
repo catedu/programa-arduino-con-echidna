@@ -6,11 +6,11 @@ Es una placa que se inventó en 2010 que permite conectar cualquier cosa que con
 
 Nuestra placa tiene esta función, pero en vez de ser una entrada por el puerto USB es una entrada por Arduino que podemos leer, luego en esta sección cambia nuestra placa Echidna el modo sensor a modo makey makey
 
-![](images/image4.png)
+![](/images/image4.png)
 
 Tiene las siguientes entradas:
 
-![](images/image59.png)
+![](/images/image59.png)
 
 *   ANALOGICAS
 

@@ -4,11 +4,11 @@
 
 Echidna tiene un conector preparado para conectar un módulo de Bluetooth
 
-![](images/image72.png)
+![](/images/image72.png)
 
 Nosotros utilizaremos un JY-MCU o [HC-06](https://www.google.com/url?q=https://www.electronicaembajadores.com/es/Productos/Detalle/LCBTHT6/modulos-electronicos/modulos-bluetooth/modulo-bluetooth-hc-06&sa=D&ust=1513946282913000&usg=AFQjCNGVPwbqIaSl83g1qkQu3Eyu5mgYsg) muy común y barato. .
 
-![](images/image71.png)
+![](/images/image71.png)
 
 Te recomendamos estas páginas:
 
@@ -24,14 +24,14 @@ Para conectar el HC-06 lo hacemos hacia abajo de modo que coincida los pines:
 | RX | TX | D1 |
 | TX | RX | D0 |
 
-![](images/image39.png)
+![](/images/image39.png)
 
 Nosotros vamos a utilizar la APP BlueControl:
 
 *   [ver cómo funciona](https://www.google.com/url?q=https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/la_app.html&sa=D&ust=1513946282917000&usg=AFQjCNHHg9urZiFpzriTYLu8m3bOPNT7-g)
 *   [ver cómo se vincula con el móvil](https://www.google.com/url?q=https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/vincular_mvil.html&sa=D&ust=1513946282917000&usg=AFQjCNHpsmCx_UeWor-4NHetd1qEQXH25A)
 
-![](images/image53.png)
+![](/images/image53.png)
 
 ### 5.1.2 Problema número 1: ocupamos el puerto serie {#5-1-2-problema-n-mero-1-ocupamos-el-puerto-serie}
 
@@ -53,10 +53,10 @@ Solución: Bajarlo manualmente
 
 Vamos a ejecutar este pequeño programa, que al apretar el botón de arriba se encienden los leds y al apretar el de abajo se apagan:
 
-![](images/image49.png)
+![](/images/image49.png)
 
 El resultado y la forma de ejecutarlo está en[ esta presentación:](https://www.google.com/url?q=https://docs.google.com/presentation/d/e/2PACX-1vTu_PBSd5olMZaMepTlp_kIVO67NDKiGwi6WCS9I_ECSQlq5SRAPQ5_P1vNMq_zrj6NujU0jTQzLsP8/pub?start%3Dfalse%26loop%3Dfalse%26delayms%3D3000&sa=D&ust=1513946282920000&usg=AFQjCNGr6QOtYAEir7ENZwslE6wXKGZaeQ)
 
-&lt;iframe src=&quot;https://docs.google.com/presentation/d/e/2PACX-1vTu_PBSd5olMZaMepTlp_kIVO67NDKiGwi6WCS9I_ECSQlq5SRAPQ5_P1vNMq_zrj6NujU0jTQzLsP8/embed?start=false&amp;loop=false&amp;delayms=3000&quot; frameborder=&quot;0&quot; width=&quot;960&quot; height=&quot;569&quot; allowfullscreen=&quot;true&quot; mozallowfullscreen=&quot;true&quot; webkitallowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTu_PBSd5olMZaMepTlp_kIVO67NDKiGwi6WCS9I_ECSQlq5SRAPQ5_P1vNMq_zrj6NujU0jTQzLsP8/embed?start=false&;loop=false&;delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-[https://www.youtube.com/watch?v=Zfw3yUtgiNs&amp;feature=youtu.be](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DZfw3yUtgiNs%26feature%3Dyoutu.be&sa=D&ust=1513946282921000&usg=AFQjCNF5Bg3Rva8oMQF22yGSkmg55jZEIA)
+[https://www.youtube.com/watch?v=Zfw3yUtgiNs&;feature=youtu.be](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DZfw3yUtgiNs%26feature%3Dyoutu.be&sa=D&ust=1513946282921000&usg=AFQjCNF5Bg3Rva8oMQF22yGSkmg55jZEIA)

@@ -13,7 +13,7 @@ El código lo subiremos al Arduino pues mBlock responde muy lentamente, si no te
 
 El programa es muy sencillo pero repetitivo:
 
-![](images/image21.png)
+![](/images/image21.png)
 
 Conectamos cada salida de Makey Makey a unos plátanos y la salida del auricular a unos altavoces de ordenador, en la foto puedes ver que se han utilizado unos cables con cocodrilos, y al subirlo al Arduino no hace falta tener el ordenador, alimentamos el Arduino con un PowerBank o incluso con pilas.
 
@@ -21,13 +21,13 @@ Conectamos cada salida de Makey Makey a unos plátanos y la salida del auricular
 
 Arduino se puede conectar con un portapilas, sin ningún problema
 
-![](images/image5.png)
+![](/images/image5.png)
 
 Pero hay que cambiar en este caso el Echidna, hay que decirle que la alimentación no es por 5V sino por Vin, esto se hace cambiando el jumper:
 
-![](images/image69.png)
+![](/images/image69.png)
 
-![](images/image43.jpg)
+![](/images/image43.jpg)
 
 Y el [resultado](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DgyBRvFvs3Mk&sa=D&ust=1513946282908000&usg=AFQjCNHAm9mu3pM9P5Ng4GPBU_95yaO3mg) es …
 
@@ -35,4 +35,4 @@ Y el [resultado](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D
 
 No somos buenos artistas, aún así en Catedu tenemos a uno que sabe piano y otro que es músico !
 
-![](images/image35.png)
+![](/images/image35.png)

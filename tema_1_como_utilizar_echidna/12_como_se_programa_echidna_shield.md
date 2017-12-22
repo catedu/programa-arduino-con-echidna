@@ -19,7 +19,7 @@ Vamos a enseñarte tres formas de hacer el mismo programa: Un semáforo
 
 Nota: Acuerdate en toda esta sección de poner la Echidna en modo Sensor
 
-![](images/image4.png)
+![](/images/image4.png)
 
 ### 
 
@@ -27,7 +27,7 @@ Nota: Acuerdate en toda esta sección de poner la Echidna en modo Sensor
 
 ### 1.2.1 Programación gráfica con mBlock {#1-2-1-programaci-n-gr-fica-con-mblock}
 
-QUE ES MBLOCK![](images/image57.png)
+QUE ES MBLOCK![](/images/image57.png)
 
 Es un programa propietario de la empresa MakeBlock basado en Scratch 2.0 Open Software para sus robots.
 
@@ -41,17 +41,17 @@ SEGUNDO LA CONFIGURACIÓN DE MBLOCK
 
 En [esta presentación](https://www.google.com/url?q=https://docs.google.com/presentation/d/e/2PACX-1vRLqEoJCT355xMCeCXsd0Wc7JcJRk9JkwLCyzEPb_h1S2IbYKK7OdUf33yWRIXq216Zgh9Da7-gIOq1/pub?start%3Dfalse%26loop%3Dfalse%26delayms%3D3000&sa=D&ust=1513946282809000&usg=AFQjCNEekkJ-_cbSnC5cPSGR97OAvw5UxA) se explica CÓMO SE CONECTA MBLOCK CON EL ARDUINO
 
-&lt;iframe src=&quot;https://docs.google.com/presentation/d/e/2PACX-1vRLqEoJCT355xMCeCXsd0Wc7JcJRk9JkwLCyzEPb_h1S2IbYKK7OdUf33yWRIXq216Zgh9Da7-gIOq1/embed?start=false&amp;loop=false&amp;delayms=3000&quot; frameborder=&quot;0&quot; width=&quot;960&quot; height=&quot;569&quot; allowfullscreen=&quot;true&quot; mozallowfullscreen=&quot;true&quot; webkitallowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRLqEoJCT355xMCeCXsd0Wc7JcJRk9JkwLCyzEPb_h1S2IbYKK7OdUf33yWRIXq216Zgh9Da7-gIOq1/embed?start=false&;loop=false&;delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 TERCERO VER EL EJEMPLO DEL SEMÁFORO Y ECHIDNA
 
 Ponemos este programa con la Echidna y en mBlock hemos cambiado el disfraz del oso panda por tres semáforos:
 
-![](images/image64.png)
+![](/images/image64.png)
 
 Y este es el resultado: [Video](https://www.google.com/url?q=https://youtu.be/84Hm0tx5bMo&sa=D&ust=1513946282810000&usg=AFQjCNEKZVGnrAUUEadjBnUwKEYkLkz63w)
 
-https://www.youtube.com/watch?v=84Hm0tx5bMo&amp;feature=youtu.be
+https://www.youtube.com/watch?v=84Hm0tx5bMo&;feature=youtu.be
 
 ###  {#-1}
 
@@ -59,7 +59,7 @@ https://www.youtube.com/watch?v=84Hm0tx5bMo&amp;feature=youtu.be
 
 ### 1.2.2 Programación gráfica con Snap4Arduino {#1-2-2-programaci-n-gr-fica-con-snap4arduino}
 
-PRIMERO QUÉ ES SNAP4ARDUINO![](images/image75.png)
+PRIMERO QUÉ ES SNAP4ARDUINO![](/images/image75.png)
 
 Es también un programa gráfico basado en Scratch, multiplataforma, libre y abierto y permite muchas versiones de placa, bibliotecas, etc… evolución del [S4A](https://www.google.com/url?q=http://s4a.cat/&sa=D&ust=1513946282811000&usg=AFQjCNEdbckCIqj5WebbZlaqtG_-QPKViA)
 
@@ -73,7 +73,7 @@ SEGUNDO LA CONFIGURACIÓN DE SNAP4ARDUINO
 
 [En esta presentación](https://www.google.com/url?q=https://docs.google.com/presentation/d/e/2PACX-1vQ7tr9aNDDuzFcEMFOepVVao5eCKWBBQh3U5emsy5oaN4a-Q8tNkYMWxKyma6xz-gBVL6nLLlmlWuPw/pub?start%3Dfalse%26loop%3Dfalse%26delayms%3D3000&sa=D&ust=1513946282813000&usg=AFQjCNFdVNdKeDBJqgwfJka9oNN3ubDBVQ) se enseña COMO CONFIGURAR SNAP4ARDUINO para que se comunique con nuestro Arduino y la Echidna
 
-&lt;iframe src=&quot;https://docs.google.com/presentation/d/e/2PACX-1vQ7tr9aNDDuzFcEMFOepVVao5eCKWBBQh3U5emsy5oaN4a-Q8tNkYMWxKyma6xz-gBVL6nLLlmlWuPw/embed?start=false&amp;loop=false&amp;delayms=3000&quot; frameborder=&quot;0&quot; width=&quot;960&quot; height=&quot;569&quot; allowfullscreen=&quot;true&quot; mozallowfullscreen=&quot;true&quot; webkitallowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ7tr9aNDDuzFcEMFOepVVao5eCKWBBQh3U5emsy5oaN4a-Q8tNkYMWxKyma6xz-gBVL6nLLlmlWuPw/embed?start=false&;loop=false&;delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 TERCERO EL EJEMPLO SEMÁFORO CON ECHIDNA
 
@@ -81,13 +81,13 @@ El programa es el mismo que el anterior, con los mismos disfraces y se puede abr
 
 El resultado es [este vídeo](https://www.google.com/url?q=https://youtu.be/Ziuze9mRkys&sa=D&ust=1513946282815000&usg=AFQjCNGwY0yzjObUntnZkaQXBJ4k8rMQig)
 
-https://www.youtube.com/watch?v=Ziuze9mRkys&amp;feature=youtu.be
+https://www.youtube.com/watch?v=Ziuze9mRkys&;feature=youtu.be
 
 ### 1.2.3 Programación mediante código {#1-2-3-programaci-n-mediante-c-digo}
 
 PRIMERO QUÉ ES
 
-Es la forma de trabajar de forma profesional el Arduino: con su lenguaje código, en realidad, los otros lenguajes traducen el programa gráfico en lenguaje código Arduino, es decir son meros intermediarios.![](images/image20.png)
+Es la forma de trabajar de forma profesional el Arduino: con su lenguaje código, en realidad, los otros lenguajes traducen el programa gráfico en lenguaje código Arduino, es decir son meros intermediarios.![](/images/image20.png)
 
 El programa se puede descargar de su web oficial, aunque también hay una versión online [https://www.arduino.cc/](https://www.google.com/url?q=https://www.arduino.cc/&sa=D&ust=1513946282816000&usg=AFQjCNHa3tcU0VmaAnThGmZXHCiV-qpDug)
 
@@ -99,16 +99,16 @@ TERCERO EL EJEMPLO SEMÁFORO CON CÓDIGO
 
 Aquí es donde vemos que la programación no es apropiada para Primaria, y la explicación de cada línea necesitaría un curso entero. ([Como el que hay en Aularagón !](https://www.google.com/url?q=http://moodle.catedu.es/course/view.php?id%3D111&sa=D&ust=1513946282817000&usg=AFQjCNERjSWHukwxmzhifvfPZT29ynCGJw) ).
 
-/* Semáforo Arduino  Leds conectados a pines 11,12,13 = EchidnaShield */int verde = 11;int amarillo = 12;int rojo = 13;void setup(){  pinMode(verde, OUTPUT);  pinMode(amarillo, OUTPUT);  pinMode(rojo, OUTPUT);  Serial.begin(9600); //inicializa la comunicación Serial}void loop(){  Serial.println(&quot;Semaforo - Inicio&quot;); //Escribe el texto digitalWrite(verde, HIGH);  Serial.println(&quot;Semaforo - Verde&quot;); //Escribe el texto  delay(2000);  digitalWrite(verde, LOW);  digitalWrite(amarillo, HIGH);  Serial.println(&quot;Semaforo - Amarillo&quot;); //Escribe texto  delay(1000);  digitalWrite(amarillo, LOW);  digitalWrite(rojo, HIGH);  Serial.println(&quot;Semaforo - Rojo&quot;); //Escribe el texto  delay(2000);  digitalWrite(rojo, LOW);}
+/* Semáforo Arduino  Leds conectados a pines 11,12,13 = EchidnaShield */int verde = 11;int amarillo = 12;int rojo = 13;void setup(){  pinMode(verde, OUTPUT);  pinMode(amarillo, OUTPUT);  pinMode(rojo, OUTPUT);  Serial.begin(9600); //inicializa la comunicación Serial}void loop(){  Serial.println("Semaforo - Inicio"); //Escribe el texto digitalWrite(verde, HIGH);  Serial.println("Semaforo - Verde"); //Escribe el texto  delay(2000);  digitalWrite(verde, LOW);  digitalWrite(amarillo, HIGH);  Serial.println("Semaforo - Amarillo"); //Escribe texto  delay(1000);  digitalWrite(amarillo, LOW);  digitalWrite(rojo, HIGH);  Serial.println("Semaforo - Rojo"); //Escribe el texto  delay(2000);  digitalWrite(rojo, LOW);}
 
 Este programa se escribe (o copia y pega ¡es un texto !!) en el software del Arduino y se carga en la placa, en[ el vídeo](https://www.google.com/url?q=https://youtu.be/S8dQdCqOtto&sa=D&ust=1513946282823000&usg=AFQjCNHMu_skH6o86eJWChPi0zjmOX5ymw) se ve muy bien:
 
-[https://www.youtube.com/watch?v=S8dQdCqOtto&amp;feature=youtu.be](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DS8dQdCqOtto%26feature%3Dyoutu.be&sa=D&ust=1513946282823000&usg=AFQjCNH1vbkAMxxBIb6hP4KZY9w_2Qdwag)
+[https://www.youtube.com/watch?v=S8dQdCqOtto&;feature=youtu.be](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DS8dQdCqOtto%26feature%3Dyoutu.be&sa=D&ust=1513946282823000&usg=AFQjCNH1vbkAMxxBIb6hP4KZY9w_2Qdwag)
 
 En este programa queremos que te fijes en una desventaja: La interacción con el ordenador se pierde frente a mBlock y Snap4Arduino:
 
 *   En los lenguajes gráficos, tenemos a interacción con el ordenador igual que en Scratch: si te fijas en la pantalla el dibujo del semáforo va cambiando de disfraz para representar los colores de la luz que se enciende a la vez que en el Arduino.
-*   En un programa grabado en el Arduino perdemos esa interacción, lo máximo que podemos visualizar es una ventana donde se representa en formato texto qué es lo que le está pasando al Arduino (en el ejemplo del semáforo sale &quot;Semáforo - Verde, Semáforo- Rojo ….&quot;)(en realidad, con programación muy muy avanzada sí que se podría pero no vamos a entrar en estos jaleos).
+*   En un programa grabado en el Arduino perdemos esa interacción, lo máximo que podemos visualizar es una ventana donde se representa en formato texto qué es lo que le está pasando al Arduino (en el ejemplo del semáforo sale "Semáforo - Verde, Semáforo- Rojo ….")(en realidad, con programación muy muy avanzada sí que se podría pero no vamos a entrar en estos jaleos).
 
 Esto lo vemos como una desventaja desde el punto de vista de la enseñanza de la programación pues perdemos el potencial de interactuar con los elementos del ordenador crear personajes, disfraces, sonidos, teclado….
 
@@ -124,51 +124,51 @@ Conclusión: Profesionalmente es mejor utilizar lenguaje con código pero en la 
 
 Siempre es mejor moverse en estándares, actualmente está claro: el lenguaje basado en Scratch, y vamos a centrarnos en dos programas ¿Snap4Arduino o mBock?
 
-![](images/image73.png)
+![](/images/image73.png)
 
 #### 1.2.4.1 Instrucciones específicas para Arduino {#1-2-4-1-instrucciones-espec-ficas-para-arduino}
 
-Si entramos en la sección de instrucciones específicas para Arduino, en Snap4Arduino sólo tenemos las instrucciones básicas simples, a partir de estas piezas tienes que hacer el puzzle. Mientras que en mBlock tenemos más instrucciones que nos simplifican los programas pues la misma instrucción implican varias de las simples básicas:![](images/image18.png)
+Si entramos en la sección de instrucciones específicas para Arduino, en Snap4Arduino sólo tenemos las instrucciones básicas simples, a partir de estas piezas tienes que hacer el puzzle. Mientras que en mBlock tenemos más instrucciones que nos simplifican los programas pues la misma instrucción implican varias de las simples básicas:![](/images/image18.png)
 
-![](images/image58.png) 
+![](/images/image58.png) 
 
 Esto parece una tontería pero no lo es: por ejemplo, supongamos que queremos reproducir el tono C4 es más o menos 282Hz:
 
-![](images/image85.png)
+![](/images/image85.png)
 
 Luego tiempo que dura la onda es =1/282 = 0.0035 segundos es decir el tiempo de “encendido HIGH” es 0.0035/2= 0.00175seg y el tiempo de “apagado LOW” es  0.0035/2= 0.00175seg.
 
 o sea… que para hacer esta instrucción en mBlock
 
-![](images/image51.png)
+![](/images/image51.png)
 
 necesitas hacer todo esto en Snap4Arduino :
 
-![](images/image16.png)
+![](/images/image16.png)
 
-#### 1.2.4.2 Importación de librerías![](images/image19.png) {#1-2-4-2-importaci-n-de-librer-as}
+#### 1.2.4.2 Importación de librerías![](/images/image19.png) {#1-2-4-2-importaci-n-de-librer-as}
 
 Snap4Arduino puede importar instrucciones o librerías que pueden aumentar el repertorio de instrucciones.
 
 mBlock también tiene en Extensiones-Administrar extensiones pero no son tan específicas para el Arduino.
 
-![](images/image50.png)
+![](/images/image50.png)
 
-#### 1.2.4.3 Formas de conexión con Arduino![](images/image18.png) {#1-2-4-3-formas-de-conexi-n-con-arduino}
+#### 1.2.4.3 Formas de conexión con Arduino![](/images/image18.png) {#1-2-4-3-formas-de-conexi-n-con-arduino}
 
 Vamos a fijarnos las diferentes posibilidades que tiene de conectarse el programa con el Arduino
 
-![](images/image47.png)
+![](/images/image47.png)
 
 En Snap4Arduino hay que dar con el botón derecho en el sprite y sólo permite conexiones puerto serie.
 
 Mientras que en mBlock hay un menú con la opción de Conexiones y diferentes caminos para conectarse: Puerto serie, Bluetooth, 2.4G ..
 
-![](images/image74.png)
+![](/images/image74.png)
 
 #### 1.2.4.4 Reutilizar proyectos desde Scratch {#1-2-4-4-reutilizar-proyectos-desde-scratch}
 
-![](images/image55.png)
+![](/images/image55.png)
 
 Si vemos un proyecto en Scratch que nos gusta y lo queremos reutilizar lo descargamos, y en mBlock lo podemos abrir, pero no siempre va bien.
 
@@ -176,21 +176,21 @@ Snap4Arduino no acepta ficheros Scratch, pero hay conversores online como [Snapi
 
 Lo veremos mejor más adelante en[ esta sección](../3_entradas_de_echidna/34_acelerometro.md#3-4-2-reutilizamos-del-todo-copiamos-el-proyecto-de-otra-persona).
 
-#### 1.2.4.5 Entorno amigable![](images/image18.png) {#1-2-4-5-entorno-amigable}
+#### 1.2.4.5 Entorno amigable![](/images/image18.png) {#1-2-4-5-entorno-amigable}
 
 En Snap4Arduino no existe un menú arriba, las opciones no se encuentran tan inmediatamente
 
-![](images/image62.png)
+![](/images/image62.png)
 
 Mientras que en mBlock es más intuitivo:
 
-![](images/image70.png)
+![](/images/image70.png)
 
-#### 1.2.4.6 Guardar en la nube y compartir![](images/image19.png) {#1-2-4-6-guardar-en-la-nube-y-compartir}
+#### 1.2.4.6 Guardar en la nube y compartir![](/images/image19.png) {#1-2-4-6-guardar-en-la-nube-y-compartir}
 
 Snap4Arduino permite grabar tus programas en la nube, esto es una gran ventaja, pues permite al alumnado estar en cualquier ordenador, y seguir trabajando con sus programas que están en su repositorio en Internet.
 
-![](images/image32.png)
+![](/images/image32.png)
 
 Incluso puede grabar y compartir con otra persona el proyecto, (la otra persona recibe una copia del programa, no el original), esto permite publicar en un blog por ejemplo los programas.[Ver como.](https://www.google.com/url?q=https://youtu.be/rcnGCMbYJBY&sa=D&ust=1513946282833000&usg=AFQjCNGXgV9jzZl4seU-0Xb5F_OfSFdG8A)
 
@@ -198,13 +198,13 @@ mBlock sólo trabaja en modo local.
 
 #### 1.2.4.7 Subir a Arduino {#1-2-4-7-subir-a-arduino}
 
-En mBlock podemos poner la vista de Modo Arduino Y NOS MUESTRA NUESTRO PROGRAMA ESCRITO EN LENGUAJE GRAFICO CONVERTIDO A LENGUAJE CÓDIGO![](images/image18.png)
+En mBlock podemos poner la vista de Modo Arduino Y NOS MUESTRA NUESTRO PROGRAMA ESCRITO EN LENGUAJE GRAFICO CONVERTIDO A LENGUAJE CÓDIGO![](/images/image18.png)
 
 Esto nos permite SUBIR AL ARDUINO es decir, nuestro programa grabarlo en el Arduino como si fuera un Firmware y ganar velocidad aquí tienes una captura y puedes observar cómo traduce el programa gráfico en código:
 
-![](images/image41.png)
+![](/images/image41.png)
 
-El anterior programa funciona bien si lo hacemos subir al Arduino, pero si lo hacemos de forma normal (cambiamos el evento “Programa Arduino” por evento bandera):![](images/image38.png)
+El anterior programa funciona bien si lo hacemos subir al Arduino, pero si lo hacemos de forma normal (cambiamos el evento “Programa Arduino” por evento bandera):![](/images/image38.png)
 
 NO FUNCIONA BIEN
 
@@ -228,7 +228,7 @@ Ventajas de subir un programa al Arduino:
 
 #### 1.2.4.8 Rapidez en la simulación {#1-2-4-8-rapidez-en-la-simulaci-n}
 
-Aunque Snap4Arduino no sube el programa, sólo simula es mucho más rápido en la simulación que mBlock![](images/image19.png)
+Aunque Snap4Arduino no sube el programa, sólo simula es mucho más rápido en la simulación que mBlock![](/images/image19.png)
 
 En[ este apartado](../3_entradas_de_echidna/33_joystick.md#3-3-1-telesketch) veremos las diferencias.
 
@@ -236,7 +236,7 @@ En[ este apartado](../3_entradas_de_echidna/33_joystick.md#3-3-1-telesketch) ver
 
 Nosotros le vamos a dar el premio a mBlock
 
-![](images/image79.png)
+![](/images/image79.png)
 
 Todo es cuestión de gustos, las capturas y descargas de programas de este curso serán en mBlock, pero si te gusta Snap4Arduino puedes hacer este curso pero que tendrás que currarte [las instrucciones más elaboradas que tiene mBlock](#1-2-4-1-instrucciones-espec-ficas-para-arduino) y no podrás descargar tu programa al Arduino para que sea independiente [tal y como hace mBlock](#1-2-4-7-subir-a-arduino).
 
@@ -250,8 +250,8 @@ Existen otros programas gráficos, el ArduinoBlocks, Bitblock… pero no tienen 
 
 Con ArduinoBlocks:
 
-![](images/image91.png)
+![](/images/image91.png)
 
 Con Bitblock:
 
-![](images/image12.png)
+![](/images/image12.png)

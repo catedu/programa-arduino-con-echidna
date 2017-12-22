@@ -8,7 +8,7 @@ Una pega: No dura nada, a los pocos días se endurece o se pudre.
 
 Podemos hacer interesantes proyectos, por ejemplo este helicóptero que se mueve según unos botones hechos de plastilina:
 
-![](images/image52.png)
+![](/images/image52.png)
 
 *   A3 conectado a la plastilina con forma de ⇒
 *   A1 conectado con la plastelina en forma de ⇑
@@ -21,8 +21,8 @@ El umbral se ha cambiado según la sensibilidad del botón. El resultado en [est
 
 Con la plastelina podemos hacer manualidades tipo conecta y que por la pantalla salga el resultado, [aquí tienes un ejemplo](https://www.google.com/url?q=http://aularagon.catedu.es/materialesaularagon2013/scratch/M3plus/plastilina_ii.html&sa=D&ust=1513946282912000&usg=AFQjCNFwzpU5F9iQtbRNQwDbCjsvykPxRw):
 
-![](images/image17.png)
+![](/images/image17.png)
 
 Las posibilidades son muchas, cuelga tus experiencias en este [muro](https://www.google.com/url?q=https://padlet.com/CATEDU/makey&sa=D&ust=1513946282912000&usg=AFQjCNEbkix3rjiMRoxo02W3XwtKOMC6gw)
 
-&lt;div class=&quot;padlet-embed&quot; style=&quot;border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4&quot;&gt;&lt;p style=&quot;padding:0;margin:0&quot;&gt;&lt;iframe src=&quot;https://padlet.com/embed/phc0rpzhe1qj&quot; frameborder=&quot;0&quot; style=&quot;width:100%;height:608px;display:block;padding:0;margin:0&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;&lt;div style=&quot;padding:8px;text-align:right;margin:0;&quot;&gt;&lt;a href=&quot;https://padlet.com?ref=embed&quot; style=&quot;padding:0;margin:0;border:none;display:block;line-height:1;height:16px&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://resources.padletcdn.com/assets/made_with_padlet.png&quot; width=&quot;86&quot; height=&quot;16&quot; style=&quot;padding:0;margin:0;background:none;border:none;display:inline;box-shadow:none&quot; alt=&quot;Hecho con Padlet&quot;&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+<div class="padlet-embed" style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><p style="padding:0;margin:0"><iframe src="https://padlet.com/embed/phc0rpzhe1qj" frameborder="0" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></p><div style="padding:8px;text-align:right;margin:0;"><a href="https://padlet.com?ref=embed" style="padding:0;margin:0;border:none;display:block;line-height:1;height:16px" target="_blank"><img src="https://resources.padletcdn.com/assets/made_with_padlet.png" width="86" height="16" style="padding:0;margin:0;background:none;border:none;display:inline;box-shadow:none" alt="Hecho con Padlet"></a></div></div>

@@ -6,4 +6,4 @@ Nota: Si has hecho el anterior programa Grabar a Arduino, recuerda dejarlo prepa
 
 Nota: Acuerdate en toda esta sección de poner la Echidna en modo Sensor
 
-![](images/image4.png)
+![](/images/image4.png)

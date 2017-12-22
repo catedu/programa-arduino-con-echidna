@@ -1,10 +1,10 @@
 ## 3.2 El LDR en A5 {#3-2-el-ldr-en-a5}
 
-Primero de todo ¿Qué es un LDR? Vamos a la Wikipedia:![](images/image90.png)
+Primero de todo ¿Qué es un LDR? Vamos a la Wikipedia:![](/images/image90.png)
 
 [Fotorresistor](https://www.google.com/url?q=https://es.wikipedia.org/wiki/Fotorresistor&sa=D&ust=1513946282856000&usg=AFQjCNFvI1f7-bBAKWj9CTQacixEY8dZBQ)
 
-Una fotorresistencia es un componente electrónico cuya resistencia disminuye con el aumento de intensidad de luz incidente. Puede también ser llamado fotorresistor, fotoconductor, célula fotoeléctrica o resistor dependiente de la luz, cuyas siglas, LDR, se originan de su nombre en inglés light-dependent resistor. Su cuerpo está formado por una célula fotorreceptora y dos patillas. En la siguiente imagen se muestra su símbolo eléctrico.![](images/image31.png)[More at Wikipedia (ES)](https://www.google.com/url?q=https://es.wikipedia.org/wiki/Fotorresistor&sa=D&ust=1513946282857000&usg=AFQjCNHqQ70Mh0qFolRehlc1CT1rUagwJQ)
+Una fotorresistencia es un componente electrónico cuya resistencia disminuye con el aumento de intensidad de luz incidente. Puede también ser llamado fotorresistor, fotoconductor, célula fotoeléctrica o resistor dependiente de la luz, cuyas siglas, LDR, se originan de su nombre en inglés light-dependent resistor. Su cuerpo está formado por una célula fotorreceptora y dos patillas. En la siguiente imagen se muestra su símbolo eléctrico.![](/images/image31.png)[More at Wikipedia (ES)](https://www.google.com/url?q=https://es.wikipedia.org/wiki/Fotorresistor&sa=D&ust=1513946282857000&usg=AFQjCNHqQ70Mh0qFolRehlc1CT1rUagwJQ)
 
 Lo verás en el Echidna arriba un poco a la derecha, y está conectado a la entrada analógica del Arduino A5 y según [http://echidna.es/](https://www.google.com/url?q=http://echidna.es/&sa=D&ust=1513946282857000&usg=AFQjCNHYPnLWO872xrJi9_N6tiFHvLZv6Q) los valores van desde 20 en ausencia de luz, hasta 1.000 con mucha luz.
 
@@ -12,7 +12,7 @@ Lo verás en el Echidna arriba un poco a la derecha, y está conectado a la entr
 
 No os lo creáis al pie de la letra! Los componentes electrónicos no son ideales, cada uno es particular, probar esos límites en vuestro Echidna, para ello vamos a utilizar nuestro mBlock y que nuestro simpático oso panda nos diga esos valores, con este sencillo programa:
 
-![](images/image29.png)
+![](/images/image29.png)
 
 El valor que leemos con máxima luz (utilizando una linterna) y el valor de máxima oscuridad no llegan a esos límites en nuestro Echidna EN TU CASO PUEDEN SER OTROS !! pero parecidos.
 
@@ -40,7 +40,7 @@ Según nuestros límites medidos en el anterior programa fijamos nuestras propia
 
 El programa sería el siguiente, donde hemos capturado los semáforos en los tres estados utilizando una linterna y nuestra mano para oscurecer el LDR:
 
-![](images/image68.png)
+![](/images/image68.png)
 
 El resultado lo puedes ver en [este vídeo](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DMX558VKV_pE&sa=D&ust=1513946282868000&usg=AFQjCNGfVxyWAIq0qEDJW3N48RafvkjefQ):
 
@@ -65,7 +65,7 @@ Nos encontramos que:
 *   Los valores de entrada, es decir, el LDR trabaja con unos límites, que según hemos visto en [el apartado comprobar los límites](#3-2-1-comprobar-los-l-mites), el nuestro va de 108 a 982, llamaremos a esta variable de entrada X
 *   Los valores de salida son los tonos,que mBlock trabaja con la norma americana (la europea es el típico DoReMiFaSol) y los americanos, son valores numéricos que van desde 48 hasta 72 (lo puedes comprobar con la instrucción “tocar nota” que está en Programas-Sonido). Llamaremos a la variable salida de notas Y:
 
-![](images/image67.png)
+![](/images/image67.png)
 
 Problema: ¿cómo convertimos X en Y?
 
@@ -80,7 +80,7 @@ Para calcular m y n tenemos que utilizar un sistema de ecuaciones dadas las cond
 
 Ala! calcula m y n
 
-![](images/image11.png)
+![](/images/image11.png)
 
 Buen ejercicio para los alumnos para que vean matemáticas aplicadas
 
@@ -91,7 +91,7 @@ No obstante, como esto lo repetiremos muchas veces los cambios de escala, hemos 
 
 Y nos da los valores m y n automáticamente:
 
-![](images/image46.png)
+![](/images/image46.png)
 
 Luego la fórmula para el cálculo de la Y (las notas) en función de la luminosidad X es:
 
@@ -101,7 +101,7 @@ Y = 0.027 * X + 45
 
 El programa es pues el siguiente
 
-![](images/image30.png)
+![](/images/image30.png)
 
 ¿por qué lo hacemos con la opción de subir a Arduino? Ya l[o tendrías que saber.](../tema_1_como_utilizar_echidna/12_como_se_programa_echidna_shield.md#1-2-4-7-subir-a-arduino)
 

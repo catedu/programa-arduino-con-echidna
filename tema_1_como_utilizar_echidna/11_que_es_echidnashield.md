@@ -6,7 +6,7 @@
 
 Una solución es utilizar una Shield, está adaptado para ponerlo encima e incluso hay posibilidad utilizar varias a la vez.
 
-![](images/image14.png)
+![](/images/image14.png)
 
  [Enrique Crespo](https://www.google.com/url?q=https://aprendiendoarduino.wordpress.com/&sa=D&ust=1513946282790000&usg=AFQjCNEn2pVo2t4pzYe5QHIJgDSzRi7hYQ) CC-BY-SA
 
