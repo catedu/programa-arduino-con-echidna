@@ -5,8 +5,7 @@ Tenemos dos opciones:
 *   Programación mediante lenguajes gráficos: símbolos, gráficos… tipo [Scratch](https://www.google.com/url?q=https://scratch.mit.edu/&sa=D&ust=1513946282803000&usg=AFQjCNH7lcyEXJLl-JzCQiQaxOdO18yvyA)
 
 *   Ventajas: Mucho más sencillo e intuitivo, ideal para principiantes, primaria y secundaria.
-*   Inconvenientes: No se llega a aprovechar todas las posibilidades del Arduino. Programas: [Snap4Arduino](https://www.google.com/url?q=http://snap4arduino.rocks/&sa=D&ust=1513946282804000&usg=AFQjCNHQZwJsdzb3-_CoB1lND8mpyTKzFA), [mBlock](https://www.google.com/url?q=http://www.mblock.cc/&sa=D&ust=1513946282804000&usg=AFQjCNGASaNYt1FzqdFXDCswNmVAU30GiA), [ArduinoBlocks,](https://www.google.com/url?q=http://www.arduinoblocks.com/&sa=D&ust=1513946282804000&usg=AFQjCNE046qCWNSWmqVImg9XCRXE6EoxwA) [Bitbloq](https://www.google.com/url?q=http://bitbloq.bq.com&sa=D&ust=1513946282804000&usg=AFQjCNGnptoVW5IujszihTSRZNmLOL6ScA), [S4A](https://www.google.com/url?q=http://s4a.cat/&sa=D&ust=1513946282805000&usg=AFQjCNHNa0qN2u0KAuNGHytRKoBGyvB30A) ...
-
+*   Inconvenientes: No se llega a aprovechar todas las posibilidades del Arduino. Programas: [Snap4Arduino](https://www.google.com/url?q=http://snap4arduino.rocks/&sa=D&ust=1513946282804000&usg=AFQjCNHQZwJsdzb3-_CoB1lND8mpyTKzFA), [mBlock](https://www.google.com/url?q=http://www.mblock.cc/&sa=D&ust=1513946282804000&usg=AFQjCNGASaNYt1FzqdFXDCswNmVAU30GiA), [ArduinoBlocks,](https://www.google.com/url?q=http://www.arduinoblocks.com/&sa=D&ust=1513946282804000&usg=AFQjCNE046qCWNSWmqVImg9XCRXE6EoxwA) [Bitbloq](https://www.google.com/url?q=http://bitbloq.bq.com&sa=D&ust=1513946282804000&usg=AFQjCNGnptoVW5IujszihTSRZNmLOL6ScA), [S4A](https://www.google.com/url?q=http://s4a.cat/&sa=D&ust=1513946282805000&usg=AFQjCNHNa0qN2u0KAuNGHytRKoBGyvB30A) 
 *   Programación mediante código:
 
 *   Ventaja: Se aprovecha todo el potencial de programación, puesto que se controla todas las variables
@@ -27,7 +26,8 @@ Nota: Acuerdate en toda esta sección de poner la Echidna en modo Sensor
 
 ### 1.2.1 Programación gráfica con mBlock {#1-2-1-programaci-n-gr-fica-con-mblock}
 
-QUE ES MBLOCK![](/images/image57.png)
+**QUE ES MBLOCK**
+****![](/images/image57.png)
 
 Es un programa propietario de la empresa MakeBlock basado en Scratch 2.0 Open Software para sus robots.
 
