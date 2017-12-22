@@ -33,6 +33,4 @@ El programa lo puedes descargar de este [repositorio](https://www.google.com/url
 %/accordion%
 
 El resultado es el siguiente [vídeo](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Ds2yQwG53sGg%26feature%3Dyoutu.be&sa=D&ust=1513946282845000&usg=AFQjCNHE7oXLQVNlgArzKmpprdUN85NpOw):
-
-[https://www.youtube.com/watch?v=s2yQwG53sGg&;feature=youtu.be](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Ds2yQwG53sGg%26feature%3Dyoutu.be&sa=D&ust=1513946282846000&usg=AFQjCNEgkcJwuMtyh4Ci2Ts5Wzw6jlXejw)
-
+{% youtube %}https://www.youtube.com/watch?v=s2yQwG53sGg&;feature=youtu.be  {% endyoutube%}
