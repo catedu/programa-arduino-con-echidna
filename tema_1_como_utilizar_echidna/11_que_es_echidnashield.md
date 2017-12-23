@@ -17,12 +17,12 @@ Hay muchas en el mercado:
   * [WifiShield](http://arduino.cc/en/Main/ArduinoWiFiShield)
   * [GSMShield móvil GPRS](http://arduino.cc/en/Main/ArduinoGSMShield)
 * Para salidas concretas
-  * [Motores](http://arduino.cc/en/Main/ArduinoMotorShieldR3)
-  * [Relés RelayShield](http://wordpress.redirectingat.com)
+  * [Motores](https://store.arduino.cc/arduino-motor-shield-rev3)
+  * [Relés RelayShield](http://arduino.cl/2-relay-shield/)
 * Para entradas concretas
-  * [OpenEnergy Medidor Medidor de magnitudes eléctricas](http://openenergymonitor.org/emon/emontxshield)
+  * [OpenEnergy Medidor Medidor de magnitudes eléctricas](http://arduino.cl/arduino-energy-shield/)
 * Para facilitar la conexión de sensores y actuadores
-  * [Grove Shield](http://wordpress.redirectingat.com) donde hay una familia sensores y actuadores de conectar y listo asociados.
+  * [Grove Shield](https://www.seeedstudio.com/Grove-Base-Shield-p-754.html) donde hay una _**familia sensores y actuadores de conectar y listo**_ asociados, veremos en la unidad 5 que Echidna tiene 3 I/O digitales y una analógica para estos sensores, es decir es también una versión pequeña Grove Shield que nos permitirá hacer robots .
 
 Hay tantos que la lista es interminable…
 
@@ -33,7 +33,7 @@ Y otras están orientadas para el uso educativo:
 
 Hay muchas más Shields …. prueba poner las palabras_ Shield Arduino_ en tu buscador.
 
-También hay que nombrar “_entrenadores_” educativos para Arduino, “Kits de principiantes”, etc.. los hay con muchos sensores y otros muy compactos como [Evive](https://www.hackster.io/evive/products/evive): en el [vídeo](https://www.youtube.com/watch?time_continue%3D35%26v%3D3F0_JspobN0&sa=D&ust=1513946282798000&usg=AFQjCNGSPO-_LZPb4pH3iPYWYPi3_JXU1g) explican muy bien las ventajas de utilizar una Shield/entrenador frente a usar la electrónica pura.
+También hay que nombrar “_entrenadores_” educativos para Arduino, “Kits de principiantes”, etc.. los hay con muchos sensores y otros muy compactos como [Evive](https://evive.cc/): por cierto explican muy bien las ventajas de utilizar una Shield/entrenador frente a usar la electrónica pura.
 
 ### 1.1.2 Ahora sí: ¿Qué es Echidna? {#1-1-2-ahora-s-qu-es-echidna}
 
