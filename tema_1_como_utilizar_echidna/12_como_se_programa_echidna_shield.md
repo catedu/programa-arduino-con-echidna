@@ -2,10 +2,10 @@
 
 Tenemos dos opciones:
 
-*   Programación mediante lenguajes gráficos: símbolos, gráficos… tipo [Scratch](https://www.google.com/url?q=https://scratch.mit.edu/&sa=D&ust=1513946282803000&usg=AFQjCNH7lcyEXJLl-JzCQiQaxOdO18yvyA)
+*   Programación mediante lenguajes gráficos: símbolos, gráficos… tipo [Scratch](https://scratch.mit.edu)
 
 *   Ventajas: Mucho más sencillo e intuitivo, ideal para principiantes, primaria y secundaria.
-*   Inconvenientes: No se llega a aprovechar todas las posibilidades del Arduino. Programas: [Snap4Arduino](https://www.google.com/url?q=http://snap4arduino.rocks/&sa=D&ust=1513946282804000&usg=AFQjCNHQZwJsdzb3-_CoB1lND8mpyTKzFA), [mBlock](https://www.google.com/url?q=http://www.mblock.cc/&sa=D&ust=1513946282804000&usg=AFQjCNGASaNYt1FzqdFXDCswNmVAU30GiA), [ArduinoBlocks,](https://www.google.com/url?q=http://www.arduinoblocks.com/&sa=D&ust=1513946282804000&usg=AFQjCNE046qCWNSWmqVImg9XCRXE6EoxwA) [Bitbloq](https://www.google.com/url?q=http://bitbloq.bq.com&sa=D&ust=1513946282804000&usg=AFQjCNGnptoVW5IujszihTSRZNmLOL6ScA), [S4A](https://www.google.com/url?q=http://s4a.cat/&sa=D&ust=1513946282805000&usg=AFQjCNHNa0qN2u0KAuNGHytRKoBGyvB30A) 
+*   Inconvenientes: No se llega a aprovechar todas las posibilidades del Arduino. Programas: [Snap4Arduino](http://snap4arduino.rocks), [mBlock](http://www.mblock.cc), [ArduinoBlocks,](http://www.arduinoblocks.com) [Bitbloq](http://bitbloq.bq.com), [S4A](http://s4a.cat) 
 *   Programación mediante código:
 
 *   Ventaja: Se aprovecha todo el potencial de programación, puesto que se controla todas las variables
