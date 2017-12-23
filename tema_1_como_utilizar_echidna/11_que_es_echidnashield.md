@@ -1,4 +1,4 @@
-\_\_\#\# 1.1 ¿Qué es EchidnaShield? {\#1-1-qu-es-echidnashield}
+## 1.1 ¿Qué es EchidnaShield?
 
 ### 1.1.1 Primero ¿qué es Arduino? ¿qué es una Shield? {#1-1-1-primero-qu-es-arduino-qu-es-una-shield}
 
