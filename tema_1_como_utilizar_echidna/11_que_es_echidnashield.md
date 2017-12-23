@@ -17,8 +17,8 @@ Hay muchas en el mercado:
   * [WifiShield](http://arduino.cc/en/Main/ArduinoWiFiShield)
   * [GSMShield móvil GPRS](http://arduino.cc/en/Main/ArduinoGSMShield)
 * Para salidas concretas
-  * [Motores](https://www.google.com/url?q=http://arduino.cc/en/Main/ArduinoMotorShieldR3&sa=D&ust=1513946282792000&usg=AFQjCNFycDm4oPRcP6pIAGo_vQMCn_nz0g)
-  * [Relés RelayShield](http://wordpress.redirectingat.com/?)
+  * [Motores](http://arduino.cc/en/Main/ArduinoMotorShieldR3)
+  * [Relés RelayShield](http://wordpress.redirectingat.com)
 * Para entradas concretas
   * [OpenEnergy Medidor Medidor de magnitudes eléctricas](http://openenergymonitor.org/emon/emontxshield)
 * Para facilitar la conexión de sensores y actuadores
