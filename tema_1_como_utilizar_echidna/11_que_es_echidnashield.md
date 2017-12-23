@@ -1,4 +1,4 @@
-## 1.1 ¿Qué es EchidnaShield? {#1-1-qu-es-echidnashield}
+\_\_\#\# 1.1 ¿Qué es EchidnaShield? {\#1-1-qu-es-echidnashield}
 
 ### 1.1.1 Primero ¿qué es Arduino? ¿qué es una Shield? {#1-1-1-primero-qu-es-arduino-qu-es-una-shield}
 
@@ -31,7 +31,7 @@ Y otras están orientadas para el uso educativo:
 * [Edubásica](https://www.google.com/url?q=http://www.practicasconarduino.com/edubasica/&sa=D&ust=1513946282795000&usg=AFQjCNEF47F_X281uom93Kn-ywSbmYHT3A)[ ](https://www.google.com/url?q=http://www.practicasconarduino.com/edubasica/&sa=D&ust=1513946282795000&usg=AFQjCNEF47F_X281uom93Kn-ywSbmYHT3A)que en Aularagón tenemos [un curso dedicado](https://www.google.com/url?q=http://moodle.catedu.es/course/view.php?id%3D111&sa=D&ust=1513946282796000&usg=AFQjCNGsspGI01oVS4PP1SwjztLu5vP2aA) a esta Shield creada por docentes y para docentes.
 * ¿Y cómo no?: nuestra estrella en este curso [Echinda](https://www.google.com/url?q=http://echidna.es/&sa=D&ust=1513946282796000&usg=AFQjCNFunTuOFCt9IZOkGTWzogcQ0OD3EQ)
 
-Hay muchas más Shields …. prueba poner las palabras Shield Arduino en tu buscador.
+Hay muchas más Shields …. prueba poner las palabras_ Shield Arduino_ en tu buscador.
 
 También hay que nombrar “_entrenadores_” educativos para Arduino, “Kits de principiantes”, etc.. los hay con muchos sensores y otros muy compactos como [Evive](https://www.google.com/url?q=https://www.hackster.io/evive/products/evive&sa=D&ust=1513946282797000&usg=AFQjCNEnLOuE4TLgJ1DtEtGw-X1YRKdBtA): en el [vídeo](https://www.google.com/url?q=https://www.youtube.com/watch?time_continue%3D35%26v%3D3F0_JspobN0&sa=D&ust=1513946282798000&usg=AFQjCNGSPO-_LZPb4pH3iPYWYPi3_JXU1g) explican muy bien las ventajas de utilizar una Shield/entrenador frente a usar la electrónica pura.
 
@@ -57,8 +57,6 @@ Por varias razones:
 * Es MakeyMakey: Dos Shields en una: Sensores y [MakeyMakey](https://www.google.com/url?q=https://www.makeymakey.com/&sa=D&ust=1513946282801000&usg=AFQjCNGmwfca8WNbhk924by4KaIzS1HjuQ) por lo tanto da más potencial a nuestros proyectos.\(Tenemos [un curso en Aularagon de MakeyMakey\)](https://www.google.com/url?q=http://moodle.catedu.es/course/view.php?id%3D56&sa=D&ust=1513946282802000&usg=AFQjCNGrr19QzlN8_sn-qEpfskXqkvI28w)
 * Es barato y asequible para la mayoría de los centros.
 * Tiene pines para conexión de otros elementos como relés pero no pueden pasar de 300mA para más potencia es mejor utilizar Shield adaptados para ello como Edubásica.
-
-
 
 
 
