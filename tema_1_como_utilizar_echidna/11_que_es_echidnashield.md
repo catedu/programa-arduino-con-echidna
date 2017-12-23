@@ -2,38 +2,38 @@
 
 ### 1.1.1 Primero ¿qué es Arduino? ¿qué es una Shield? {#1-1-1-primero-qu-es-arduino-qu-es-una-shield}
 
-¿Qué es Arduino? Pues no podemos explicarlo en este curso, suponemos que lo conoces, sino te recomendamos [que visites esta página](https://www.google.com/url?q=http://aularagon.catedu.es/materialesaularagon2013/Arduino-codigo/1_Fundamentos_arduino_y_Edubasica/informacin_bsica_sobre_arduino.html&sa=D&ust=1513946282789000&usg=AFQjCNGOWM7sjaDcyBYG5PsZwEX378yvsQ), si la lees verás que tiene un inconveniente: Arduino es una placa microcontroladora orientado para las entradas y las salidas tanto analógicas como digitales, pero…. tienes que ponerlas, y eso implica cableado y electrónica.
+**¿Qué es Arduino?** Pues no podemos explicarlo en este curso, suponemos que lo conoces,  te recomendamos que [visites nuestro curso Arduino con código y Edubasica en esta página](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/index0.html), si la lees verás que tiene un inconveniente: Arduino es una placa microcontroladora orientado para las entradas y las salidas tanto analógicas como digitales, pero…. **tienes que ponerlas**, y eso implica cableado y electrónica.
 
 Una solución es utilizar una Shield, está adaptado para ponerlo encima e incluso hay posibilidad utilizar varias a la vez.
 
 ![](/assets/image14.png)
 
-[Enrique Crespo](https://www.google.com/url?q=https://aprendiendoarduino.wordpress.com/&sa=D&ust=1513946282790000&usg=AFQjCNEn2pVo2t4pzYe5QHIJgDSzRi7hYQ) CC-BY-SA
+[Enrique Crespo](https://aprendiendoarduino.wordpress.com/&sa=D&ust=1513946282790000&usg=AFQjCNEn2pVo2t4pzYe5QHIJgDSzRi7hYQ) CC-BY-SA
 
 Hay muchas en el mercado:
 
 * Para las comunicaciones:
-  * [EthernetShield](https://www.google.com/url?q=http://arduino.cc/en/Main/ArduinoEthernetShield&sa=D&ust=1513946282791000&usg=AFQjCNED8XbujvH0W3_mV4nOHMkrN9fPMw).
-  * [WifiShield](https://www.google.com/url?q=http://arduino.cc/en/Main/ArduinoWiFiShield&sa=D&ust=1513946282791000&usg=AFQjCNEbVO-c3cy8lyTdVxatS2ZBlw0oIQ)
-  * [GSMShield móvil GPRS](https://www.google.com/url?q=http://arduino.cc/en/Main/ArduinoGSMShield&sa=D&ust=1513946282791000&usg=AFQjCNElNdodMK7E3F9XrKloBNv91NDAtA)
+  * [EthernetShield](http://arduino.cc/en/Main/ArduinoEthernetShield&sa=D&ust=1513946282791000&usg=AFQjCNED8XbujvH0W3_mV4nOHMkrN9fPMw).
+  * [WifiShield](http://arduino.cc/en/Main/ArduinoWiFiShield&sa=D&ust=1513946282791000&usg=AFQjCNEbVO-c3cy8lyTdVxatS2ZBlw0oIQ)
+  * [GSMShield móvil GPRS](http://arduino.cc/en/Main/ArduinoGSMShield&sa=D&ust=1513946282791000&usg=AFQjCNElNdodMK7E3F9XrKloBNv91NDAtA)
 * Para salidas concretas
   * [Motores](https://www.google.com/url?q=http://arduino.cc/en/Main/ArduinoMotorShieldR3&sa=D&ust=1513946282792000&usg=AFQjCNFycDm4oPRcP6pIAGo_vQMCn_nz0g)
-  * [Relés RelayShield](https://www.google.com/url?q=http://wordpress.redirectingat.com/?id%3D725X1342%26site%3Daprendiendoarduino.wordpress.com%26xs%3D1%26isjs%3D1%26url%3Dhttp%3A%2F%2Fwww.seeedstudio.com%2Fdepot%2Frelay-shield-v20-p-1376.html%3FcPath%3D132_134%26xguid%3Dc96fc6b2e8b6e2cd4d30927fb5b4f760%26xuuid%3D943237e103c06b377b37d9b84237ccac%26xsessid%3Dd6ceb3761df5c0a048e8d27e4cb9982d%26xcreo%3D0%26xed%3D0%26sref%3Dhttps%3A%2F%2Faprendiendoarduino.wordpress.com%2F2015%2F03%2F23%2Fshields-para-arduino%2F%26pref%3Dhttps%3A%2F%2Fduckduckgo.com%2F%26xtz%3D-60&sa=D&ust=1513946282793000&usg=AFQjCNEHlYtEd6ZwKNIv6U68yJ0O4OQ7bA)
+  * [Relés RelayShield](http://wordpress.redirectingat.com/?id%3D725X1342%26site%3Daprendiendoarduino.wordpress.com%26xs%3D1%26isjs%3D1%26url%3Dhttp%3A%2F%2Fwww.seeedstudio.com%2Fdepot%2Frelay-shield-v20-p-1376.html%3FcPath%3D132_134%26xguid%3Dc96fc6b2e8b6e2cd4d30927fb5b4f760%26xuuid%3D943237e103c06b377b37d9b84237ccac%26xsessid%3Dd6ceb3761df5c0a048e8d27e4cb9982d%26xcreo%3D0%26xed%3D0%26sref%3Dhttps%3A%2F%2Faprendiendoarduino.wordpress.com%2F2015%2F03%2F23%2Fshields-para-arduino%2F%26pref%3Dhttps%3A%2F%2Fduckduckgo.com%2F%26xtz%3D-60&sa=D&ust=1513946282793000&usg=AFQjCNEHlYtEd6ZwKNIv6U68yJ0O4OQ7bA)
 * Para entradas concretas
-  * [OpenEnergy Medidor Medidor de magnitudes eléctricas](https://www.google.com/url?q=http://openenergymonitor.org/emon/emontxshield/smt&sa=D&ust=1513946282793000&usg=AFQjCNFpC1mQ-cFhu6O9SQSh4RqTr1y6GA)
+  * [OpenEnergy Medidor Medidor de magnitudes eléctricas](http://openenergymonitor.org/emon/emontxshield/smt&sa=D&ust=1513946282793000&usg=AFQjCNFpC1mQ-cFhu6O9SQSh4RqTr1y6GA)
 * Para facilitar la conexión de sensores y actuadores
-  * [Grove Shield](https://www.google.com/url?q=http://wordpress.redirectingat.com/?id%3D725X1342%26site%3Daprendiendoarduino.wordpress.com%26xs%3D1%26isjs%3D1%26url%3Dhttp%3A%2F%2Fwww.seeedstudio.com%2Fdepot%2FGrove-Base-Shield-p-754.html%26xguid%3Dc96fc6b2e8b6e2cd4d30927fb5b4f760%26xuuid%3D943237e103c06b377b37d9b84237ccac%26xsessid%3Dd6ceb3761df5c0a048e8d27e4cb9982d%26xcreo%3D0%26xed%3D0%26sref%3Dhttps%3A%2F%2Faprendiendoarduino.wordpress.com%2F2015%2F03%2F23%2Fshields-para-arduino%2F%26pref%3Dhttps%3A%2F%2Fduckduckgo.com%2F%26xtz%3D-60&sa=D&ust=1513946282794000&usg=AFQjCNG-R-W5rKO7B1nhMLypq0BtPiin_A) donde hay una familia sensores y actuadores de conectar y listo asociados.
+  * [Grove Shield](http://wordpress.redirectingat.com/?id%3D725X1342%26site%3Daprendiendoarduino.wordpress.com%26xs%3D1%26isjs%3D1%26url%3Dhttp%3A%2F%2Fwww.seeedstudio.com%2Fdepot%2FGrove-Base-Shield-p-754.html%26xguid%3Dc96fc6b2e8b6e2cd4d30927fb5b4f760%26xuuid%3D943237e103c06b377b37d9b84237ccac%26xsessid%3Dd6ceb3761df5c0a048e8d27e4cb9982d%26xcreo%3D0%26xed%3D0%26sref%3Dhttps%3A%2F%2Faprendiendoarduino.wordpress.com%2F2015%2F03%2F23%2Fshields-para-arduino%2F%26pref%3Dhttps%3A%2F%2Fduckduckgo.com%2F%26xtz%3D-60&sa=D&ust=1513946282794000&usg=AFQjCNG-R-W5rKO7B1nhMLypq0BtPiin_A) donde hay una familia sensores y actuadores de conectar y listo asociados.
 
 Hay tantos que la lista es interminable…
 
 Y otras están orientadas para el uso educativo:
 
-* [Edubásica](https://www.google.com/url?q=http://www.practicasconarduino.com/edubasica/&sa=D&ust=1513946282795000&usg=AFQjCNEF47F_X281uom93Kn-ywSbmYHT3A)[ ](https://www.google.com/url?q=http://www.practicasconarduino.com/edubasica/&sa=D&ust=1513946282795000&usg=AFQjCNEF47F_X281uom93Kn-ywSbmYHT3A)que en Aularagón tenemos [un curso dedicado](https://www.google.com/url?q=http://moodle.catedu.es/course/view.php?id%3D111&sa=D&ust=1513946282796000&usg=AFQjCNGsspGI01oVS4PP1SwjztLu5vP2aA) a esta Shield creada por docentes y para docentes.
-* ¿Y cómo no?: nuestra estrella en este curso [Echinda](https://www.google.com/url?q=http://echidna.es/&sa=D&ust=1513946282796000&usg=AFQjCNFunTuOFCt9IZOkGTWzogcQ0OD3EQ)
+* [Edubásica ](http://www.practicasconarduino.com/edubasica/)que en Aularagón tenemos [un curso dedicado](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/una_placa_de_apoyo_edubsica.html) a esta Shield creada por docentes y para docentes.
+* ¿Y cómo no?: nuestra estrella en este curso [Echinda](http://echidna.es/)
 
 Hay muchas más Shields …. prueba poner las palabras_ Shield Arduino_ en tu buscador.
 
-También hay que nombrar “_entrenadores_” educativos para Arduino, “Kits de principiantes”, etc.. los hay con muchos sensores y otros muy compactos como [Evive](https://www.google.com/url?q=https://www.hackster.io/evive/products/evive&sa=D&ust=1513946282797000&usg=AFQjCNEnLOuE4TLgJ1DtEtGw-X1YRKdBtA): en el [vídeo](https://www.google.com/url?q=https://www.youtube.com/watch?time_continue%3D35%26v%3D3F0_JspobN0&sa=D&ust=1513946282798000&usg=AFQjCNGSPO-_LZPb4pH3iPYWYPi3_JXU1g) explican muy bien las ventajas de utilizar una Shield/entrenador frente a usar la electrónica pura.
+También hay que nombrar “_entrenadores_” educativos para Arduino, “Kits de principiantes”, etc.. los hay con muchos sensores y otros muy compactos como [Evive](https://www.hackster.io/evive/products/evive&sa=D&ust=1513946282797000&usg=AFQjCNEnLOuE4TLgJ1DtEtGw-X1YRKdBtA): en el [vídeo](https://www.youtube.com/watch?time_continue%3D35%26v%3D3F0_JspobN0&sa=D&ust=1513946282798000&usg=AFQjCNGSPO-_LZPb4pH3iPYWYPi3_JXU1g) explican muy bien las ventajas de utilizar una Shield/entrenador frente a usar la electrónica pura.
 
 ### 1.1.2 Ahora sí: ¿Qué es Echidna? {#1-1-2-ahora-s-qu-es-echidna}
 
@@ -54,7 +54,7 @@ Por varias razones:
 * Luz LDR en A5
 * Botones digitales D2 y D3
 * Conexión Bluetooth que da más potencial a nuestros proyectos.
-* Es MakeyMakey: Dos Shields en una: Sensores y [MakeyMakey](https://www.google.com/url?q=https://www.makeymakey.com/&sa=D&ust=1513946282801000&usg=AFQjCNGmwfca8WNbhk924by4KaIzS1HjuQ) por lo tanto da más potencial a nuestros proyectos.\(Tenemos [un curso en Aularagon de MakeyMakey\)](https://www.google.com/url?q=http://moodle.catedu.es/course/view.php?id%3D56&sa=D&ust=1513946282802000&usg=AFQjCNGrr19QzlN8_sn-qEpfskXqkvI28w)
+* Es MakeyMakey: Dos Shields en una: Sensores y [MakeyMakey](https://www.makeymakey.com/&sa=D&ust=1513946282801000&usg=AFQjCNGmwfca8WNbhk924by4KaIzS1HjuQ) por lo tanto da más potencial a nuestros proyectos.\(Tenemos [un curso en Aularagon de MakeyMakey\)](http://moodle.catedu.es/course/view.php?id%3D56&sa=D&ust=1513946282802000&usg=AFQjCNGrr19QzlN8_sn-qEpfskXqkvI28w)
 * Es barato y asequible para la mayoría de los centros.
 * Tiene pines para conexión de otros elementos como relés pero no pueden pasar de 300mA para más potencia es mejor utilizar Shield adaptados para ello como Edubásica.
 
