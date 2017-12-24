@@ -26,6 +26,7 @@
   * [3.1 Botones D2 y D3.](3_entradas_de_echidna/31_botones_d2_y_d3.md)
   * [3.2 El LDR en A5](3_entradas_de_echidna/32_el_ldr_en_a5.md)
     * [3.2.1 Comprobar los límites](3_entradas_de_echidna/32_el_ldr_en_a5/321-comprobar-los-limites.md)
+    * [3.2.2 Semáforo luminoso](3_entradas_de_echidna/32_el_ldr_en_a5/322-semaforo-luminoso.md)
   * [3.3 Joystick](3_entradas_de_echidna/33_joystick.md)
   * [3.4 Acelerómetro](3_entradas_de_echidna/34_acelerometro.md)
 * [4 Modo Makey makey](4_modo_makey_makey/README.md)
