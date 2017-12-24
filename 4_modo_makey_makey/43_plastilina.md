@@ -31,6 +31,7 @@ El resultado en este vídeo:
 
 {% youtube %}https://www.youtube.com/watch?v=zKnOm2Ec3es{% endyoutube %}
 
+**OTROS RETOS**
 Con la plastelina podemos hacer manualidades tipo conecta y que por la pantalla salga el resultado, [aquí tienes un ejemplo](https://www.google.com/url?q=http://aularagon.catedu.es/materialesaularagon2013/scratch/M3plus/plastilina_ii.html&sa=D&ust=1513946282912000&usg=AFQjCNFwzpU5F9iQtbRNQwDbCjsvykPxRw):
 
 ![](/images/image17.png)
