@@ -15,6 +15,5 @@ o sea… que para hacer esta instrucción en mBlock
 ![](/images/image51.png)
 
 necesitas hacer todo esto en Snap4Arduino :
-
-![](/assets/2017-12-24 08_37_42-mBlock - Based On Scratch From the MIT Media Lab(v3.4.11) - Desconectar - No gua.png)
+![](/assets/tonoC4malo.png)
 
