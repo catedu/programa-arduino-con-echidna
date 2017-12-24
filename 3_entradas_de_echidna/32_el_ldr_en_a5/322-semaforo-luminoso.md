@@ -27,5 +27,5 @@ El programa sería el siguiente, donde hemos capturado los semáforos en los tre
 
 El resultado lo puedes ver en [este vídeo](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DMX558VKV_pE&sa=D&ust=1513946282868000&usg=AFQjCNGfVxyWAIq0qEDJW3N48RafvkjefQ):
 
-https://www.youtube.com/watch?v=MX558VKV_pE
+{% youtube %}https://www.youtube.com/watch?v=MX558VKV_pE{% endyoutube %}
 
