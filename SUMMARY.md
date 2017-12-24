@@ -15,6 +15,7 @@
       * [1.2.4.4 no se](tema_1_como_utilizar_echidna/12_como_se_programa_echidna_shield/124-mblock-vs-snap4arduino-cual-es-el-mejor/1244-no-se.md)
       * [1.2.4.5 Entorno amigable](tema_1_como_utilizar_echidna/12_como_se_programa_echidna_shield/124-mblock-vs-snap4arduino-cual-es-el-mejor/1245-entorno-amigable.md)
       * [1.2.4.6 Guardar en la nube y compartir](tema_1_como_utilizar_echidna/12_como_se_programa_echidna_shield/124-mblock-vs-snap4arduino-cual-es-el-mejor/1246-guardar-en-la-nube-y-compartir.md)
+      * [1.2.4.7 IMPORTANTE Subir a Arduino](tema_1_como_utilizar_echidna/12_como_se_programa_echidna_shield/124-mblock-vs-snap4arduino-cual-es-el-mejor/1247-importante-subir-a-arduino.md)
   * [1.3 Hoja de Ruta](tema_1_como_utilizar_echidna/13_hoja_de_ruta.md)
 * [Tema 2 Salidas de Echidna](tema_2_salidas_de_echidna/README.md)
   * [2.1 Luces](tema_2_salidas_de_echidna/21_luces.md)
