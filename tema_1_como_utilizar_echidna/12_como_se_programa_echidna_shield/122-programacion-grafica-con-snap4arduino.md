@@ -1,4 +1,6 @@
-PRIMERO QUÉ ES SNAP4ARDUINO![](/images/image75.png)
+**PRIMERO QUÉ ES SNAP4ARDUINO**
+
+![](/images/image75.png)
 
 Es también un programa gráfico basado en Scratch, multiplataforma, libre y abierto y permite muchas versiones de placa, bibliotecas, etc… evolución del [S4A](https://www.google.com/url?q=http://s4a.cat/&sa=D&ust=1513946282811000&usg=AFQjCNEdbckCIqj5WebbZlaqtG_-QPKViA)
 
