@@ -5,7 +5,7 @@ Tenemos dos opciones:
 *   Programación **mediante lenguajes gráficos**: símbolos, gráficos… tipo [Scratch](https://scratch.mit.edu)
     *   **Ventajas**: Mucho más sencillo e intuitivo, ideal para principiantes, primaria y secundaria.
     *   **Inconvenientes**: No se llega a aprovechar todas las posibilidades del Arduino. 
-    ***Programas**: [Snap4Arduino](http://snap4arduino.rocks), [mBlock](http://www.mblock.cc), [ArduinoBlocks,](http://www.arduinoblocks.com) [Bitbloq](http://bitbloq.bq.com), [S4A](http://s4a.cat) 
+    * **Programas**: [Snap4Arduino](http://snap4arduino.rocks), [mBlock](http://www.mblock.cc), [ArduinoBlocks,](http://www.arduinoblocks.com) [Bitbloq](http://bitbloq.bq.com), [S4A](http://s4a.cat) 
 *   Programación mediante **código**:
     *  ** Ventaja**: Se aprovecha todo el potencial de programación, puesto que se controla todas las variables
     *   **Inconvenientes**: Como toda programación en código, tiene su dificultad pues requiere una abstracción.
