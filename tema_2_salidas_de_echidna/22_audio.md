@@ -1,25 +1,34 @@
 ## 2.2 Audio {#2-2-audio}
 
-RETO
+**RETO**
+Queremos que hagas un programa en el Echidna que:
+* Cuando se pulsa D2 suene una onda cuadrada de 282Hz o sea una duración 0.035 segundos (0.0175seg el bajo y 0.0175 el alto).
+* Si se pulsa el botón D3 que suene el tono C4 que es aproximadamente esa frecuenca.
 
-Vamos a retomar el programa de los tonos, el programa lo puedes descargar de este [repositorio](https://www.google.com/url?q=https://drive.google.com/drive/folders/1pXcRUqMM7q_UK0QhILd9QwLe8KtPCM5m?usp%3Dsharing&sa=D&ust=1513946282847000&usg=AFQjCNHZMNrtgAiR1B5_-RYaSKYpcsL1zQ):
+**SOLUCIÓN**
+La solución seguro que te sonará pues lo hemos visto en el Tema 1.
 
-![](/images/image23.png)
+%accordion%Solución%accordion%
+
+El programa lo puedes descargar de este [repositorio](https://www.google.com/url?q=https://drive.google.com/drive/folders/1pXcRUqMM7q_UK0QhILd9QwLe8KtPCM5m?usp%3Dsharing&sa=D&ust=1513946282847000&usg=AFQjCNHZMNrtgAiR1B5_-RYaSKYpcsL1zQ):
+
+![](/assets/TnoC4.png)
+
+%/accordion%
 
 Si lo ejecutamos desde el ordenador, y pulsamos el botón D2 se oye un tut, tut, tut por los auriculares, ya dijimos en [este apartado](../tema_1_como_utilizar_echidna/12_como_se_programa_echidna_shield.md#1-2-4-7-subir-a-arduino) que la culpa lo tiene tu ordenador: No es capaz de enviar mBlock órdenes al Arduino a la velocidad de 0.00175 segundos. Si pulsamos el botón D3 se oye el tono C4 sin problemas.
 
-La solución consiste en subir al arduino ¿cómo se hace? mira esta [presentación](https://www.google.com/url?q=https://docs.google.com/presentation/d/e/2PACX-1vTkh8pwo-b7LACnD7_ZAfWzYCchZI9H1_uR-tZqgfBRtOPFOaVDH8ognsCNEXA8khLI7UX6ziUQXZsx/pub?start%3Dfalse%26loop%3Dfalse%26delayms%3D3000&sa=D&ust=1513946282848000&usg=AFQjCNF-RkZZDtHb-eWpB2fP4vGzbfAAmg):
+La solución consiste en subir al arduino, ya lo hemos visto en el Tema 1 ¿no te acuerdas? vuelve a ver esta [presentación](https://www.google.com/url?q=https://docs.google.com/presentation/d/e/2PACX-1vTkh8pwo-b7LACnD7_ZAfWzYCchZI9H1_uR-tZqgfBRtOPFOaVDH8ognsCNEXA8khLI7UX6ziUQXZsx/pub?start%3Dfalse%26loop%3Dfalse%26delayms%3D3000&sa=D&ust=1513946282848000&usg=AFQjCNF-RkZZDtHb-eWpB2fP4vGzbfAAmg):
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTkh8pwo-b7LACnD7_ZAfWzYCchZI9H1_uR-tZqgfBRtOPFOaVDH8ognsCNEXA8khLI7UX6ziUQXZsx/embed?start=false&;loop=false&;delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 El resultado es [este vídeo](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DWbA8p_yC-90&sa=D&ust=1513946282849000&usg=AFQjCNGe1jjBxBeK9oFVVTOeXQxUxxFvNg)
 
-https://www.youtube.com/watch?v=WbA8p_yC-90
+{% youtube %} https://www.youtube.com/watch?v=WbA8p_yC-90 {% endyoutube %}
 
-### 2.2.1 No es lo mismo {#2-2-1-no-es-lo-mismo}
+Si pulsamos D2 el sonido es más agudo que pulsando D3 que corresponde a la nota C4 ¿por qué? porque la señal es cuadrada.
 
-Si pulsamos D2 el sonido es más agudo que pulsando D3 que corresponde a la nota C4 ¿por qué?
-
+%accordion%La respuesta anterior no lo entiendo. Pues pulsa aquí%accordion%
 Los cálculos del tiempo de subida y bajada tiempo=0.00175s calculados [anteriormente](../tema_1_como_utilizar_echidna/12_como_se_programa_echidna_shield.md#1-2-4-1-instrucciones-espec-ficas-para-arduino) están bien hechos ¿por qué no reproduce bien el tono de la nota C4? por esto:
 
 ![](/images/image76.png)
@@ -39,3 +48,5 @@ Por lo tanto se oye más agudo, por eso es
 Ya sé que el anterior razonamiento, si lo lee algún físico, le producirá un rechinar de dientes ![](/images/image63.png)
 
 pues para los frikis: … la transformada Fourier de una onda cuadrada produce armónicos de orden superior, incluso infinitos si fuese perfecta..., ja!, pero es mejor ser simple que ser incomprensible.
+
+%/accordion%
