@@ -1,5 +1,3 @@
-#### 1.2.4.8 And winner is … {#1-2-4-8-and-winner-is}
-
 Nosotros le vamos a dar el premio a mBlock
 
 ![](/images/image79.png)
