@@ -27,11 +27,11 @@ El resultado lo puedes ver en [este vídeo](https://www.google.com/url?q=https:/
 
 Por curiosidad puedes ver el mismo programa en **Snap4Arduino **en este vídeo:
 
-{% youtube %} https://www.youtube.com/watch?v=Jzyd5cPb2-Y{% endyoutube %} 
+{% youtube %} https://www.youtube.com/watch?v=j1lsYq6X5-U{% endyoutube %} 
 
 Puedes ver que es mucho más rápido que mBlock.
 
 El programa lo puedes abrir en Snap4Arduino desde [este enlace](https://www.google.com/url?q=http://snap4arduino.org/run%23present:Username%3Djavierquintana%26ProjectName%3Dtelesketch-bueno&sa=D&ust=1513946282879000&usg=AFQjCNFYQVyMwX5ojtqgA0dutS5-GDGQdw).
 
-{% youtube %} https://www.youtube.com/watch?v=j1lsYq6X5-U{% endyoutube %} 
+
 
