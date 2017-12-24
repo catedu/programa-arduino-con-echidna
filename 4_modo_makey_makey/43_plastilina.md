@@ -7,7 +7,9 @@ Con plastilina conductora podemos hacer interesantes proyectos. ¿Cómo se hace 
 Una pega: No dura nada, a los pocos días se endurece o se pudre.
 
 Podemos hacer interesantes proyectos, por ejemplo:
+
 **RETO**
+
 Que un helicóptero se mueva según unos botones hechos de plastilina:
 *   Botón con forma de ⇒
 *   Botón en forma de ⇑
