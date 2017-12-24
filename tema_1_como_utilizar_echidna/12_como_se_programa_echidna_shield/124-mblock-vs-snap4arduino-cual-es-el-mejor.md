@@ -1,4 +1,6 @@
-Siempre es mejor moverse en estándares, actualmente está claro: el lenguaje basado en Scratch, y vamos a centrarnos en dos programas Snap4Arduino o mBock
+Conclusión: mejor el lenguaje gráfico
+
+¿Pero cual? Siempre es mejor moverse en estándares, y actualmente el lenguaje gráfico que está más extendido y donde hay más proyectos es **Scratch**, luego vamos a centrarnos en dos programas que se basan en Scratch: mBlock y Snap pero ¿cual es mejor? Snap4Arduino o mBock
 
 ![](/assets/cooltext270611899434356.gif)
 
