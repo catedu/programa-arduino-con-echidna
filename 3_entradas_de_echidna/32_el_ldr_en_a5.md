@@ -1,6 +1,7 @@
 ## 3.2 El LDR en A5 {#3-2-el-ldr-en-a5}
 
 Primero de todo ¿Qué es un LDR? Vamos a la Wikipedia:
+
 ![](/images/image90.png)
 
 [Fotorresistor](https://www.google.com/url?q=https://es.wikipedia.org/wiki/Fotorresistor&sa=D&ust=1513946282856000&usg=AFQjCNFvI1f7-bBAKWj9CTQacixEY8dZBQ)
