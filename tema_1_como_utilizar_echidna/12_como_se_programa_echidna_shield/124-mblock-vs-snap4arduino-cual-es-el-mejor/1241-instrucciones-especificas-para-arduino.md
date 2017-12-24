@@ -4,11 +4,11 @@ Si entramos en la sección de instrucciones específicas para Arduino, en Snap4A
 
 ![](/images/image58.png) 
 
-Esto parece una tontería pero no lo es: por ejemplo, supongamos que queremos reproducir el tono C4 es más o menos 282Hz:
+Esto parece una tontería pero no lo es: por ejemplo, supongamos que queremos reproducir el tono C4 es más o menos 262Hz:
 
 ![](/images/image85.png)
 
-Luego tiempo que dura la onda es =1/282 = 0.0035 segundos es decir el tiempo de “encendido HIGH” es 0.0035/2= 0.00175seg y el tiempo de “apagado LOW” es  0.0035/2= 0.00175seg.
+Luego tiempo que dura la onda es =1/262 = 0.0038 segundos es decir el tiempo de “encendido HIGH” es 0.0038/2= 0.0019seg y el tiempo de “apagado LOW” es  0.0035/2= 0.0019seg.
 
 o sea… que para hacer esta instrucción en mBlock
 
@@ -16,5 +16,5 @@ o sea… que para hacer esta instrucción en mBlock
 
 necesitas hacer todo esto en Snap4Arduino :
 
-![](/images/image16.png)
+![](/assets/2017-12-24 08_37_42-mBlock - Based On Scratch From the MIT Media Lab(v3.4.11) - Desconectar - No gua.png)
 
