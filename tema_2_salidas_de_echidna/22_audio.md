@@ -2,7 +2,7 @@
 
 **RETO**
 Queremos que hagas un programa en el Echidna que:
-* Cuando se pulsa D2 suene una onda cuadrada de 282Hz o sea una duración 0.035 segundos (0.0175seg el bajo y 0.0175 el alto).
+* Cuando se pulsa D2 suene una onda cuadrada de 282Hz o sea una duración 0.035 segundos (0.0175seg el bajo y 0.0175seg el alto).
 * Si se pulsa el botón D3 que suene el tono C4 que es aproximadamente esa frecuenca.
 
 **SOLUCIÓN**
@@ -28,7 +28,8 @@ El resultado es [este vídeo](https://www.google.com/url?q=https://www.youtube.c
 
 Si pulsamos D2 el sonido es más agudo que pulsando D3 que corresponde a la nota C4 ¿por qué? porque la señal es cuadrada.
 
-%accordion%La respuesta anterior no lo entiendo. Pues pulsa aquí%accordion%
+%accordion%Más explicación%accordion%
+
 Los cálculos del tiempo de subida y bajada tiempo=0.00175s calculados [anteriormente](../tema_1_como_utilizar_echidna/12_como_se_programa_echidna_shield.md#1-2-4-1-instrucciones-espec-ficas-para-arduino) están bien hechos ¿por qué no reproduce bien el tono de la nota C4? por esto:
 
 ![](/images/image76.png)
