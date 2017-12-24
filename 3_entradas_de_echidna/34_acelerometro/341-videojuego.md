@@ -1,6 +1,10 @@
-#### 3.4.1 Videojuego {#3-4-1-videojuego}
+**RETO**
 
-Vamos a realizar un sencillo videojuego, el movimiento de un sprite con el acelerómetro y esquivando objetos.
+Vamos a realizar un sencillo videojuego: Mover un helicóptero, el movimiento de un sprite con el acelerómetro y esquivando edificios que se mueven de derecha a izquierda dando la sensación de que el helicóptero vuela.
+
+El reto te lo complicamos con dos premisas:
+* Reutiliza el "sprite" edificio copiándotelo desde [Scratch](https://scratch.mit.edu/)
+* El helicóptero explota si choca con un edificio
 
 ##### 3.4.1.1 Helicóptero {#3-4-1-1-helic-ptero}
 
