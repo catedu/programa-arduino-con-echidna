@@ -14,20 +14,20 @@ Tiene las siguientes entradas:
 
 *   ANALOGICAS
 
-*   Desde A0 hasta A5 que tenemos que detectarlas si superan un cierto “umbral” que dependerá de lo que conectemos.
+    *   Desde A0 hasta A5 que tenemos que detectarlas si superan un cierto “umbral” que dependerá de lo que conectemos.
 
 *   DIGITALES
 
-*   D2 y D3 aquí es fácil, 0 o 1
-
+    *   D2 y D3 aquí es fácil, 0 o 1
+    
 *   GND o sea el conector que tiene que conectarse a una parte de tu cuerpo y realizarás el puente eléctrico.
 
-Nota:
+_Nota_:
 
 En [Aularagón](https://www.google.com/url?q=http://moodle.catedu.es/&sa=D&ust=1513946282898000&usg=AFQjCNFbbdhoQZIogmh59s6_ZIDyenPqFA) tienes un curso de manejo de la Makey Makey original Scractch avanzado y Makey Makey ¿entonces?¿qué ventajas tiene esta placa con respecto a la original?:
 
-*   Más barata (importante)
-*   2x1 sí, sí, piénsalo: Tienes en la misma placa poder usar los sensores y Makey
-*   Autonomía: Makey necesita un ordenador, nuestra placa Arduino, y si hacemos que nuestro programa lo grabamos al Arduino: Portabilidad total !!
+*   Más **barata **(importante)
+*   **2x1** sí, sí, piénsalo: Tienes en la misma placa poder usar los sensores y Makey
+*   **Autonomía**: Makey necesita un ordenador, nuestra placa Arduino, y si hacemos que nuestro programa se graba al Arduino: _¡¡La portabilidad es total!!_
 
 .
