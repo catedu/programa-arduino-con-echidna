@@ -26,8 +26,6 @@ Realizamos un pequeño programa muy fácil que detecta si hay un obstáculo o no
 
 ![](/images/image26.png)
 
-El resultado es
+El resultado es:
 
-[https://www.youtube.com/watch?v=eSpKITeSonA&;feature=youtu.be](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DeSpKITeSonA%26feature%3Dyoutu.be&sa=D&ust=1513946282925000&usg=AFQjCNHjlWbMFvlr62AVWGNybIKFy9X8RQ)
-
-.
+{% youtube %}https://www.youtube.com/watch?v=eSpKITeSonA&;feature=youtu.be{% endyoutube %}
