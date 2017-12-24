@@ -30,6 +30,8 @@
     * [3.2.3 Tonos según LDR](3_entradas_de_echidna/32_el_ldr_en_a5/323-tonos-segun-ldr.md)
       * [3.2.3.1 Cambios de escala](3_entradas_de_echidna/32_el_ldr_en_a5/323-tonos-segun-ldr/3231-cambios-de-escala.md)
   * [3.3 Joystick](3_entradas_de_echidna/33_joystick.md)
+    * [3.3.1 Telesketch](3_entradas_de_echidna/33_joystick/331-telesketch.md)
+    * [3.3.2 Come bichos](3_entradas_de_echidna/33_joystick/332-come-bichos.md)
   * [3.4 Acelerómetro](3_entradas_de_echidna/34_acelerometro.md)
 * [4 Modo Makey makey](4_modo_makey_makey/README.md)
   * [4.1 ¿Qué es?](4_modo_makey_makey/41_que_es.md)
