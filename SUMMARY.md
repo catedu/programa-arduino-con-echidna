@@ -10,7 +10,7 @@
     * [1.2.4 mBlock vs Snap4Arduino ¿cuál es el mejor?](tema_1_como_utilizar_echidna/12_como_se_programa_echidna_shield/124-mblock-vs-snap4arduino-cual-es-el-mejor.md)
       * [1.2.4.1 Instrucciones específicas para Arduino](tema_1_como_utilizar_echidna/12_como_se_programa_echidna_shield/124-mblock-vs-snap4arduino-cual-es-el-mejor/1241-instrucciones-especificas-para-arduino.md)
       * [1.2.4.2 Importación de librerías](tema_1_como_utilizar_echidna/12_como_se_programa_echidna_shield/124-mblock-vs-snap4arduino-cual-es-el-mejor/1242-importacion-de-librerias.md)
-      * [1.2.4.4 Reutilizar proyectos desde Scratch](tema_1_como_utilizar_echidna/12_como_se_programa_echidna_shield/124-mblock-vs-snap4arduino-cual-es-el-mejor/1244-reutilizar-proyectos-desde-scratch.md)
+      * [ 1.2.4.3 Formas de conexión con Arduino](tema_1_como_utilizar_echidna/12_como_se_programa_echidna_shield/124-mblock-vs-snap4arduino-cual-es-el-mejor/1244-reutilizar-proyectos-desde-scratch.md)
   * [1.3 Hoja de Ruta](tema_1_como_utilizar_echidna/13_hoja_de_ruta.md)
 * [Tema 2 Salidas de Echidna](tema_2_salidas_de_echidna/README.md)
   * [2.1 Luces](tema_2_salidas_de_echidna/21_luces.md)
