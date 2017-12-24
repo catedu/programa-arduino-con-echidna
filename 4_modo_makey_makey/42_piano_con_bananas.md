@@ -21,12 +21,12 @@ El programa es muy sencillo pero repetitivo:
 
 Conectamos cada salida de Makey Makey a unos plátanos y la salida del auricular a unos altavoces de ordenador, en la foto puedes ver que se han utilizado unos cables con cocodrilos, y al subirlo al Arduino no hace falta tener el ordenador, alimentamos el Arduino con un PowerBank o incluso con pilas.
 
-**ATENCIÓN VER 1.3 ALIMENTACION DEL ECHIDNA**
+**ATENCIÓN VER [1.3 ALIMENTACION DEL ECHIDNA](/tema_1_como_utilizar_echidna/13-alimentacion-del-echidna.md)**
 
 Y el [resultado](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DgyBRvFvs3Mk&sa=D&ust=1513946282908000&usg=AFQjCNHAm9mu3pM9P5Ng4GPBU_95yaO3mg) es …
 
-[https://www.youtube.com/watch?v=gyBRvFvs3Mk](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DgyBRvFvs3Mk&sa=D&ust=1513946282909000&usg=AFQjCNHzdS0BVke53U9wKv8zAPmEEMV3VQ)
+{% youtube %} https://www.youtube.com/watch?v=gyBRvFvs3Mk{% endyoutube %} 
 
-No somos buenos artistas, aún así en Catedu tenemos a uno que sabe piano y otro que es músico !
+No somos buenos artistas, aún así en Catedu tenemos a uno que sabe tocar el piano y otro que es músico pero de guitarra!
 
 ![](/images/image35.png)
