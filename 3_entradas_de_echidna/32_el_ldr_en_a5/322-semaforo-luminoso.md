@@ -1,4 +1,5 @@
-RETO Vamos a reutilizar esfuerzos: reutilizar el semáforo visto en [esta sección](../tema_1_como_utilizar_echidna/12_como_se_programa_echidna_shield.md#1-2-1-programaci-n-gr-fica-con-mblock) pero vamos a hacer que se iluminen los colores según la luz:
+**RETO**
+Vamos a reutilizar esfuerzos: reutilizar el semáforo visto en [esta sección](../tema_1_como_utilizar_echidna/12_como_se_programa_echidna_shield.md#1-2-1-programaci-n-gr-fica-con-mblock) pero vamos a hacer que se iluminen los colores según la luz:
 
 | Semáforo | Luz |
 | --- | --- |
@@ -7,7 +8,7 @@ RETO Vamos a reutilizar esfuerzos: reutilizar el semáforo visto en [esta secci�
 | Amarillo | Luz normal |
 | Verde | Mucha luz |
 
-SOLUCIÓN
+%accordion%SOLUCIÓN%accordion%
 
 Según nuestros límites medidos en el anterior programa fijamos nuestras propias fronteras para cumplir el enunciado (puedes poner otros valores parecidos):
 
@@ -21,6 +22,8 @@ Según nuestros límites medidos en el anterior programa fijamos nuestras propia
 El programa sería el siguiente, donde hemos capturado los semáforos en los tres estados utilizando una linterna y nuestra mano para oscurecer el LDR:
 
 ![](/images/image68.png)
+
+%/accordion%
 
 El resultado lo puedes ver en [este vídeo](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DMX558VKV_pE&sa=D&ust=1513946282868000&usg=AFQjCNGfVxyWAIq0qEDJW3N48RafvkjefQ):
 
