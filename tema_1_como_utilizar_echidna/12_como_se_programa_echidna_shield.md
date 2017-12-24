@@ -24,7 +24,7 @@ Nota: Acuerdate en toda esta sección de poner la Echidna en modo Sensor
 
 
 
-#### 1.2.4.1 Instrucciones específicas para Arduino {#1-2-4-1-instrucciones-espec-ficas-para-arduino}
+
 
 
 
