@@ -8,7 +8,7 @@
     * [1.2.2 Programación gráfica con Snap4Arduino](tema_1_como_utilizar_echidna/12_como_se_programa_echidna_shield/122-programacion-grafica-con-snap4arduino.md)
     * [1.2.3 Programación mediante código](tema_1_como_utilizar_echidna/12_como_se_programa_echidna_shield/123-programacion-mediante-codigo.md)
     * [1.2.4 mBlock vs Snap4Arduino ¿cuál es el mejor?](tema_1_como_utilizar_echidna/12_como_se_programa_echidna_shield/124-mblock-vs-snap4arduino-cual-es-el-mejor.md)
-      * 1.2.4.1 Instrucciones específicas para Arduino
+      * [1.2.4.1 Instrucciones específicas para Arduino](tema_1_como_utilizar_echidna/12_como_se_programa_echidna_shield/124-mblock-vs-snap4arduino-cual-es-el-mejor/1241-instrucciones-especificas-para-arduino.md)
   * [1.3 Hoja de Ruta](tema_1_como_utilizar_echidna/13_hoja_de_ruta.md)
 * [Tema 2 Salidas de Echidna](tema_2_salidas_de_echidna/README.md)
   * [2.1 Luces](tema_2_salidas_de_echidna/21_luces.md)
