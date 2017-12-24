@@ -7,7 +7,7 @@ Esta vez no vamos a ser originales, vamos a ser un poco vagos y nos vamos a copi
 ** RETO**
 Vamos a ver un ejemplo con este proyecto [https://scratch.mit.edu/projects/29744/](https://www.google.com/url?q=https://scratch.mit.edu/projects/29744/&sa=D&ust=1513946282890000&usg=AFQjCNEWwHBWiXjFJuaLk0mMV7oYIQlLdQ). El reto que te lanzamos es que funcione la nave espacial con nuestro acelerómetro de la Echidna.
 
-**SOLUCION**
+**SOLUCION CON MBLOCK**
 
 %accordion%Importar un proyecto de Scracth a mBlock%accordion%
 
@@ -39,13 +39,16 @@ También vamos a cambiar el disparador “espacio” por pin digital 2 para disp
 
 ![](/images/image3.png)
 
+%/accordion%
+
+
 El resultado en este vídeo:
 
 {% youtube %}https://www.youtube.com/watch?v=Ps3jB89KIg8&;feature=youtu.be{% endyoutube %}
 
-%/accordion%
+** SOLUCIÓN CON SNAP4ARDUINO ***
 
-Este programa vemos que va lento, RECOMENDAMOS que para la ejecución de proyectos grandes desde el ordenador Snap4Arduino va más rápido, por lo que vamos a ver esta alternativa:
+Este programa vemos que va lento, **RECOMENDAMOS **que para la ejecución de proyectos grandes desde el ordenador Snap4Arduino va más rápido, por lo que vamos a ver esta alternativa:
 
 %accordion%Importar un proyecto de Scratch a Snap4Arduino%accordion%
 
