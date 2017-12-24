@@ -1,7 +1,7 @@
 **RETO**
 Vamos a realizar el mismo ejemplo que [este vídeo de Jorge Lobo](https://www.google.com/url?q=https://www.youtube.com/watch?time_continue%3D8%26v%3DHx5DjQw7e_U&sa=D&ust=1513946282876000&usg=AFQjCNE8mVVKkIwRF0D-0kQn9ojW4gK_hQ) pero en vez de realizado en Snap4Arduino lo vamos a hacer en mBlock.
 
-{% youtube %}https://www.youtube.com/watch?time_continue=8&;v=Hx5DjQw7e_U{% ENDyoutube %}
+{% youtube %}https://www.youtube.com/watch?time_continue=8&;v=Hx5DjQw7e_U{% endyoutube %}
 
 %accordion%Solución%accordion%
 
