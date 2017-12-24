@@ -14,13 +14,15 @@ El programa lo puedes descargar de este [repositorio](https://www.google.com/url
 
 ![](/assets/TnoC4.png)
 
+%/accordion%
+
 Si lo ejecutamos desde el ordenador, y pulsamos el botón D2 se oye un tut, tut, tut por los auriculares, ya dijimos en [este apartado](../tema_1_como_utilizar_echidna/12_como_se_programa_echidna_shield.md#1-2-4-7-subir-a-arduino) que la culpa lo tiene tu ordenador: No es capaz de enviar mBlock órdenes al Arduino a la velocidad de 0.00175 segundos. Si pulsamos el botón D3 se oye el tono C4 sin problemas.
 
 La solución consiste en subir al arduino, ya lo hemos visto en el Tema 1 ¿no te acuerdas? vuelve a ver esta [presentación](https://www.google.com/url?q=https://docs.google.com/presentation/d/e/2PACX-1vTkh8pwo-b7LACnD7_ZAfWzYCchZI9H1_uR-tZqgfBRtOPFOaVDH8ognsCNEXA8khLI7UX6ziUQXZsx/pub?start%3Dfalse%26loop%3Dfalse%26delayms%3D3000&sa=D&ust=1513946282848000&usg=AFQjCNF-RkZZDtHb-eWpB2fP4vGzbfAAmg):
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTkh8pwo-b7LACnD7_ZAfWzYCchZI9H1_uR-tZqgfBRtOPFOaVDH8ognsCNEXA8khLI7UX6ziUQXZsx/embed?start=false&;loop=false&;delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-%/accordion%
+
 
 
 El resultado es [este vídeo](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DWbA8p_yC-90&sa=D&ust=1513946282849000&usg=AFQjCNGe1jjBxBeK9oFVVTOeXQxUxxFvNg)
