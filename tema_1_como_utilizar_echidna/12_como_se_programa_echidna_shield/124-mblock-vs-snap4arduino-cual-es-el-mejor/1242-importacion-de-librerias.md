@@ -1,4 +1,4 @@
-#### 1.2.4.2 Importación de librerías![](/images/image19.png) {#1-2-4-2-importaci-n-de-librer-as}
+![](/images/image19.png)
 
 Snap4Arduino puede importar instrucciones o librerías que pueden aumentar el repertorio de instrucciones.
 
