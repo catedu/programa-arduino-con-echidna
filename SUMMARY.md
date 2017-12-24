@@ -33,6 +33,8 @@
     * [3.3.1 Telesketch](3_entradas_de_echidna/33_joystick/331-telesketch.md)
     * [3.3.2 Come bichos](3_entradas_de_echidna/33_joystick/332-come-bichos.md)
   * [3.4 Acelerómetro](3_entradas_de_echidna/34_acelerometro.md)
+    * [3.4.1 Videojuego](3_entradas_de_echidna/34_acelerometro/341-videojuego.md)
+    * [3.4.2 Reutilizamos del todo: Copiamos el proyecto de otra persona](3_entradas_de_echidna/34_acelerometro/342-reutilizamos-del-todo-copiamos-el-proyecto-de-otra-persona.md)
 * [4 Modo Makey makey](4_modo_makey_makey/README.md)
   * [4.1 ¿Qué es?](4_modo_makey_makey/41_que_es.md)
   * [4.2 Piano con bananas](4_modo_makey_makey/42_piano_con_bananas.md)
