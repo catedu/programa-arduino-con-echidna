@@ -2,15 +2,14 @@
 
 Tenemos dos opciones:
 
-*   Programación mediante lenguajes gráficos: símbolos, gráficos… tipo [Scratch](https://scratch.mit.edu)
-
-*   Ventajas: Mucho más sencillo e intuitivo, ideal para principiantes, primaria y secundaria.
-*   Inconvenientes: No se llega a aprovechar todas las posibilidades del Arduino. Programas: [Snap4Arduino](http://snap4arduino.rocks), [mBlock](http://www.mblock.cc), [ArduinoBlocks,](http://www.arduinoblocks.com) [Bitbloq](http://bitbloq.bq.com), [S4A](http://s4a.cat) 
-*   Programación mediante código:
-
-*   Ventaja: Se aprovecha todo el potencial de programación, puesto que se controla todas las variables
-*   Inconvenientes: Como toda programación en código, tiene su dificultad pues requiere una abstracción.
-*   Programas: [ArduinoIDE](https://www.google.com/url?q=https://www.arduino.cc/en/Main/Software&sa=D&ust=1513946282806000&usg=AFQjCNExOvtkBbrZbOR3YVDNnp8QfwtQIQ).
+*   Programación **mediante lenguajes gráficos**: símbolos, gráficos… tipo [Scratch](https://scratch.mit.edu)
+    *   **Ventajas**: Mucho más sencillo e intuitivo, ideal para principiantes, primaria y secundaria.
+    *   **Inconvenientes**: No se llega a aprovechar todas las posibilidades del Arduino. 
+    ***Programas**: [Snap4Arduino](http://snap4arduino.rocks), [mBlock](http://www.mblock.cc), [ArduinoBlocks,](http://www.arduinoblocks.com) [Bitbloq](http://bitbloq.bq.com), [S4A](http://s4a.cat) 
+*   Programación mediante **código**:
+    *  ** Ventaja**: Se aprovecha todo el potencial de programación, puesto que se controla todas las variables
+    *   **Inconvenientes**: Como toda programación en código, tiene su dificultad pues requiere una abstracción.
+    *   **Programas**: [ArduinoIDE](https://www.google.com/url?q=https://www.arduino.cc/en/Main/Software&sa=D&ust=1513946282806000&usg=AFQjCNExOvtkBbrZbOR3YVDNnp8QfwtQIQ).
 
 Cómo este curso trata del Echidna, que es una shield sencilla, nos decantamos por la programación mediante lenguajes gráficos, no obstante vas a ver las diferencias en el siguiente apartado.
 
@@ -24,38 +23,7 @@ Nota: Acuerdate en toda esta sección de poner la Echidna en modo Sensor
 
 ###  {#-0}
 
-### 1.2.1 Programación gráfica con mBlock {#1-2-1-programaci-n-gr-fica-con-mblock}
 
-**QUE ES MBLOCK**
-****![](/images/image57.png)
-
-Es un programa propietario de la empresa MakeBlock basado en Scratch 2.0 Open Software para sus robots.
-
-Aunque la anterior definición hace pensar que es un programa que no nos interesa, todo lo contrario, pues los robots de Makeblock están basados en Arduino por lo tanto se programa realmente el corazón de Arduino.
-
-Que sea un software propietario, tampoco nos tiene que echar para atrás, pues es gratuito, multiplataforma y nos asegura el mantenimiento y las actualizaciones.
-
-Su página de descarga es [http://www.mblock.cc/](https://www.google.com/url?q=http://www.mblock.cc/&sa=D&ust=1513946282808000&usg=AFQjCNE3m9uTgwFZ8jzxAJQ3FRz0f9bcDQ)
-
-SEGUNDO LA CONFIGURACIÓN DE MBLOCK
-
-En [esta presentación](https://www.google.com/url?q=https://docs.google.com/presentation/d/e/2PACX-1vRLqEoJCT355xMCeCXsd0Wc7JcJRk9JkwLCyzEPb_h1S2IbYKK7OdUf33yWRIXq216Zgh9Da7-gIOq1/pub?start%3Dfalse%26loop%3Dfalse%26delayms%3D3000&sa=D&ust=1513946282809000&usg=AFQjCNEekkJ-_cbSnC5cPSGR97OAvw5UxA) se explica CÓMO SE CONECTA MBLOCK CON EL ARDUINO
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRLqEoJCT355xMCeCXsd0Wc7JcJRk9JkwLCyzEPb_h1S2IbYKK7OdUf33yWRIXq216Zgh9Da7-gIOq1/embed?start=false&;loop=false&;delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-TERCERO VER EL EJEMPLO DEL SEMÁFORO Y ECHIDNA
-
-Ponemos este programa con la Echidna y en mBlock hemos cambiado el disfraz del oso panda por tres semáforos:
-
-![](/images/image64.png)
-
-Y este es el resultado: [Video](https://www.google.com/url?q=https://youtu.be/84Hm0tx5bMo&sa=D&ust=1513946282810000&usg=AFQjCNEKZVGnrAUUEadjBnUwKEYkLkz63w)
-
-https://www.youtube.com/watch?v=84Hm0tx5bMo&;feature=youtu.be
-
-###  {#-1}
-
-###  {#-2}
 
 ### 1.2.2 Programación gráfica con Snap4Arduino {#1-2-2-programaci-n-gr-fica-con-snap4arduino}
 
