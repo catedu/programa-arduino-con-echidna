@@ -27,4 +27,10 @@ Ventajas de subir un programa al Arduino:
 
 1.  Rapidez, tenemos la ventaja del lenguaje con código, el programa se ejecuta a la velocidad del Arduino sin tener el ordenador como intermediario.
 2.  Independencia: Alimentamos el arduino con una batería ¡¡ y funciona !! esto es esencial para proyectos que impliquen movimiento y no queramos tener el ordenador encendido para que funcione.
+#### Aunque...: Rapidez en la simulación
+Aunque Snap4Arduino no sube el programa, sólo simula es mucho más rápido en la simulación que mBlock![](/images/image19.png)
+
+En[ este apartado](../3_entradas_de_echidna/33_joystick.md#3-3-1-telesketch) veremos las diferencias.
+
+
 

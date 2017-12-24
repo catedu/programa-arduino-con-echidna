@@ -40,11 +40,7 @@ Nota: Acuerdate en toda esta sección de poner la Echidna en modo Sensor
 
 
 
-#### 1.2.4.8 Rapidez en la simulación {#1-2-4-8-rapidez-en-la-simulaci-n}
 
-Aunque Snap4Arduino no sube el programa, sólo simula es mucho más rápido en la simulación que mBlock![](/images/image19.png)
-
-En[ este apartado](../3_entradas_de_echidna/33_joystick.md#3-3-1-telesketch) veremos las diferencias.
 
 #### 1.2.4.8 And winner is … {#1-2-4-8-and-winner-is}
 
