@@ -6,7 +6,15 @@ Con plastilina conductora podemos hacer interesantes proyectos. ¿Cómo se hace 
 
 Una pega: No dura nada, a los pocos días se endurece o se pudre.
 
-Podemos hacer interesantes proyectos, por ejemplo este helicóptero que se mueve según unos botones hechos de plastilina:
+Podemos hacer interesantes proyectos, por ejemplo:
+**RETO**
+Que un helicóptero se mueva según unos botones hechos de plastilina:
+*   Botón con forma de ⇒
+*   Botón en forma de ⇑
+*   Botón en forma de ⇓
+*   Botón en forma de ⇐
+
+%accordion%Solución%accordion%
 
 ![](/images/image52.png)
 
@@ -15,9 +23,13 @@ Podemos hacer interesantes proyectos, por ejemplo este helicóptero que se mueve
 *   A5 conectado con la plastelina en forma de ⇓
 *   A2 conectado con la plastelina en forma de ⇐
 
-El umbral se ha cambiado según la sensibilidad del botón. El resultado en [este vídeo](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DzKnOm2Ec3es&sa=D&ust=1513946282911000&usg=AFQjCNFPVecqPTrpXgI8qYBwbQbWoF0wVQ):
+El umbral se ha cambiado según la sensibilidad del botón. 
 
-[https://www.youtube.com/watch?v=zKnOm2Ec3es](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DzKnOm2Ec3es&sa=D&ust=1513946282911000&usg=AFQjCNFPVecqPTrpXgI8qYBwbQbWoF0wVQ)
+%/accordion%
+
+El resultado en este vídeo:
+
+{% youtube %}https://www.youtube.com/watch?v=zKnOm2Ec3es{% endyoutube %}
 
 Con la plastelina podemos hacer manualidades tipo conecta y que por la pantalla salga el resultado, [aquí tienes un ejemplo](https://www.google.com/url?q=http://aularagon.catedu.es/materialesaularagon2013/scratch/M3plus/plastilina_ii.html&sa=D&ust=1513946282912000&usg=AFQjCNFwzpU5F9iQtbRNQwDbCjsvykPxRw):
 
