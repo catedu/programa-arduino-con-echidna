@@ -46,7 +46,7 @@ El resultado en este vídeo:
 
 {% youtube %}https://www.youtube.com/watch?v=Ps3jB89KIg8&;feature=youtu.be{% endyoutube %}
 
-** SOLUCIÓN CON SNAP4ARDUINO ***
+** SOLUCIÓN CON SNAP4ARDUINO **
 
 Este programa vemos que va lento, **RECOMENDAMOS **que para la ejecución de proyectos grandes desde el ordenador Snap4Arduino va más rápido, por lo que vamos a ver esta alternativa:
 
@@ -60,7 +60,9 @@ Para importar un proyecto desde Scratch es un poco más complicado, ver [esta pr
 
 %accordion%Cambios en el código en Snap4Arduino%accordion%
 
-Los cambios en el código son los mismos que los anteriores. ![](/images/image89.png)
+Los cambios en el código son los mismos que los anteriores.
+
+  ![](/images/image89.png)
 
 Recuerda que e[n esta presentación](https://www.google.com/url?q=https://docs.google.com/presentation/d/e/2PACX-1vQ7tr9aNDDuzFcEMFOepVVao5eCKWBBQh3U5emsy5oaN4a-Q8tNkYMWxKyma6xz-gBVL6nLLlmlWuPw/pub?start%3Dfalse%26loop%3Dfalse%26delayms%3D3000&sa=D&ust=1513946282894000&usg=AFQjCNH_vEQY0Dj3hZ-FhPh4qoUqn2RKkw) se enseña cómo configurar Snap4Arduino para que se comunique con nuestro Arduino y la Echidna.
 
