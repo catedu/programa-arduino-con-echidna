@@ -15,5 +15,6 @@ o sea… que para hacer esta instrucción en mBlock
 ![](/images/image51.png)
 
 necesitas hacer todo esto en Snap4Arduino :
+
 ![](/assets/tonoC4malo.png)
 
