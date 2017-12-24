@@ -1,10 +1,10 @@
 ##### Nota con la alimentacion USB: {#nota-con-la-alimentacion-USB}
 
-El Echidna normalmente se alimenta a través de la alimentación USB del Arduino, ya sea cuando está conectado con el ordenador, o cuando se utilizaun PowerBank por ejemplo, o cargador de móvil (esto ocurre cuando Arduino tiene el programa grabado en él y puede vivir sin el ordenador).
+El Echidna **normalmente se alimenta a través de la alimentación USB **del Arduino, ya sea cuando está conectado con el ordenador, o cuando se utiliza un PowerBank por ejemplo, o cargador de móvil (esto ocurre cuando Arduino tiene el programa grabado en él y puede vivir sin el ordenador).
 
 ![](/images/image43.jpg)
 
-Lo que hay que hacer es tener el jumper que tiene arriba a la izquierda conectado a 5V:
+Lo que hay que hacer es que el jumper que tiene arriba a la izquierda tenerlo conectado a 5V:
 
 ![](/assets/2017-12-24 17_09_04-Documento1 - Microsoft Word.png)
 
