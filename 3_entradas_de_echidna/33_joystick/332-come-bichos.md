@@ -1,10 +1,15 @@
-#### 3.3.2 Come bichos {#3-3-2-come-bichos}
-
 No podemos dejar el Joystick sin hacer un videojuego !!
 
-![](/images/image61.png)La siguiente RETO es mover un Sprite “Bat” con el Joystick para atrapar un Beetle
+![](/images/image61.png)
+
+El siguiente **RETO** es:
+_Mover un Sprite “Bat” con el Joystick para atrapar un Beetle_
+* Bat se tiene que mover con el joystick por toda la pantalla.
+* Beetle se muede horizontalmente de el borde derecho hasta el borde izquierdo, y cuando llega al izquierdo, vuelve a aparecer en el derecho (y aleatoriamente desde cualquier altura
 
 ![](/images/image9.png) ![](/images/image60.png)
+
+%accordion%Solución%accordion%
 
 El bicho lo haremos mover bastante rápido y al azar en el eje Y para que lo tenga difícil Bat:
 
@@ -28,9 +33,11 @@ Además hemos añadido la puntuación y el cambio de disfraz para que parezca qu
 
 ![](/images/image10.png)
 
+%/accordion%
+
 El resultado es:
 
-[https://www.youtube.com/watch?v=VERfepEkNv8](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DVERfepEkNv8&sa=D&ust=1513946282883000&usg=AFQjCNH0OIDQrns2VTKR8FmqfVzW1miGqA)
+{% youtube %}  https://www.youtube.com/watch?v=VERfepEkNv8{% endyoutube %}  
 
 Lo sé …. soy bastante malo !!
 
