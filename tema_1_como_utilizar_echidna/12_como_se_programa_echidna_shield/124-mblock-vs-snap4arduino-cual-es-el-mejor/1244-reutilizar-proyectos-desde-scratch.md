@@ -1,4 +1,4 @@
-Formas de conexión con Arduino![](/images/image18.png) {#1-2-4-3-formas-de-conexi-n-con-arduino}
+![](/images/image18.png) 
 
 Vamos a fijarnos las diferentes posibilidades que tiene de conectarse el programa con el Arduino
 
