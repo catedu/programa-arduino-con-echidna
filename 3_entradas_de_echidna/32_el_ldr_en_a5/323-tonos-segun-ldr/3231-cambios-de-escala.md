@@ -1,9 +1,9 @@
-#### 3.2.3.1 Cambios de escala {#3-2-3-1-cambios-de-escala}
+#### Cambios de escala
 
 Nos encontramos que:
 
-*   Los valores de entrada, es decir, el LDR trabaja con unos límites, que según hemos visto en [el apartado comprobar los límites](#3-2-1-comprobar-los-l-mites), el nuestro va de 108 a 982, llamaremos a esta variable de entrada X
-*   Los valores de salida son los tonos,que mBlock trabaja con la norma americana (la europea es el típico DoReMiFaSol) y los americanos, son valores numéricos que van desde 48 hasta 72 (lo puedes comprobar con la instrucción “tocar nota” que está en Programas-Sonido). Llamaremos a la variable salida de notas Y:
+*   Los valores de entrada, es decir, el LDR trabaja con unos límites, que según hemos visto en [el apartado comprobar los límites](#3-2-1-comprobar-los-l-mites), el nuestro va de 108 a 982, llamaremos a esta **variable de entrada X**
+*   Los valores de salida son los tonos,que mBlock trabaja con la norma americana (la europea es el típico Do-Re-Mi-Fa-Sol) y los americanos, son valores numéricos que van desde 48 hasta 72 (lo puedes comprobar con la instrucción “tocar nota” que está en Programas-Sonido). Llamaremos a la **variable salida de notas Y**:
 
 ![](/images/image67.png)
 
@@ -18,7 +18,7 @@ Para calcular m y n tenemos que utilizar un sistema de ecuaciones dadas las cond
 *   Cuando X = 108 quiero que Y valga 48: 48=m*108 + n
 *   Cuando X = 982 quiero que Y valga 72: 72=m*982 + n
 
-Ala! calcula m y n
+Ala! dos ecuaciones y dos incognitas: calcula m y n
 
 ![](/images/image11.png)
 
