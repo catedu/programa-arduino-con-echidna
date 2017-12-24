@@ -1,4 +1,4 @@
-#### 1.2.4.6 Guardar en la nube y compartir![](/images/image19.png) {#1-2-4-6-guardar-en-la-nube-y-compartir}
+![](/images/image19.png)
 
 Snap4Arduino permite grabar tus programas en la nube, esto es una gran ventaja, pues permite al alumnado estar en cualquier ordenador, y seguir trabajando con sus programas que están en su repositorio en Internet.
 
