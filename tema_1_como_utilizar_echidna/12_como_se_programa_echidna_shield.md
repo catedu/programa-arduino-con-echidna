@@ -32,35 +32,11 @@ Nota: Acuerdate en toda esta sección de poner la Echidna en modo Sensor
 
 
 
-#### 1.2.4.4 Reutilizar proyectos desde Scratch {#1-2-4-4-reutilizar-proyectos-desde-scratch}
 
-![](/images/image55.png)
 
-Si vemos un proyecto en Scratch que nos gusta y lo queremos reutilizar lo descargamos, y en mBlock lo podemos abrir, pero no siempre va bien.
 
-Snap4Arduino no acepta ficheros Scratch, pero hay conversores online como [Snapin8r](https://www.google.com/url?q=http://hardmath123.github.io/Snapin8r/&sa=D&ust=1513946282830000&usg=AFQjCNGjVbyRXorjfBpa4SGIpnt1hODCIQ) más explicación en [esta página](https://www.google.com/url?q=http://codigo21.educacion.navarra.es/autoaprendizaje/snap4arduino-ventajas-instalacion-e-importacion-de-proyectos-de-scratch/&sa=D&ust=1513946282831000&usg=AFQjCNE3n062cljvcrnl3qqrTZAHkemzag), y también da problemas. Así que tortazo a los dos !!
 
-Lo veremos mejor más adelante en[ esta sección](../3_entradas_de_echidna/34_acelerometro.md#3-4-2-reutilizamos-del-todo-copiamos-el-proyecto-de-otra-persona).
 
-#### 1.2.4.5 Entorno amigable![](/images/image18.png) {#1-2-4-5-entorno-amigable}
-
-En Snap4Arduino no existe un menú arriba, las opciones no se encuentran tan inmediatamente
-
-![](/images/image62.png)
-
-Mientras que en mBlock es más intuitivo:
-
-![](/images/image70.png)
-
-#### 1.2.4.6 Guardar en la nube y compartir![](/images/image19.png) {#1-2-4-6-guardar-en-la-nube-y-compartir}
-
-Snap4Arduino permite grabar tus programas en la nube, esto es una gran ventaja, pues permite al alumnado estar en cualquier ordenador, y seguir trabajando con sus programas que están en su repositorio en Internet.
-
-![](/images/image32.png)
-
-Incluso puede grabar y compartir con otra persona el proyecto, (la otra persona recibe una copia del programa, no el original), esto permite publicar en un blog por ejemplo los programas.[Ver como.](https://www.google.com/url?q=https://youtu.be/rcnGCMbYJBY&sa=D&ust=1513946282833000&usg=AFQjCNGXgV9jzZl4seU-0Xb5F_OfSFdG8A)
-
-mBlock sólo trabaja en modo local.
 
 #### 1.2.4.7 Subir a Arduino {#1-2-4-7-subir-a-arduino}
 
