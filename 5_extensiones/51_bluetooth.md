@@ -47,7 +47,7 @@ Bah ¿sólo era eso? pues no… ¿puedes interaccionar con el Sprite? por ejempl
 
 Al programar con mBlock fija la velocidad del puerto serie a 115200 baudios, y nuestro HC-06 soporta 9600
 
-Solución: Bajarlo manualmente
+Solución: Bajarlo manualmente, esto se ve mejor en el ejemplo siguiente.
 
 ### 5.1.4 Reto: Encendido y apagado de LEDs con el móvil {#5-1-4-reto-encendido-y-apagado-de-leds-con-el-m-vil}
 
@@ -59,4 +59,6 @@ El resultado y la forma de ejecutarlo está en[ esta presentación:](https://www
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTu_PBSd5olMZaMepTlp_kIVO67NDKiGwi6WCS9I_ECSQlq5SRAPQ5_P1vNMq_zrj6NujU0jTQzLsP8/embed?start=false&;loop=false&;delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-[https://www.youtube.com/watch?v=Zfw3yUtgiNs&;feature=youtu.be](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DZfw3yUtgiNs%26feature%3Dyoutu.be&sa=D&ust=1513946282921000&usg=AFQjCNF5Bg3Rva8oMQF22yGSkmg55jZEIA)
+El resultado es :
+
+{% youtube %}https://www.youtube.com/watch?v=Zfw3yUtgiNs&;feature=youtu.be{% endyoutube %}
