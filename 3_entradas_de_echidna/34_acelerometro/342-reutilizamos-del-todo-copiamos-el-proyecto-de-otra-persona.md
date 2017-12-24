@@ -1,4 +1,3 @@
-
 #### 3.4.2 Reutilizamos del todo: Copiamos el proyecto de otra persona {#3-4-2-reutilizamos-del-todo-copiamos-el-proyecto-de-otra-persona}
 
 Esta vez no vamos a ser originales, vamos a ser un poco vagos y nos vamos a copiar el programa de otra persona

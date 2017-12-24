@@ -58,5 +58,9 @@ Por varias razones:
 * Es barato y asequible para la mayoría de los centros.
 * Tiene pines para conexión de otros elementos como relés pero no pueden pasar de 300mA para más potencia es mejor utilizar Shield adaptados para ello como Edubásica.
 
+**¿Estás preparado? adelante !!!**
+
+<iframe src="https://giphy.com/embed/bvBeK27koljaM" width="470" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/big-bang-theory-sheldon-cooper-the-bigbang-bvBeK27koljaM">via GIPHY</a></p>
+
 
 
