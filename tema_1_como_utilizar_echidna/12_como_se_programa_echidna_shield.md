@@ -28,25 +28,9 @@ Nota: Acuerdate en toda esta sección de poner la Echidna en modo Sensor
 
 
 
-#### 1.2.4.2 Importación de librerías![](/images/image19.png) {#1-2-4-2-importaci-n-de-librer-as}
 
-Snap4Arduino puede importar instrucciones o librerías que pueden aumentar el repertorio de instrucciones.
 
-mBlock también tiene en Extensiones-Administrar extensiones pero no son tan específicas para el Arduino.
 
-![](/images/image50.png)
-
-#### 1.2.4.3 Formas de conexión con Arduino![](/images/image18.png) {#1-2-4-3-formas-de-conexi-n-con-arduino}
-
-Vamos a fijarnos las diferentes posibilidades que tiene de conectarse el programa con el Arduino
-
-![](/images/image47.png)
-
-En Snap4Arduino hay que dar con el botón derecho en el sprite y sólo permite conexiones puerto serie.
-
-Mientras que en mBlock hay un menú con la opción de Conexiones y diferentes caminos para conectarse: Puerto serie, Bluetooth, 2.4G ..
-
-![](/images/image74.png)
 
 #### 1.2.4.4 Reutilizar proyectos desde Scratch {#1-2-4-4-reutilizar-proyectos-desde-scratch}
 
