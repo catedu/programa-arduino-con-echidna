@@ -15,17 +15,7 @@ Lo verás en el Echidna arriba un poco a la derecha, y está conectado a la entr
 
 
 
-### 
 
-###  {#-0}
-
-### 3.2.3 Tonos según LDR {#3-2-3-tonos-seg-n-ldr}
-
-La RETO es la siguiente:
-
-Realizar un programa que suene una nota diferente según la luz
-
-Parece sencillo pero no lo es ¿por qué? Porque hay cambios de escala, el LDR nuestro trabaja con valores distintos al de las notas, por lo tanto hay que hacer UN CAMBIO DE ESCALA, y esto necesita un apartado diferente:
 
 #### 3.2.3.1 Cambios de escala {#3-2-3-1-cambios-de-escala}
 
