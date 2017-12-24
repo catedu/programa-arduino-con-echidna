@@ -1,5 +1,6 @@
 **QUE ES MBLOCK**
-****![](/images/image57.png)
+
+***![](/images/image57.png)
 
 Es un programa propietario de la empresa MakeBlock basado en Scratch 2.0 Open Software para sus robots.
 
