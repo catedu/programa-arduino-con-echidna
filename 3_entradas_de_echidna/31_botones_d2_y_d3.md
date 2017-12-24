@@ -1,12 +1,13 @@
 ## 3.1 Botones D2 y D3. {#3-1-botones-d2-y-d3}
 
-El anterior programa ya es un ejemplo de uso de estos botones digitales que están conectados a los pines digitales 2 y 3 de Arduino luego sólo pueden leer niveles lógicos.
+El anterior programa ya es un ejemplo de uso de estos botones digitales que están conectados a los pines digitales 2 y 3 de Arduino.
+Ten en cuenta que _sólo_ pueden leer niveles lógicos.
 
-RETO1
+**RETO1**
 
-Al pulsar el botón D2 se enciende y al soltarlo se apaga,
+Al pulsar el botón D2 se enciende los 3 leds del Echidna y al soltarlo se apagan.
 
-SOLUCION RETO1:
+%accordion%SOLUCION RETO1:%accordion%
 
 El programa lo vamos a “tunear” un poco, quitando el oso como disfraz y añadiendo dos que sean Leds que previamente son imágenes que hemos descargado de Internet o realizado por nosotros mismos (otra vez ponemos a prueba tus habilidades en el Paint):
 
@@ -15,6 +16,8 @@ El programa lo vamos a “tunear” un poco, quitando el oso como disfraz y aña
 La solución es fácil:
 
 ![](/images/image80.png)
+
+%/accordion%
 
 RETO2
 
