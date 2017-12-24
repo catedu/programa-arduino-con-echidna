@@ -6,3 +6,5 @@ Conclusión: mejor el lenguaje gráfico
 
 ![](/images/image73.png)
 
+<iframe src="https://giphy.com/embed/UkrZKxuX8wjeM" width="480" height="441" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/jim-parsons-UkrZKxuX8wjeM">via GIPHY</a></p>
+
