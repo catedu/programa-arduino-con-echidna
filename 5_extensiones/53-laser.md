@@ -23,19 +23,19 @@ Te proponemos que realices un programa para desactivar una bomba.
 
 **El script que controla si se corta el haz laser que explote** es un condicional que lee el LDR en A5, mientras sea mayor que 900 es que tiene una intensidad de luz muy grande, es decir, le está enfocando el laser, la variable _PARACRONO _es en el caso de que se desactive la bomba, el laser se apagará luego que no se crea que se corta el haz. Si se corta el haz envía un mensaje _Booom _que lo leeran los demás scripts:
 
-![](/assets/2017-12-25 08_03_20-mBlock - Based On Scratch From the MIT Media Lab(v3.4.11) - Desconectar - No gua.png)
+![](/assets/laser (2).png)
 
 **El script que controla la desactivación de la bomba mediante código** es el siguiente. Se aprovecha este script para ENCENDER EL LASER pin digital 4 alto, si se acierta con el código secreto 666, se envía el mensaje _Ufff _al resto de scripts:
 
-![](/assets/2017-12-25 08_07_48-mBlock - Based On Scratch From the MIT Media Lab(v3.4.11) - Desconectar - No gua.png)
+![](/assets/laser (3).png)
 
 **El script que desactiva la bomba** es cuando reciba el mensaje _Ufff _por lo tanto para el cronómetro y apaga el laser:
 
-![](/assets/2017-12-25 08_25_15-mBlock - Based On Scratch From the MIT Media Lab(v3.4.11) - Desconectar - No gua.png)
+![](/assets/laser (3).png)
 
 **El script del tiempo** cuenta de forma descendente, y si finaliza envía el mensaje Boom al resto de scripts, sólo se para si PARACRONO=1
 
-![](/assets/2017-12-25 08_30_50-mBlock - Based On Scratch From the MIT Media Lab(v3.4.11) - Desconectar - No gua.png)
+![](/assets/laser (1).png)
 
 El resto: esconder y mostrar scripts y disfraces se omiten por simplicidad, el programa lo puedes descargar desde el repositorio.
 
