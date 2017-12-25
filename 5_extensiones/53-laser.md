@@ -11,7 +11,7 @@ Te proponemos que realices un programa para desactivar una bomba.
 * La explosión va a ser simulada en el ordenador, no queremos daños físicos, un sonido en el ordenador y en la pantalla una imagen de explosión.
 * Para desactivar la bomba, pulsamos la tecla espacio, y nos pide introducir el código (tienes 10 segundos para darle más entusiasmo, sino explota), si has acertado, el laser se apaga y ya puedes entrar a manipular la bomba.
 
- Luego vamos a no ponernos nerviosos y mantener la serenidad.
+ Luego vamos a no ponernos nerviosos para desactivar la bomba y mantener la serenidad.
  
   <iframe src="https://giphy.com/embed/29SqSyXlyO6WI" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/big-bang-theory-nervous-anxiety-29SqSyXlyO6WI">via GIPHY</a></p>
   
