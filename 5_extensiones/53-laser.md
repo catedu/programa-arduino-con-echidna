@@ -15,7 +15,7 @@ Te proponemos que realices un programa para desactivar una bomba.
  
   <iframe src="https://giphy.com/embed/29SqSyXlyO6WI" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/big-bang-theory-nervous-anxiety-29SqSyXlyO6WI">via GIPHY</a></p>
   
-**%accordion%SOLUCION%accordion% **
+%accordion%SOLUCION%accordion%
 
 **Conexiones** son sencillas, el laser al D4 por ejemplo y hay que tener maña para que apunte al LDR:
 
