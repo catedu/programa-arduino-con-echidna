@@ -49,7 +49,10 @@ Evidentemente a la segunda, y esa pendiente tan vertical corresponde más a onda
 
 Por lo tanto se oye más agudo, por eso es
 
-Ya sé que el anterior razonamiento, si lo lee algún físico, le producirá un rechinar de dientes ![](/images/image63.png)
+Ya sé que el anterior razonamiento, si lo lee algún físico, le producirá un rechinar de dientes 
+
+![](/images/image63.png)
+[via GIPHY](https://giphy.com)
 
 pues para los frikis: … la transformada Fourier de una onda cuadrada produce armónicos de orden superior, incluso infinitos si fuese perfecta..., ja!, pero es mejor ser simple que ser incomprensible.
 

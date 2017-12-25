@@ -44,4 +44,5 @@
   * [5.1 Bluetooth](5_extensiones/51_bluetooth.md)
   * [5.2 Sensor IR](5_extensiones/52_sensor_ir.md)
   * [5.3 Laser](5_extensiones/53-laser.md)
+* [Créditos](creditos.md)
 
