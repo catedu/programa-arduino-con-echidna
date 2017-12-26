@@ -35,7 +35,7 @@ Pero tal y como está redactado, el RETO2 tiene que memorizar el estado anterior
 
 No pasa nada si no lo entiendes del todo, es teoría.
 
-La programación se complica añadiendo una variable que recuerde lo que ha pasado antes la vamos a llamar encendido que recordará si está encendido los leds o no:
+La programación se complica **necesitamos añadir una variable que recuerde lo que ha pasado antes ** la vamos a llamar _encendido _que recordará si está encendido los leds o no:
 
 ![](/images/image56.png)
 
