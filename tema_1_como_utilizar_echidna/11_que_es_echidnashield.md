@@ -35,24 +35,22 @@ También hay que nombrar “_entrenadores_” educativos para Arduino, “Kits d
 
 Es una Shield de Arduino diseñada para facilitar la programación del Arduino en los últimos cursos de primaria y primeros de secundaria, pensado en minimizar el cableado de la electrónica \(ya lo sabemos pues es una Shield\) y enfocado a nivel educativo y al lenguaje por símbolos
 
-_¿Por qué hemos elegido esta Shield?_
+_¿Por qué hemos elegido esta Shield?_ Por que tiene un buen equilibrio calidad/precio sencillez/potencial orientado a últimos cursos de primaria, primeros de secundaria:
 
-Por varias razones:
-
-* Es OpenHardware, por lo tanto es un proyecto con garantías de estabilidad, libre, colaborativo y vivo, con la misma filosofía que la placa Arduino.
-* Salidas acertadas:
-* Diodos Red D13, Orange D12 y Green D11.
-* Diodo de 3 colores RGB gobernados por D9, D5 y D6 respectivamente.
-* Audio en D10.
-* Entradas o sensores acertados:
-* Joystick \(estupendo para hacer proyectos atractivos\) xy con A0 y A1
-* Acelerómetro \(idem\) xy en A2 y A3
-* Luz LDR en A5
-* Botones digitales D2 y D3
-* Conexión Bluetooth que da más potencial a nuestros proyectos.
-* Es MakeyMakey: Dos Shields en una: Sensores y [MakeyMakey](https://www.makeymakey.com) por lo tanto da más potencial a nuestros proyectos.\(Tenemos [un curso en Aularagon de MakeyMakey\)](http://moodle.catedu.es)
-* Es barato y asequible para la mayoría de los centros.
-* Tiene pines para conexión de otros elementos como relés pero no pueden pasar de 300mA para más potencia es mejor utilizar Shield adaptados para ello como Edubásica.
+* Es **OpenHardware**, por lo tanto es un proyecto con garantías de estabilidad, libre, colaborativo y vivo, con la misma filosofía que la placa Arduino.
+* **Salidas acertadas**:
+  * Diodos Red D13, Orange D12 y Green D11.
+  * Diodo de 3 colores RGB gobernados por D9, D5 y D6 respectivamente.
+  * Audio en D10.
+* **Entradas o sensores acertados**:
+  * Joystick \(estupendo para hacer proyectos atractivos\) xy con A0 y A1
+  * Acelerómetro \(idem\) xy en A2 y A3
+  * Luz LDR en A5
+  * Botones digitales D2 y D3
+* **Es MakeyMakey**: ¡Dos Shields en una!: Sensores y [MakeyMakey](https://www.makeymakey.com) por lo tanto da más potencial a nuestros proyectos.\(Tenemos [un curso en Aularagon de MakeyMakey\)](http://moodle.catedu.es)
+* **Conexión a periféricos**:
+  * Bluetooth que da más potencial a nuestros proyectos.
+  * Tiene pines para conexión de otros elementos como relés pero no pueden pasar de 300mA para más potencia es mejor utilizar Shield adaptados para ello como Edubásica.
 
 **¿Estás preparado? adelante !!!**
 
