@@ -12,15 +12,15 @@ Tiene las siguientes entradas:
 
 ![](/images/image59.png)
 
-*   ANALOGICAS
+*   **ANALOGICAS**
 
     *   Desde A0 hasta A5 que tenemos que detectarlas si superan un cierto “umbral” que dependerá de lo que conectemos.
 
-*   DIGITALES
+*   **DIGITALES**
 
     *   D2 y D3 aquí es fácil, 0 o 1
     
-*   GND o sea el conector que tiene que conectarse a una parte de tu cuerpo y realizarás el puente eléctrico.
+*   **GND **o sea el conector que tiene que conectarse a una parte de tu cuerpo para crear el puente eléctrico.
 
 _Nota_:
 
