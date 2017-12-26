@@ -27,6 +27,6 @@ Y el [resultado](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D
 
 {% youtube %} https://www.youtube.com/watch?v=gyBRvFvs3Mk{% endyoutube %} 
 
-No somos buenos artistas, aún así en Catedu tenemos a uno que sabe tocar el piano y otro que es músico pero de guitarra!
+En el kit que te prestamos para hacer este curso no están incluidos los plátanos, así que cálzate y baja a comprar unos y prepara un karaoke esta noche con tus amigos.
 
 ![](/images/image35.png)
