@@ -27,7 +27,7 @@ _Nota_:
 En [Aularagón](https://www.google.com/url?q=http://moodle.catedu.es/&sa=D&ust=1513946282898000&usg=AFQjCNFbbdhoQZIogmh59s6_ZIDyenPqFA) tienes un curso de manejo de la Makey Makey original Scractch avanzado y Makey Makey ¿entonces?¿qué ventajas tiene esta placa con respecto a la original?:
 
 *   Más **barata **(importante)
-*   **2x1** sí, sí, piénsalo: Tienes en la misma placa poder usar los sensores y Makey
+*   **2x1** sí, sí, piénsalo: Tienes en la misma placa una Shield educativa con sensores y a le vez una Makey makey,
 *   **Autonomía**: Makey necesita un ordenador y nuestra Echidna necesita Arduino ¿quien gana en simplicidad? si hacemos que nuestro programa se graba al Arduino: _¡¡La portabilidad es total!!_
 
 .
