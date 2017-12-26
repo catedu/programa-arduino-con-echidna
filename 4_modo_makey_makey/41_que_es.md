@@ -1,8 +1,8 @@
 ## 4.1 ¿Qué es? {#4-1-qu-es}
 
-Es una placa que se inventó en 2010 que permite conectar cualquier cosa que conduzca mínimamente la electricidad en entrada por el puerto USB. Para que lo entiendas bien, mira este[ vídeo](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DrfQqh7iCcOU&sa=D&ust=1513946282896000&usg=AFQjCNHvCOl92mgZUc5OxQA81LPCyNqxeQ):
+Es una placa que se inventó en 2010 que permite conectar cualquier cosa que conduzca mínimamente la electricidad en entrada por el puerto USB. Para que lo entiendas bien, mira este vídeo:
 
-[https://www.youtube.com/watch?v=rfQqh7iCcOU](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DrfQqh7iCcOU&sa=D&ust=1513946282896000&usg=AFQjCNHvCOl92mgZUc5OxQA81LPCyNqxeQ)
+{% youtube %}https://www.youtube.com/watch?v=rfQqh7iCcOU{% endyoutube %}
 
 Nuestra placa tiene esta función, pero en vez de ser una entrada por el puerto USB es una entrada por Arduino que podemos leer, luego en esta sección cambia nuestra placa Echidna el modo sensor a modo makey makey
 
