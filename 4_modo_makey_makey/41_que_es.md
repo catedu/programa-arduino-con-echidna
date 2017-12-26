@@ -28,6 +28,6 @@ En [Aularagón](https://www.google.com/url?q=http://moodle.catedu.es/&sa=D&ust=1
 
 *   Más **barata **(importante)
 *   **2x1** sí, sí, piénsalo: Tienes en la misma placa poder usar los sensores y Makey
-*   **Autonomía**: Makey necesita un ordenador, nuestra placa Arduino, y si hacemos que nuestro programa se graba al Arduino: _¡¡La portabilidad es total!!_
+*   **Autonomía**: Makey necesita un ordenador y nuestra Echidna necesita Arduino ¿quien gana en simplicidad? si hacemos que nuestro programa se graba al Arduino: _¡¡La portabilidad es total!!_
 
 .
