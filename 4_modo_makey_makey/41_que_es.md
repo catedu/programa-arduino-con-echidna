@@ -22,12 +22,15 @@ Tiene las siguientes entradas:
     
 *   **GND **o sea el conector que tiene que conectarse a una parte de tu cuerpo para crear el puente eléctrico.
 
-_Nota_:
-
-En [Aularagón](https://www.google.com/url?q=http://moodle.catedu.es/&sa=D&ust=1513946282898000&usg=AFQjCNFbbdhoQZIogmh59s6_ZIDyenPqFA) tienes un curso de manejo de la Makey Makey original Scractch avanzado y Makey Makey ¿entonces?¿qué ventajas tiene esta placa con respecto a la original?:
+Entonces... ¿qué ventajas tiene esta placa con respecto a la original?:
 
 *   Más **barata **(importante)
 *   **2x1** sí, sí, piénsalo: Tienes en la misma placa una Shield educativa con sensores y a le vez una Makey makey,
 *   **Autonomía**: Makey necesita un ordenador y nuestra Echidna necesita Arduino ¿quien gana en simplicidad? si hacemos que nuestro programa se graba al Arduino: _¡¡La portabilidad es total!!_
+
+
+_Nota_:
+
+En [Aularagón](https://www.google.com/url?q=http://moodle.catedu.es/&sa=D&ust=1513946282898000&usg=AFQjCNFbbdhoQZIogmh59s6_ZIDyenPqFA) tienes un curso de manejo de la Makey Makey original con el curso Scractch avanzado y Makey Makey 
 
 .
