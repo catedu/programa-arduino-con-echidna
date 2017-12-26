@@ -1,3 +1,5 @@
+## 5.3. Láser {#5-3-laser}
+
 Hemos visto anteriormente una entrada digital sencilla con el sensor IR, ahora vamos a ver una salida digital muy simple, buscando siempre la motivación en nuestros proyectos: El diodo Laser.
 
 ![](/assets/2017-12-25 07_35_11-Encender un diodo láser con Arduino.png)
