@@ -2,7 +2,7 @@
 
 ### 1.1.1 Primero ¿qué es Arduino? ¿qué es una Shield? {#1-1-1-primero-qu-es-arduino-qu-es-una-shield}
 
-**¿Qué es Arduino?** Pues no podemos explicarlo en este curso, suponemos que lo conoces,  te recomendamos que [visites nuestro curso Arduino con código y Edubasica en esta página](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/index0.html), si la lees verás que tiene un inconveniente: Arduino es una placa microcontroladora orientado para las entradas y las salidas tanto analógicas como digitales, pero…. **tienes que ponerlas**, y eso implica cableado y electrónica.
+**¿Qué es Arduino?** Pues no podemos explicarlo en este curso, _suponemos que lo conoces_,  te recomendamos que [visites nuestro curso Arduino con código y Edubasica en esta página](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/index0.html), si la lees verás que Arduino tiene un inconveniente: Arduino es una placa microcontroladora orientado para las entradas y las salidas tanto analógicas como digitales, pero…. **"tienes que ponerlas"**, evidentemente, y eso implica cableado y electrónica.
 
 Una solución es utilizar una Shield, está adaptado para ponerlo encima e incluso hay posibilidad utilizar varias a la vez.
 
@@ -22,18 +22,14 @@ Hay muchas en el mercado:
 * Para entradas concretas
   * [OpenEnergy Medidor Medidor de magnitudes eléctricas](http://arduino.cl/arduino-energy-shield/)
 * Para facilitar la conexión de sensores y actuadores
-  * [Grove Shield](https://www.seeedstudio.com/Grove-Base-Shield-p-754.html) donde hay una _**familia sensores y actuadores de conectar y listo**_ asociados, veremos en la unidad 5 que Echidna tiene 3 I/O digitales y una analógica para estos sensores, es decir es también una versión pequeña Grove Shield que nos permitirá hacer robots .
+  * [Grove Shield](https://www.seeedstudio.com/Grove-Base-Shield-p-754.html) donde hay una _**familia sensores y actuadores de conectar y listo**_ asociados, por cierto... veremos [en la unidad 5](/5_extensiones/README.md) que Echidna tiene 3 I/O digitales y una analógica para estos sensores, es decir, es también_ una versión pequeña Grove Shield_ que nos permitirá crear buenos proyectos .
 
-Hay tantos que la lista es interminable…
-
-Y otras están orientadas para el uso educativo:
+Hay tantas Shields comerciales que la lista es interminable…, prueba poner las palabras_ Shield Arduino_ en tu buscador. Pero centrémosno, lo que nos interesa aquí es el punto educativo: Hay otras están orientadas para **el uso educativo**:
 
 * [Edubásica ](http://www.practicasconarduino.com/edubasica/)que en Aularagón tenemos [un curso dedicado](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/una_placa_de_apoyo_edubsica.html) a esta Shield creada por docentes y para docentes.
 * ¿Y cómo no?: nuestra estrella en este curso [Echinda](http://echidna.es/)
 
-Hay muchas más Shields …. prueba poner las palabras_ Shield Arduino_ en tu buscador.
-
-También hay que nombrar “_entrenadores_” educativos para Arduino, “Kits de principiantes”, etc.. los hay con muchos sensores y otros muy compactos como [Evive](https://evive.cc/): por cierto explican muy bien las ventajas de utilizar una Shield/entrenador frente a usar la electrónica pura.
+También hay que nombrar “_entrenadores_” educativos para Arduino, “Kits de principiantes”, etc.. los hay con muchos sensores y otros muy compactos, visita por curiosidad uno: [Evive](https://evive.cc/), pues explican muy bien las ventajas de utilizar una Shield/entrenador frente a usar la electrónica pura.
 
 ### 1.1.2 Ahora sí: ¿Qué es Echidna? {#1-1-2-ahora-s-qu-es-echidna}
 
