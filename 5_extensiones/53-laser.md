@@ -48,6 +48,10 @@ El resultado es
 
 {% youtube %}https://www.youtube.com/watch?v=i282JU35m2k{% endyoutube %}
 
+** OTRO RETO**
+Una alarma: Si se corta el haz, hay 10 segundos para desactivarlo con código, sino, se dispara una alarma
+No ponemos la solución ¡¡ponlo tú en [el muro](/muro.md) !!
+
 
 
 
