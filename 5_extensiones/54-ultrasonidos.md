@@ -32,7 +32,9 @@ Por lo tanto el programa es (sólo se visualiza una parte, el resto es continuar
 El resultado es :
 {% youtube %}https://www.youtube.com/watch?v=7s1LDSDaA_A&feature=youtu.be{% endyoutube%}
 
-Los siguientes retos, aunque las imágenes se ve que no están hechos con Echidna, da igual, es simplemente conectar el trig y echo en los pines D4 y D7 del Echidna y utilizar la instrucción de _"lee el sensor ultrasónico trig pin 4 echo pin 7"_ (o utilizar otro orden o el D8 si te pones revelde y cambiar los números anteriores)
+Los siguientes retos, aunque las imágenes se ve que no están hechos con Echidna, da igual, es simplemente conectar el trig y echo en los pines D4 y D7 del Echidna y utilizar la instrucción de _"lee el sensor ultrasónico trig pin 4 echo pin 7"_ (o utilizar otro orden o el D8 si te pones revelde y cambiar los números anteriores) **¿Te atreves a hacerlos todos ?**
+
+<iframe src="https://giphy.com/embed/aCrRttmzK1jKo" width="480" height="394" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/yes-the-big-bang-theory-sheldon-cooper-aCrRttmzK1jKo">via GIPHY</a></p>
 
 ** RETO HINCAR UNA PELOTA **
 Pon de sprite una pelota y que se hinche a medida que acercas un objeto al ultrasonidos.
