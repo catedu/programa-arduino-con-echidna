@@ -37,15 +37,22 @@ Los siguientes retos, aunque las imágenes se ve que no están hechos con Echidn
 ** RETO HINCAR UNA PELOTA **
 Pon de sprite una pelota y que se hinche a medida que acercas un objeto al ultrasonidos.
 [Solución](https://catedu.gitbooks.io/ensena-pensamiento-computacional-con-arduino/content/ultrasonidos.html)
+
 **RETO PIANO INVISIBLE**
+
 Que suene una nota según la distancia del objeto.
 [Solución](https://catedu.gitbooks.io/ensena-pensamiento-computacional-con-arduino/content/piano_invisible_con_ultrasonidos.html)
+
 **RETO RADAR CON INTERMITENCIA DE UN LED**
+
 Cuanto más cerca está un objeto, más rápido un led se enciende y apaga.
 [Solución](https://catedu.gitbooks.io/ensena-pensamiento-computacional-con-arduino/content/con_un_led.html)
+
 **RETO SENSOR PARKING**
+
 Cuanto más cerca está un objeto, más rápido suena un pitido intermitente
 [Solución](https://catedu.gitbooks.io/ensena-pensamiento-computacional-con-arduino/content/con_altavoz_del_pc.html)
+
 
 
  
