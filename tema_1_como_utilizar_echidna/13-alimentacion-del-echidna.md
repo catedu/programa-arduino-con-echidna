@@ -8,15 +8,21 @@ Lo que hay que hacer es que el jumper que tiene arriba a la izquierda tenerlo co
 
 ![](/assets/2017-12-24 17_09_04-Documento1 - Microsoft Word.png)
 
-## Alimantacion a pilas: {#nota-con-la almentacion-a-pilas}
+**No utilizar la alimentación 5V cuando los [servos o dispositivos](/5_extensiones/README.md) a controlar consuman más de 300mA**, para no sobrepasar el regulador del Arduino, en este caso utilizar la alimentación externa:
 
-Arduino se puede alimentar con un portapilas, sin ningún problema (también este caso es cuando está independiente del ordenador)
+## Alimentacion externa: {#nota-con-la almentacion-externa}
+
+Arduino se puede alimentar con un portapilas o fuente de alimentación, sin ningún problema, con un rango desde 9V hasta 12V.
 
 ![](/images/image5.png)
 
-Pero hay que cambiar en este caso el Echidna, hay que decirle que la alimentación no es por 5V sino por **Vin**, pues el Arduino también se alimenta por Vin, esto se hace cambiando el jumper, aunque realmente esto sólo es importante cuando se utilizan [las extensiones](/5_extensiones/README.md):
+Pero hay que decirle al Echidna que la alimentación no es por 5V sino por **Vin**, pues el Arduino también se alimenta por Vin, esto se hace cambiando el jumper:
 
 ![](/images/image69.png)
+
+**Nota**:
+
+Es posible que en ocasiones nos interese utilizar **las dos alimentaciones a la vez**, por ejemplo queremos usar el Arduino dependiendo del ordenador, porque queremos por ejemplo que interactue con el _Sprite oso panda del mBlock_ (por lo tanto está conectado al cable USB) pero _las extensiones que queremos conectar necesitan potencia _(más de 300mA) por lo tanto conectamos también un portapilas o fuente de alimentación, así pues estamos obligados de decirle al Echidna que alimente las extensiones por Vin cambiando el jumper a Vin.
 
 
 
