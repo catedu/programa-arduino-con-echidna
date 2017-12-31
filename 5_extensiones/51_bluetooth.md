@@ -62,3 +62,7 @@ El resultado y la forma de ejecutarlo está en[ esta presentación:](https://www
 El resultado es :
 
 {% youtube %}https://www.youtube.com/watch?v=Zfw3yUtgiNs&;feature=youtu.be{% endyoutube %}
+
+O sea, ya podemos jugar con el móvil y con nuestro Echidna !!!
+<iframe src="https://giphy.com/embed/4K0kLjAFNgzao" width="425" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/phone-the-big-bang-theory-4K0kLjAFNgzao">via GIPHY</a></p>
+
