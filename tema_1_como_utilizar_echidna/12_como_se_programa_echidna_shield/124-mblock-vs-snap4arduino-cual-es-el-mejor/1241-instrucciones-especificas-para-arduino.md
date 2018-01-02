@@ -1,3 +1,5 @@
+##1.2.4.1 Instrucciones específicas para Arduino
+
 ![](/images/image18.png)
 
 Si entramos en la sección de instrucciones específicas para Arduino, en Snap4Arduino sólo tenemos las instrucciones básicas simples, a partir de estas piezas tienes que hacer el puzzle. Mientras que en mBlock tenemos más instrucciones que nos simplifican los programas pues la misma instrucción implican varias de las simples básicas:
