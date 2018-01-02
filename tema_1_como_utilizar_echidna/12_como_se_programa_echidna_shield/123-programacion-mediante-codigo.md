@@ -11,7 +11,7 @@ Aquí no hay que instalar ningún Firmware, pues el código, o sea tú programa,
 
 **TERCERO EL EJEMPLO SEMÁFORO CON CÓDIGO**
 
-Aquí es donde vemos que la programación no es apropiada para Primaria, y la explicación de cada línea necesitaría un curso entero. ([Como el que hay en Aularagón !](https://www.google.com/url?q=http://moodle.catedu.es/course/view.php?id%3D111&sa=D&ust=1513946282817000&usg=AFQjCNERjSWHukwxmzhifvfPZT29ynCGJw) ).
+Aquí es donde vemos que la programación no es apropiada para Primaria, y la explicación de cada línea necesitaría un curso entero. ([Como el que hay en Aularagón !](https://www.google.com/url?q=http://moodle.catedu.es/course/view.php?id%3D111&sa=D&ust=1513946282817000&usg=AFQjCNERjSWHukwxmzhifvfPZT29ynCGJw) ) pero si eres un poco _pito_ seguro que eres capaz de leerlo intuitivamente sin problemas.
 
 ```cpp
 
