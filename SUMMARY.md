@@ -11,7 +11,6 @@
       * [1.2.4.1 Instrucciones específicas para Arduino](tema_1_como_utilizar_echidna/12_como_se_programa_echidna_shield/124-mblock-vs-snap4arduino-cual-es-el-mejor/1241-instrucciones-especificas-para-arduino.md)
       * [1.2.4.2 Importación de librerías](tema_1_como_utilizar_echidna/12_como_se_programa_echidna_shield/124-mblock-vs-snap4arduino-cual-es-el-mejor/1242-importacion-de-librerias.md)
       * [ 1.2.4.3 Formas de conexión con Arduino](tema_1_como_utilizar_echidna/12_como_se_programa_echidna_shield/124-mblock-vs-snap4arduino-cual-es-el-mejor/1244-reutilizar-proyectos-desde-scratch.md)
-      * [error](tema_1_como_utilizar_echidna/12_como_se_programa_echidna_shield/124-mblock-vs-snap4arduino-cual-es-el-mejor/1244-reutilizar-proyectos-desde-scratch.md)
       * [1.2.4.4 Reutilizar proyectos desde Scratch](tema_1_como_utilizar_echidna/12_como_se_programa_echidna_shield/124-mblock-vs-snap4arduino-cual-es-el-mejor/1244-no-se.md)
       * [1.2.4.5 Entorno amigable](tema_1_como_utilizar_echidna/12_como_se_programa_echidna_shield/124-mblock-vs-snap4arduino-cual-es-el-mejor/1245-entorno-amigable.md)
       * [1.2.4.6 Guardar en la nube y compartir](tema_1_como_utilizar_echidna/12_como_se_programa_echidna_shield/124-mblock-vs-snap4arduino-cual-es-el-mejor/1246-guardar-en-la-nube-y-compartir.md)
