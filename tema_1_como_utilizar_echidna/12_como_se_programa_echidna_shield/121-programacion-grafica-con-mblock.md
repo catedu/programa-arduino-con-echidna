@@ -1,4 +1,6 @@
-**PRIMERO QUÉ ES MBLOCK**
+## 1.2.1 PROGRAMACIÓN GRÁFICA MBLOCK
+
+###PRIMERO QUÉ ES MBLOCK
 
 ***![](/images/image57.png)
 
@@ -10,13 +12,13 @@ Que sea un software propietario, tampoco nos tiene que echar para atrás, pues e
 
 Su página de descarga es [http://www.mblock.cc/](http://www.mblock.cc)
 
-**SEGUNDO LA CONFIGURACIÓN DE MBLOCK**
+###SEGUNDO LA CONFIGURACIÓN DE MBLOCK
 
 En esta presentación se explica CÓMO SE CONECTA MBLOCK CON EL ARDUINO
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRLqEoJCT355xMCeCXsd0Wc7JcJRk9JkwLCyzEPb_h1S2IbYKK7OdUf33yWRIXq216Zgh9Da7-gIOq1/embed?start=false&;loop=false&;delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-**TERCERO VER EL EJEMPLO DEL SEMÁFORO Y ECHIDNA**
+###TERCERO VER EL EJEMPLO DEL SEMÁFORO Y ECHIDNA
 
 Ponemos este programa con la Echidna y en mBlock hemos cambiado el disfraz del oso panda por tres semáforos:
 
