@@ -1,15 +1,15 @@
-**PRIMERO QUÉ ES "MEDIANTE CODIGO" **
+### PRIMERO QUÉ ES "MEDIANTE CODIGO"
 
 Es la forma de trabajar de forma profesional el Arduino: con su lenguaje código, en realidad, los otros lenguajes traducen el programa gráfico en lenguaje código Arduino, es decir son meros intermediarios.
 ![](/images/image20.png)
 
 El programa se puede descargar de su web oficial, aunque también hay una versión online [https://www.arduino.cc/](https://www.google.com/url?q=https://www.arduino.cc/&sa=D&ust=1513946282816000&usg=AFQjCNHa3tcU0VmaAnThGmZXHCiV-qpDug)
 
-**SEGUNDO LA CONFIGURACIÓN**
+### SEGUNDO LA CONFIGURACIÓN
 
 Aquí no hay que instalar ningún Firmware, pues el código, o sea tú programa, es el mismo “firmware”. Digamos que no necesitas intermediarios si tratas con el agricultor ;)
 
-**TERCERO EL EJEMPLO SEMÁFORO CON CÓDIGO**
+### TERCERO EL EJEMPLO SEMÁFORO CON CÓDIGO
 
 Aquí es donde vemos que la programación no es apropiada para Primaria, y la explicación de cada línea necesitaría un curso entero. ([Como el que hay en Aularagón !](https://www.google.com/url?q=http://moodle.catedu.es/course/view.php?id%3D111&sa=D&ust=1513946282817000&usg=AFQjCNERjSWHukwxmzhifvfPZT29ynCGJw) ) pero si eres un poco _pito_ seguro que eres capaz de leerlo intuitivamente sin problemas.
 
@@ -52,6 +52,8 @@ Este programa se escribe (o copia y pega ¡es un texto !!) en el software del Ar
 
 {% youtube %}https://www.youtube.com/watch?v=S8dQdCqOtto&;feature=youtu.be{% endyoutube %}
 
+###Desventaja
+
 En este programa queremos que te fijes en una **desventaja**: La interacción con el ordenador se pierde frente a mBlock y Snap4Arduino:
 
 *   En los lenguajes gráficos, tenemos a **interacción con el ordenador** igual que en Scratch: si te fijas en la pantalla el dibujo del semáforo va cambiando de disfraz para representar los colores de la luz que se enciende a la vez que en el Arduino.
@@ -59,7 +61,11 @@ En este programa queremos que te fijes en una **desventaja**: La interacción co
 
 Esto lo vemos como una **desventaja** desde el punto de vista de la enseñanza de la programación pues perdemos el potencial de interactuar con los elementos del ordenador crear personajes, disfraces, sonidos, teclado…, es decir **el sprite** (el oso panda que aparece por defecto en mBlock, la flecha que aparece por defecto en Snap4Arduino o el que nosotros creamos, como este ejemplo el dibujo del semáforo).
 
+###Ventaja
+
 Pero… (siempre hay un “pero” para estropear la fiesta) la programación en código tiene una **ventaja**: Se graba en el Arduino, no hay ningún intermediario entre nuestro programa y el Arduino (en mBlock y Snap está el ordenador), quien manda en el Arduino es nuestro programa, no nuestro ordenador, esto se traduce en: **rapidez !**, en mBlock veremos que podemos grabar nuestro programa en Arduino, pero perdemos la interacción con el sprite, como lo veremos [más adelante.](https://catedu.gitbooks.io/programa-arduino-con-echidna/content/tema_1_como_utilizar_echidna/12_como_se_programa_echidna_shield/124-mblock-vs-snap4arduino-cual-es-el-mejor/1247-importante-subir-a-arduino.html)
 
-**Conclusión**: Profesionalmente es mejor utilizar lenguaje con código pero en la enseñanza es mejor el lenguaje gráfico, además lo hemos dicho en el [apartado ¿Cómo se programa Echidna?](#1-2-c-mo-se-programa-echidna-shield) es una Shield Educativa que lo lógico es utilizar un lenguaje adaptado al nivel educativo: Gráfico. Pero … ¿cual?
+###Conclusión
+
+Profesionalmente es mejor utilizar lenguaje con código pero en la enseñanza es mejor el lenguaje gráfico, además lo hemos dicho en el [apartado ¿Cómo se programa Echidna?](#1-2-c-mo-se-programa-echidna-shield) es una Shield Educativa que lo lógico es utilizar un lenguaje adaptado al nivel educativo: Gráfico. Pero … ¿cual?
 
