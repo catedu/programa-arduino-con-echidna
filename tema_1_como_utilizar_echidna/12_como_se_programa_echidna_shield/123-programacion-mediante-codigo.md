@@ -55,7 +55,7 @@ Este programa se escribe (o copia y pega ¡es un texto !!) en el software del Ar
 En este programa queremos que te fijes en una **desventaja**: La interacción con el ordenador se pierde frente a mBlock y Snap4Arduino:
 
 *   En los lenguajes gráficos, tenemos a **interacción con el ordenador** igual que en Scratch: si te fijas en la pantalla el dibujo del semáforo va cambiando de disfraz para representar los colores de la luz que se enciende a la vez que en el Arduino.
-*   En un programa grabado en el Arduino **perdemos esa interacción**, lo máximo que podemos visualizar es una ventana donde se representa en formato texto qué es lo que le está pasando al Arduino (en el ejemplo del semáforo sale "Semáforo - Verde, Semáforo- Rojo ….")(en realidad, con programación muy muy avanzada sí que se podría pero no vamos a entrar en estos jaleos).
+*   En un programa grabado en el Arduino **perdemos esa interacción**, lo máximo que podemos visualizar es una ventana donde se representa en formato texto qué es lo que le está pasando al Arduino (en el ejemplo del semáforo sale "Semáforo - Verde, Semáforo- Rojo ….").
 
 Esto lo vemos como una **desventaja** desde el punto de vista de la enseñanza de la programación pues perdemos el potencial de interactuar con los elementos del ordenador crear personajes, disfraces, sonidos, teclado….
 
