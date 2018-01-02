@@ -36,7 +36,7 @@ Aunque Snap4Arduino no sube el programa, sólo simula, es mucho más rápido en 
 
 ![](/images/image19.png)
 
-En[ este apartado](../3_entradas_de_echidna/33_joystick.md#3-3-1-telesketch) veremos las diferencias.
+En este [apartado ](/tema_2_salidas_de_echidna/22_audio.md)veremos las diferencias.
 
 
 
