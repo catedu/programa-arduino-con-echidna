@@ -13,7 +13,7 @@ Tenemos dos opciones:
 
 Cómo este curso trata del Echidna, que es una shield sencilla, nos decantamos por la programación mediante lenguajes gráficos, no obstante vas a ver las diferencias en el siguiente apartado.
 
-Vamos a enseñarte tres formas de hacer el mismo programa: **Un semáforo**
+Vamos a enseñarte **tres formas** de hacer un mismo programa: **Un semáforo**
 
 Nota: Acuerdate en toda esta sección de poner la Echidna en modo Sensor
 
