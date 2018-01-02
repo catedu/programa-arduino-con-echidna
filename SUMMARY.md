@@ -1,6 +1,6 @@
 # Summary
 
-* [Programa arduino con echidna](README.md)
+* [Programa arduino con Echidna](README.md)
 * [Tema 1 ¿Cómo utilizar Echidna?](tema_1_como_utilizar_echidna/README.md)
   * [1.1 ¿Qué es EchidnaShield?](tema_1_como_utilizar_echidna/11_que_es_echidnashield.md)
   * [1.2 Cómo se programa Echidna Shield](tema_1_como_utilizar_echidna/12_como_se_programa_echidna_shield.md)
