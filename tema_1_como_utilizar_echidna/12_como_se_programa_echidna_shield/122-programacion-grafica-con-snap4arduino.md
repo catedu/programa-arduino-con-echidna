@@ -1,4 +1,4 @@
-**PRIMERO QUÉ ES SNAP4ARDUINO**
+###PRIMERO QUÉ ES SNAP4ARDUINO
 
 ![](/images/image75.png)
 
@@ -10,13 +10,13 @@ El programa se puede descargar de su web [http://snap4arduino.rocks/](http://sna
 
 En principio es la aplicación más acorde con la filosofía de la Shield Echidna.
 
-**SEGUNDO LA CONFIGURACIÓN DE SNAP4ARDUINO**
+###SEGUNDO LA CONFIGURACIÓN DE SNAP4ARDUINO
 
 En esta presentación se enseña COMO CONFIGURAR SNAP4ARDUINO para que se comunique con nuestro Arduino y la Echidna
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ7tr9aNDDuzFcEMFOepVVao5eCKWBBQh3U5emsy5oaN4a-Q8tNkYMWxKyma6xz-gBVL6nLLlmlWuPw/embed?start=false&;loop=false&;delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-**TERCERO EL EJEMPLO SEMÁFORO CON ECHIDNA**
+###TERCERO EL EJEMPLO SEMÁFORO CON ECHIDNA
 
 El programa es el mismo que el anterior, con los mismos disfraces y se puede abrir desde Snap4Arduino desde [esta URL](https://www.google.com/url?q=http://snap4arduino.org/run%23present:Username%3Djavierquintana%26ProjectName%3DSEMAFORO&sa=D&ust=1513946282814000&usg=AFQjCNHJjV-UySzN7j5tkDlCr-JmawjV2A)
 
