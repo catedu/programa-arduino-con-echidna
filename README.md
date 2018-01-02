@@ -10,3 +10,7 @@ En este curso pretende mostrarte el potencial educativo de este sencillo escudo.
 ![](/images/image88.png)
 
 ![](/images/image1.png)
+
+Comparativa de Echidna frente a otros cursos de **Pensamiento computacional** en CATEDU Aularagón
+
+![](https://docs.google.com/drawings/d/e/2PACX-1vSnGHqK6AD7RaD8mVMBXUwXmzE4KXQQqdhBX6rGc7arR9_DOfE02i0wSDKuY20BO7VhPk39MQVcbqX_/pub?w=967&h=1276)
