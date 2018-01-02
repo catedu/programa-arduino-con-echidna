@@ -1,4 +1,4 @@
-# Programa arduino con echidna {#programa-arduino-con-echidna}
+# Programa arduino con Echidna {#programa-arduino-con-echidna}
 
 En este curso pretende mostrarte el potencial educativo de este sencillo escudo.
 * **1.Cómo utilizarlo**, veremos que está adaptado a la programación en primaria o primeros cursos de secundaria con programación gráfica
