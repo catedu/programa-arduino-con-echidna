@@ -66,3 +66,8 @@ El resultado es :
 O sea, ya podemos jugar con el móvil y con nuestro Echidna !!!
 <iframe src="https://giphy.com/embed/4K0kLjAFNgzao" width="425" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/phone-the-big-bang-theory-4K0kLjAFNgzao">via GIPHY</a></p>
 
+Por ejemplo.. se podría hacer un coche teledirigido, el programa lo tienes en el repositorio: [https://github.com/JavierQuintana/Echidna](https://github.com/JavierQuintana/Echidna) 
+y el vídeo en el [muro](/muro.md)
+
+
+
