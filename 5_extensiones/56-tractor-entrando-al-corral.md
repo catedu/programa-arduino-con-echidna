@@ -18,8 +18,11 @@ Conectamos por ejemplo el servo al D4 y el sensor de IR al D7
 %/accordion%
 
 ### Otro reto más difícil
-Este ya es para los "sobresalientes"
+Este ya es para los "sobresalientes":
+
 Podemos hacer que la barrera se abra con Bluetooth, o que también baje si el sensor de Ultrasonidos en el otro lado detecta que el vehículo ya ha pasado.
-Aunque el vídeo está hecho con la Shiel Edubásica perfectamente se puede hacer con Echidna, y en nuestro caso podemos sustituir un sensor ultrasonidos con un sensor IR.
+Aunque el vídeo está hecho con la Shield Edubásica perfectamente se puede hacer con Echidna, y en nuestro caso podemos sustituir un sensor ultrasonidos con un sensor IR.
 
 {% youtube %}  https://www.youtube.com/watch?v=nlnxai_u360{% endyoutube %}  
+
+<iframe src="https://giphy.com/embed/10HCjqOOLr3P8c" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/johnny-galecki-tbbt-leonard-hofstadter-10HCjqOOLr3P8c">via GIPHY</a></p>
