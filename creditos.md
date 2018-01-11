@@ -6,5 +6,9 @@ Excepto para las imágenes embebidas de GIFPY que están en estos [términos](ht
 
 Cualquier observación o detección de error por favor aquí [soporte.catedu.es](http://soporte.catedu.es/)
 
+Esperamos que hayas disfrutado de la robótica con Echidna.
+
+<iframe src="https://giphy.com/embed/yskYsLI62NSjS" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/the-big-bang-theory-yskYsLI62NSjS">via GIPHY</a></p>
+
 
 
