@@ -45,6 +45,7 @@
   * [5.3 Laser](5_extensiones/53-laser.md)
   * [5.4 Ultrasonidos](5_extensiones/54-ultrasonidos.md)
   * [5.5 Servo](55-rele.md)
+  * [5.6 Tractor entrando al corral](5_extensiones/56-tractor-entrando-al-corral.md)
 * [Muro](muro.md)
 * [Créditos](creditos.md)
 
