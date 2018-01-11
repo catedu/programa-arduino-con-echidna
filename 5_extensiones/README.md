@@ -3,7 +3,9 @@ Nota: Acuerdate en toda esta sección de poner la Echidna en modo Sensor
 
 ![](/images/image4.png)
 
-Los programas solución lo puedes descargar de este [repositorio](https://www.google.com/url?q=https://drive.google.com/drive/folders/1pXcRUqMM7q_UK0QhILd9QwLe8KtPCM5m?usp%3Dsharing&sa=D&ust=1513946282847000&usg=AFQjCNHZMNrtgAiR1B5_-RYaSKYpcsL1zQ)
+Todos los programas de este curso se encuentran en este repositorio: [https://github.com/JavierQuintana/Echidna](https://github.com/JavierQuintana/Echidna)
+
+
 
 Ahora con las extensiones puedes convertir tu Echidna en un robot poderoso !!!
 
