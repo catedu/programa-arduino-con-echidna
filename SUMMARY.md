@@ -19,6 +19,7 @@
     * [1.2.5 Otros](tema_1_como_utilizar_echidna/12_como_se_programa_echidna_shield/125-otros.md)
   * [1.3 Alimentación del Echidna](tema_1_como_utilizar_echidna/13-alimentacion-del-echidna.md)
   * [1.4 Hoja de Ruta](tema_1_como_utilizar_echidna/13_hoja_de_ruta.md)
+  * [1.5 Kit de préstamo en CATEDU](tema_1_como_utilizar_echidna/15-kit-de-prestamo-en-catedu.md)
 * [Tema 2 Salidas de Echidna](tema_2_salidas_de_echidna/README.md)
   * [2.1 Luces](tema_2_salidas_de_echidna/21_luces.md)
   * [2.2 Audio](tema_2_salidas_de_echidna/22_audio.md)
