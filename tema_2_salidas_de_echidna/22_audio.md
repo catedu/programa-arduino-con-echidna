@@ -6,11 +6,10 @@ Queremos que hagas un programa en el Echidna que:
 * Si se pulsa el botón D3 que suene el tono C4 que es aproximadamente esa frecuenca.
 
 **SOLUCIÓN**
-La solución seguro que te sonará pues lo hemos visto en el Tema 1.
 
 %accordion%Solución%accordion%
 
-El programa lo puedes descargar de este [repositorio](https://www.google.com/url?q=https://drive.google.com/drive/folders/1pXcRUqMM7q_UK0QhILd9QwLe8KtPCM5m?usp%3Dsharing&sa=D&ust=1513946282847000&usg=AFQjCNHZMNrtgAiR1B5_-RYaSKYpcsL1zQ):
+La solución seguro que te sonará [pues lo hemos visto en el Tema 1](/tema_1_como_utilizar_echidna/12_como_se_programa_echidna_shield/124-mblock-vs-snap4arduino-cual-es-el-mejor/1247-importante-subir-a-arduino.md).
 
 ![](/assets/TnoC4.png)
 
