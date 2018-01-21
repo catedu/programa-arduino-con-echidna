@@ -24,7 +24,7 @@ La solución consiste en subir al arduino, ya lo hemos visto en el Tema 1 ¿no t
 
 
 
-El resultado es este vídeo](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DWbA8p_yC-90&sa=D&ust=1513946282849000&usg=AFQjCNGe1jjBxBeK9oFVVTOeXQxUxxFvNg)
+El resultado es este vídeo:
 
 {% youtube %} https://www.youtube.com/watch?v=WbA8p_yC-90 {% endyoutube %}
 
