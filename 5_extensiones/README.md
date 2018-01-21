@@ -20,6 +20,6 @@ Ahora con las extensiones puedes aumentar más tus proyectos robóticos. Por eje
 
 {% youtube %}https://www.youtube.com/watch?v=CXOK8tyYp3g{% endyoutube%}
 
-O convertir al Echidna el algo más poderoso ...
+Pero sólo está el límite de tu imaginación para convertir al Echidna el algo más poderoso ...
 
 <iframe src="https://giphy.com/embed/hJPCYFojnadHy" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/the-big-bang-theory-kaley-cuoco-robots-hJPCYFojnadHy">via GIPHY</a></p>
