@@ -28,7 +28,6 @@ Y ya nos queda programar en el Sprite cassy para cumplir el enunciado:
 
 ![](/images/image54.png)
 
-El programa lo puedes descargar de este [repositorio](https://www.google.com/url?q=https://drive.google.com/drive/folders/1pXcRUqMM7q_UK0QhILd9QwLe8KtPCM5m?usp%3Dsharing&sa=D&ust=1513946282845000&usg=AFQjCNFQB4Zf3zyqNCr_9ynL06x8skFTKg).
 
 %/accordion%
 
