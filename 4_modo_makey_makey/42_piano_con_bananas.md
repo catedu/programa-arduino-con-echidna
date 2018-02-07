@@ -29,6 +29,8 @@ Y el [resultado](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D
 
 En el kit que te prestamos para hacer este curso no están incluidos los plátanos, así que cálzate y baja a comprar unos. ¿no tienes perras? pues utiliza recursos humanos:
 
+{% youtube %}https://www.youtube.com/watch?v=jv2vGhF0cV8{% endyoutube%}
+
 {% youtube %} https://www.youtube.com/watch?v=M-8-JaDIgY0&feature=youtu.be {% endyoutube %} 
 
 Esta noche prepara un karaoke con tus amigos.
