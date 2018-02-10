@@ -10,7 +10,7 @@ El programa es pues el siguiente
 
 ![](/images/image30.png)
 
-¿por qué lo hacemos con la opción de subir a Arduino? Ya l[o tendrías que saber.](../tema_1_como_utilizar_echidna/12_como_se_programa_echidna_shield.md#1-2-4-7-subir-a-arduino)
+¿por qué lo hacemos con la opción de subir a Arduino? Porque la simulación va lenta (se oye tut-tut-tut) si lo subes al Arduino reproduce el tono correctamente. [VER COMO SUBIR AL ARDUINO](/tema_1_como_utilizar_echidna/12_como_se_programa_echidna_shield/124-mblock-vs-snap4arduino-cual-es-el-mejor/1247-importante-subir-a-arduino.md).
 
 %/accordion%
 
