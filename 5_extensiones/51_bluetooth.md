@@ -55,15 +55,24 @@ Solución: Bajarlo manualmente, **un rollo**, tenemos que salir de mBlock, edita
 
 Vamos a ejecutar este pequeño programa, que al apretar el botón de arriba se encienden los leds y al apretar el de abajo se apagan:
 
+{% youtube %}https://www.youtube.com/watch?v=XFPGEuX7uTs&feature=youtu.be{% endyoutube %}
+
+%accordion%Solución%accordion%
+
 ![](/images/image49.png)
 
-El resultado y la forma de ejecutarlo está en[ esta presentación:](https://www.google.com/url?q=https://docs.google.com/presentation/d/e/2PACX-1vTu_PBSd5olMZaMepTlp_kIVO67NDKiGwi6WCS9I_ECSQlq5SRAPQ5_P1vNMq_zrj6NujU0jTQzLsP8/pub?start%3Dfalse%26loop%3Dfalse%26delayms%3D3000&sa=D&ust=1513946282920000&usg=AFQjCNGr6QOtYAEir7ENZwslE6wXKGZaeQ)
+#### Primero hay que vincular el móvil con la APP
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT0vG1z61MuZXKmdiw4ga7z15FlQfeussqDNYzMauJSZUU2G2NlL7M-JjXb4PFT4YTigj9Yal8PzHmR/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
+#### Segundo hay que subir el programa solucionando los problemas anteriores
+
+Mejor verlo con[ esta presentación:](https://www.google.com/url?q=https://docs.google.com/presentation/d/e/2PACX-1vTu_PBSd5olMZaMepTlp_kIVO67NDKiGwi6WCS9I_ECSQlq5SRAPQ5_P1vNMq_zrj6NujU0jTQzLsP8/pub?start%3Dfalse%26loop%3Dfalse%26delayms%3D3000&sa=D&ust=1513946282920000&usg=AFQjCNGr6QOtYAEir7ENZwslE6wXKGZaeQ)
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTu_PBSd5olMZaMepTlp_kIVO67NDKiGwi6WCS9I_ECSQlq5SRAPQ5_P1vNMq_zrj6NujU0jTQzLsP8/embed?start=false&;loop=false&;delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-El resultado es :
-
-{% youtube %}https://www.youtube.com/watch?v=Zfw3yUtgiNs&;feature=youtu.be{% endyoutube %}
+%/accordion%
 
 O sea, ya podemos jugar con el móvil y con nuestro Echidna !!!
 <iframe src="https://giphy.com/embed/4K0kLjAFNgzao" width="425" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/phone-the-big-bang-theory-4K0kLjAFNgzao">via GIPHY</a></p>
