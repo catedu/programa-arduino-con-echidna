@@ -1,4 +1,4 @@
-## 4.3 Plastilina {#4-3-plastilina}
+## 4.3 MONTAJE 12 Plastilina {#4-3-plastilina}
 
 Con plastilina conductora podemos hacer interesantes proyectos. ¿Cómo se hace la plastilina conductora? Aquí tienes una receta:
 

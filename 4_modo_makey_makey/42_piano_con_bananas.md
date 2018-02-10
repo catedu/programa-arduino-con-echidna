@@ -1,4 +1,4 @@
-## 4.2 Piano con bananas {#4-2-piano-con-bananas}
+## 4.2 MONTAJE 11 Piano con bananas {#4-2-piano-con-bananas}
 
 Vamos a hacerlo !! Ten en cuenta que mBlock utiliza la notación americana de notas, y a cada nota la vamos a corresponder a una entrada Makey Makey (utilizando por ejemplo el acorde 4):
 

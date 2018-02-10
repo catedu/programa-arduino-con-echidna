@@ -1,4 +1,4 @@
-## 5.2 Sensor IR {#5-2-sensor-ir}
+## 5.2 MONTAJE 14 ENCENDIDO SENSIBLE Sensor INFRAROJOS {#5-2-sensor-ir}
 
 Vamos a provechar las conexiones digitales que tiene Echidna preparado para conectar módulos exteriores, si te fijas está preparado para conectar fácilmente estos módulos pues facilita la alimentación, GND y el pin digital
 

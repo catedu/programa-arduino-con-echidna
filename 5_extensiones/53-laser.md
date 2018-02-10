@@ -1,4 +1,4 @@
-## 5.3. Láser {#5-3-laser}
+## 5.3. MONTAJE 15 ALARMA LASER {#5-3-laser}
 
 Hemos visto anteriormente una entrada digital sencilla con el sensor IR, ahora vamos a ver una salida digital muy simple, buscando siempre la motivación en nuestros proyectos: El diodo Laser.
 

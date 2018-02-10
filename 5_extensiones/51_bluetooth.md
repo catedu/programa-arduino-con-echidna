@@ -1,4 +1,6 @@
-## 5.1 Bluetooth {#5-1-bluetooth}
+## 5.1 MONTAJE 13 ENCENDER CON EL MÓVIL Bluetooth {#5-1-bluetooth} 
+
+# ATENCION: MUY DIFICIL
 
 ### 5.1.1 Módulo HC-06 {#5-1-1-m-dulo-hc-06}
 

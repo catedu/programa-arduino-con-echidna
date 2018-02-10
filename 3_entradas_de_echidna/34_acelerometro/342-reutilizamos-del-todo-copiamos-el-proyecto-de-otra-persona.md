@@ -1,4 +1,4 @@
-#### 3.4.2 Reutilizamos del todo: Copiamos el proyecto de otra persona {#3-4-2-reutilizamos-del-todo-copiamos-el-proyecto-de-otra-persona}
+#### 3.4.2 MONTAJE 10 MATA-ALIENS {#3-4-2-reutilizamos-del-todo-copiamos-el-proyecto-de-otra-persona}
 
 Esta vez no vamos a ser originales, vamos a ser un poco vagos y nos vamos a copiar el programa de otra persona. La [web de Scratch](https://www.google.com/url?q=https://scratch.mit.edu/&sa=D&ust=1513946282889000&usg=AFQjCNGygwtyuNaEEsxDNvVSFxX9GBVf1A) tiene un repositorio de millones de proyectos, podemos seleccionar uno, y adaptarlo a nuestra simpática Echidna.
 

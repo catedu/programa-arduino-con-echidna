@@ -1,4 +1,4 @@
-## 5.4 Ultrasonidos
+## 5.4 MONTAJE 16 SEMAFORO DISTANCIA Ultrasonidos
 
 Queremos poner un ejemplo de un sensor que tenga 4 pines, barato y que puede darnos mucho juego pues nos da información de la distancia en la que se encuentra un objeto.
 
