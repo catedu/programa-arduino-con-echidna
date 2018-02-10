@@ -1,3 +1,5 @@
+### MONTAJE 7 TELESCKET
+
 **RETO**
 Vamos a realizar el mismo ejemplo que [este vídeo de Jorge Lobo](https://www.google.com/url?q=https://www.youtube.com/watch?time_continue%3D8%26v%3DHx5DjQw7e_U&sa=D&ust=1513946282876000&usg=AFQjCNE8mVVKkIwRF0D-0kQn9ojW4gK_hQ) pero en vez de realizado en Snap4Arduino lo vamos a hacer en mBlock.
 
@@ -20,6 +22,7 @@ simplemente vamos a comentar las condicionales principales:
 
 %/accordion%
 
+**VA MUY LENTO**
 El resultado lo puedes ver en [este vídeo](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DJzyd5cPb2-Y&sa=D&ust=1513946282878000&usg=AFQjCNELr1CkYreRS69YLd78fvl_qi0HUA):
 
 {% youtube %} https://www.youtube.com/watch?v=Jzyd5cPb2-Y{% endyoutube %} 
@@ -29,7 +32,7 @@ Por curiosidad puedes ver el mismo programa en **Snap4Arduino **en este vídeo:
 
 {% youtube %} https://www.youtube.com/watch?v=j1lsYq6X5-U{% endyoutube %} 
 
-Puedes ver que es mucho más rápido que mBlock.
+Puedes ver que es mucho **más rápido** que mBlock.
 
 El programa lo puedes abrir en Snap4Arduino desde [este enlace](https://www.google.com/url?q=http://snap4arduino.org/run%23present:Username%3Djavierquintana%26ProjectName%3Dtelesketch-bueno&sa=D&ust=1513946282879000&usg=AFQjCNFYQVyMwX5ojtqgA0dutS5-GDGQdw).
 
