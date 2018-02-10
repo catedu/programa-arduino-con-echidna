@@ -28,7 +28,7 @@
   * [3.2 El LDR en A5](3_entradas_de_echidna/32_el_ldr_en_a5.md)
     * [3.2.1 Comprobar los límites](3_entradas_de_echidna/32_el_ldr_en_a5/321-comprobar-los-limites.md)
     * [3.2.2 MONTAJE 5 Semáforo luminoso](3_entradas_de_echidna/32_el_ldr_en_a5/322-semaforo-luminoso.md)
-    * [3.2.3 MONTAJE 6 Tonos según LDR](3_entradas_de_echidna/32_el_ldr_en_a5/323-tonos-segun-ldr.md)
+    * [3.2.3 MONTAJE 6 Piano luminoso](3_entradas_de_echidna/32_el_ldr_en_a5/323-tonos-segun-ldr.md)
       * [3.2.3.1 Cambios de escala](3_entradas_de_echidna/32_el_ldr_en_a5/323-tonos-segun-ldr/3231-cambios-de-escala.md)
   * [3.3 Joystick](3_entradas_de_echidna/33_joystick.md)
     * [3.3.1 MONTAJE 7 Telesketch](3_entradas_de_echidna/33_joystick/331-telesketch.md)

@@ -1,3 +1,4 @@
+### MONTAJE 6 PIANO LUMINOSO
 **Nuestro RETO** es el siguiente:
 
 _Realizar un programa que suene una nota diferente según la luz_
