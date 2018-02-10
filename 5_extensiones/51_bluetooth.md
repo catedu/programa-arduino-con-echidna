@@ -33,7 +33,7 @@ Nosotros vamos a utilizar la APP BlueControl:
 *   [ver cómo funciona](https://www.google.com/url?q=https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/la_app.html&sa=D&ust=1513946282917000&usg=AFQjCNHHg9urZiFpzriTYLu8m3bOPNT7-g)
 *   [ver cómo se vincula con el móvil](https://www.google.com/url?q=https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/vincular_mvil.html&sa=D&ust=1513946282917000&usg=AFQjCNHpsmCx_UeWor-4NHetd1qEQXH25A)
 
-![](/images/image53.png)
+![](/assets/2018-02-10 20_47_35-¿Cómo emparejar el Bluetooth del Arduino con el móvil y la APP Bluecontrol - Pre.png)
 
 ### 5.1.2 Problema número 1: ocupamos el puerto serie {#5-1-2-problema-n-mero-1-ocupamos-el-puerto-serie}
 
@@ -41,15 +41,15 @@ Si has leído [Cómo se comunica con un Arduino](https://www.google.com/url?q=ht
 
 Esto crea un problema: No se puede tener conectado el HC-06 mientras nos comunicamos el ordenador con el Arduino.
 
-Solución: Pues quítalo, y luego cuando acabes de descargar el programa en el Arduino, pues lo pones.
+Solución: **Pues quítalo,** y luego cuando acabes de descargar el programa en el Arduino,** pues lo pones**.
 
-Bah ¿sólo era eso? pues no… ¿puedes interaccionar con el Sprite? por ejemplo ¿puedes hacer que el oso panda de mBlock se mueva según el mando de BlueControl?...
+Bah!! ¿sólo era eso? pues no, que nos ocupe el puerto serie nos fastidia: ¿puedes interaccionar con el Sprite? por ejemplo ¿puedes hacer que el oso panda de mBlock se mueva según el mando de BlueControl?...**NO**
 
 ### 5.1.3 Problema 2 la velocidad del puerto es elevada {#5-1-3-problema-2-la-velocidad-del-puerto-es-elevada}
 
 Al programar con mBlock fija la velocidad del puerto serie a 115200 baudios, y nuestro HC-06 soporta 9600
 
-Solución: Bajarlo manualmente, esto se ve mejor en el ejemplo siguiente.
+Solución: Bajarlo manualmente, **un rollo**, tenemos que salir de mBlock, editarlo en Arduino IDE .... esto se ve mejor en el ejemplo siguiente.
 
 ### 5.1.4 Reto: Encendido y apagado de LEDs con el móvil {#5-1-4-reto-encendido-y-apagado-de-leds-con-el-m-vil}
 
