@@ -20,6 +20,10 @@ En el Echidna arriba a la izquierda tienes 3 conectores digitales a elegir, noso
 
 Nota: El potenciometro es para ajustar la sensibilidad
 
+**OJO Hay sensores que tiene los pines en otro orden FIJATE de lo contrario el sensor se pondrá a arder**
+
+![](/assets/2018-02-10 09_39_11-Documento1 - Microsoft Word.png)
+
 Nota: Hay sensores con 4 pines, que permiten alimentar el diodo IR de forma independiente, pero tienen un jumper que inutiliza el 4 para sólo utilizar los 3 pines.
 
 Realizamos un pequeño programa muy fácil que detecta si hay un obstáculo o no:
