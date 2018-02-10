@@ -1,4 +1,4 @@
-## 2.1 Luces {#2-1-luces}
+## 2.1 MONTAJE 2 LUCES PSICODELICAS {#2-1-luces}
 
 Ya hemos visto las luces LED con el [semáforo](../tema_1_como_utilizar_echidna/12_como_se_programa_echidna_shield.md#1-2-1-programaci-n-gr-fica-con-mblock), ahora vamos a ver el **LED RGB**  
 ![](/assets/2017-12-22 13_45_04-EchidnaShield.png)  

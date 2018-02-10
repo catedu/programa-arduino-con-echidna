@@ -1,4 +1,4 @@
-## 2.2 Audio {#2-2-audio}
+## 2.2 MONTAJE 3 TIMBRE {#2-2-audio}
 
 **RETO**
 Queremos que hagas un programa en el Echidna que:

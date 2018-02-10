@@ -1,3 +1,4 @@
+### 3.2.2 MONTAJE 5 SEMÁFORO LUMINOSO
 **RETO**
 Vamos a reutilizar esfuerzos: reutilizar el semáforo visto en [esta sección](../tema_1_como_utilizar_echidna/12_como_se_programa_echidna_shield.md#1-2-1-programaci-n-gr-fica-con-mblock) pero vamos a hacer que se iluminen los colores según la luz:
 

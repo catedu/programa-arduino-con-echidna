@@ -1,4 +1,4 @@
-## 3.1 Botones D2 y D3. {#3-1-botones-d2-y-d3}
+## 3.1 MONTAJE 4 INTERRUPTOR LUZ. {#3-1-botones-d2-y-d3}
 
 El anterior programa ya es un ejemplo de uso de estos botones digitales que están conectados a los pines digitales 2 y 3 de Arduino.
 Ten en cuenta que _sólo_ pueden leer niveles lógicos.
