@@ -12,6 +12,10 @@ La instrucción para los servos en mBlock es muy fácil, simplemente le indicamo
 
 ![](/assets/servo2.png)
 
+y ponlo bien, el marrón indica la masa:
+
+![](/assets/2018-02-10 09_22_49-Documento1 - Microsoft Word.png)
+
 El resultado lo puedes ver en este vídeo, donde puedes observar que para valores límites 0º y 180º hace un poco de vibración pues trabaja forzado:
 
 {% youtube%} https://www.youtube.com/watch?v=xZl9bXtVzto {% endyoutube%}
