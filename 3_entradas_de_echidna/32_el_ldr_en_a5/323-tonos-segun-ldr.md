@@ -15,6 +15,6 @@ El programa es pues el siguiente
 
 %/accordion%
 
-El resultado lo puedes ver en [este vídeo](https://www.google.com/url?q=https://www.youtube.com/watch?v%3Db7SSXn4q8WM&sa=D&ust=1513946282874000&usg=AFQjCNEfV2QXm1N1OLCI8H4wj6eCu5ejVg):
+El resultado lo puedes ver en [este vídeo](https://www.youtube.com/watch?v=b7SSXn4q8WM&feature=youtu.be):
 
-{% youtube %}https://www.youtube.com/watch?v=b7SSXn4q8WM{% endyoutube %}
+{% youtube %}https://www.youtube.com/watch?v=b7SSXn4q8WM&feature=youtu.be{% endyoutube %}
