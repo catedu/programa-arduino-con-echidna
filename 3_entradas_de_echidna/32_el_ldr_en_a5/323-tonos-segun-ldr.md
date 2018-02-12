@@ -1,4 +1,4 @@
-[](/tema_1_como_utilizar_echidna/12_como_se_programa_echidna_shield/124-mblock-vs-snap4arduino-cual-es-el-mejor/1247-importante-subir-a-arduino.md)### MONTAJE 6 PIANO LUMINOSO
+### MONTAJE 6 PIANO LUMINOSO
 **Nuestro RETO** es el siguiente:
 
 _Realizar un programa que suene una nota diferente según la luz_
