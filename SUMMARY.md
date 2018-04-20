@@ -48,5 +48,6 @@
   * [5.5 Servo](55-rele.md)
   * [5.6 MONTAJE 17 Tractor entrando al corral](5_extensiones/56-tractor-entrando-al-corral.md)
 * [Muro](muro.md)
+* [Grupo Robotica Educativa Aragon](grupo-robotica-educativa-aragon.md)
 * [Créditos](creditos.md)
 
