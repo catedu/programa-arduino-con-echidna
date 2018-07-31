@@ -2,7 +2,10 @@
 
 {% include "git+https://github.com/catedu/faq-aularagon.git/imagenes_creditos.md" %}
 
-Excepto para las imágenes embebidas de GIFPY que están en estos [términos](https://giphy.com/terms).
+
+* Imágenes de Echidna y capturas: http://echidna.es/
+* Imágenes embebidas de GIFPY están en estos [términos](https://giphy.com/terms).
+
 
 
 Esperamos que hayas disfrutado de la robótica con Echidna.
