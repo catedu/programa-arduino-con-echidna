@@ -1,11 +1,8 @@
-2018 por [CATEDU](https://catedu.gitbooks.io/robotica-educativa-con-mbot/content/www.catedu.es) \(Javier Quintana Peiró\).
-
-{% include "git+https://github.com/catedu/faq-aularagon.git/imagenes_creditos.md" %}
-
-
+* 2018 por [CATEDU](https://catedu.gitbooks.io/robotica-educativa-con-mbot/content/www.catedu.es) \(Javier Quintana Peiró\).
 * Imágenes de Echidna y capturas: http://echidna.es/
 * Imágenes embebidas de GIFPY están en estos [términos](https://giphy.com/terms).
 
+{% include "git+https://github.com/catedu/faq-aularagon.git/imagenes_creditos.md" %}
 
 
 Esperamos que hayas disfrutado de la robótica con Echidna.
