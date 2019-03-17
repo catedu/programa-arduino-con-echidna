@@ -5,7 +5,7 @@ Hemos visto anteriormente una entrada digital sencilla con el sensor IR, ahora v
 ![](/assets/2017-12-25 07_35_11-Encender un diodo láser con Arduino.png)
 
 Si quieres saber más de este componente, te recomendamos la página de [Luis Llamas](https://www.luisllamas.es/diodo-laser-arduino/).
-Si tienes que comprar uno, te recomendamos que no sea superior a 5mW, pues puede dañar permanentemente la retina del ojo [[+info](https://cuidatuvista.com/punteros-laser-juguetes-ojos/)]. El modelo que te proponemos es de **1mW**, no obstante, prevendremos a los alumnos **a no enfocar a los ojos**.
+Si tienes que comprar uno, te recomendamos que no sea superior a 5mW, pues puede dañar permanentemente la retina del ojo [[+info](https://cuidatuvista.com/punteros-laser-juguetes-ojos/)]. El modelo que te proponemos es de **1mW**, no obstante, **EVITA QUE EL LÁSER APUNTE A LOS OJOS** espcialmente con niños.
 
 **RETO**
 Te proponemos que realices un programa para desactivar una **ALARMA LASER**.
