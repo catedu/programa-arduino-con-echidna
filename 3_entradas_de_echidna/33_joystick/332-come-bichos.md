@@ -13,6 +13,8 @@ _Mover un Sprite “Bat” con el Joystick para atrapar un Beetle_
 
 %accordion%Solución%accordion%
 
+El programa te lo puedes descargar [aquí](https://drive.google.com/drive/folders/1-1FaLeTEBAg_45X1RamRx-bmRiQI9Tvf?usp=sharing)
+
 El bicho lo haremos mover bastante rápido y al azar en el eje Y para que lo tenga difícil Bat:
 
 ![](/images/image13.png)
@@ -23,7 +25,9 @@ Y bat tiene que moverse con el joystick
 
 Los valores de m y n lo hemos calculado con la [HOJA DE CÁLCULO](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/e/2PACX-1vTyASTvUIs_xsZ8c4RZOJ1sEstk4Cc6d--_Drne_U0o1_CXhgzxQkvZ4ZNYGLdKa2lrhLHDKmAwsKnK/pub?output%3Dxlsx&sa=D&ust=1513946282881000&usg=AFQjCNHOP0NNKMiqEjmSGaucO7Mi5EKLoQ) que comentamos anteriormente, los valores límites que hemos puesto son:
 
-Para el eje X:
+**ATENCIÓN PARA EL NUEVO ECHIDNA HEMOS DETECTADO NUEVOS VALORES** X=tal y como está en el programa descargado
+
+Para el eje X e Y :0-715 
 
 ![](/images/image84.png)
 
