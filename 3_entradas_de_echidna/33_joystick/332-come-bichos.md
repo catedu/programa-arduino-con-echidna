@@ -25,8 +25,6 @@ Y bat tiene que moverse con el joystick
 
 Los valores de m y n lo hemos calculado con la [HOJA DE CÁLCULO](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/e/2PACX-1vTyASTvUIs_xsZ8c4RZOJ1sEstk4Cc6d--_Drne_U0o1_CXhgzxQkvZ4ZNYGLdKa2lrhLHDKmAwsKnK/pub?output%3Dxlsx&sa=D&ust=1513946282881000&usg=AFQjCNHOP0NNKMiqEjmSGaucO7Mi5EKLoQ) que comentamos anteriormente, los valores límites que hemos puesto son:
 
-**ATENCIÓN PARA EL NUEVO ECHIDNA HEMOS DETECTADO NUEVOS VALORES** X=tal y como está en el programa descargado
-
 Para el eje X e Y :0-715 
 
 ![](/images/image84.png)
