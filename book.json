@@ -1,1 +1,26 @@
-{"plugins": ["youtube", "accordion", "image-captions", "edit-link", "githubcontributors"], "pluginsConfig": {"image-captions": {"caption": "Imagen - _CAPTION_"}, "edit-link": {"base": "https://github.com/catedu/programa-arduino-con-echidna/edit/master", "label": "Edita esta página"}, "githubcontributors": {"githubOwner": "catedu", "githubRepository": "programa-arduino-con-echidna"}}}
+{
+  "plugins": [
+    "youtube",
+    "accordion",
+    "image-captions",
+    "edit-link",
+    "githubcontributors",
+    "ga"
+  ],
+  "pluginsConfig": {
+    "image-captions": {
+      "caption": "Imagen - _CAPTION_"
+    },
+    "edit-link": {
+      "base": "https://github.com/catedu/programa-arduino-con-echidna/edit/master",
+      "label": "Edita esta página"
+    },
+    "githubcontributors": {
+      "githubOwner": "catedu",
+      "githubRepository": "programa-arduino-con-echidna"
+    },
+    "ga": {
+      "token": "UA-135691041-2"
+    }
+  }
+}
