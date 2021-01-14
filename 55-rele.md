@@ -4,7 +4,7 @@ El servo es un motor que podemos controlar el ángulo de giro, hay diferentes cl
 
 ![](/assets/2018-01-08 13_40_36-Controlar un servo con Arduino.png)
 
-Este servo se controla con una salida digital, y se les indica el ángulo de giro, que puede ir desde 0º hasta 180ª (no permite otro márgen). Si elegimos otro más barato, puede tener deriva en los extremos ([ver vídeo con HD-144A](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/montaje_1_testea_tu_servo.html))
+Este servo se controla con una salida digital, y se les indica el ángulo de giro, que puede ir desde 0º hasta 180ª (no permite otro márgen). Si elegimos otro más barato, puede tener deriva en los extremos ([ver vídeo con HD-144A](https://catedu.github.io/programa-arduino-mediante-codigo/montaje_1_testea_tu_servo.html))
 
 Aprende más sobre servos en esta página de [Luis Llamas](https://www.luisllamas.es/controlar-un-servo-con-arduino/).
 

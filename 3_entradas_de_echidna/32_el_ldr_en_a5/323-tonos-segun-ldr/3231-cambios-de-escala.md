@@ -24,7 +24,7 @@ Ala! dos ecuaciones y dos incognitas: calcula m y n
 
 Buen ejercicio para los alumnos para que vean matemáticas aplicadas
 
-No obstante, como esto lo repetiremos muchas veces los cambios de escala, hemos confeccionado [ESTA HOJA DE CÁLCULO](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/e/2PACX-1vTyASTvUIs_xsZ8c4RZOJ1sEstk4Cc6d--_Drne_U0o1_CXhgzxQkvZ4ZNYGLdKa2lrhLHDKmAwsKnK/pub?output%3Dxlsx&sa=D&ust=1513946282873000&usg=AFQjCNG67xpZIAuP9snBWW1bar7eOxSF9g) que te lo puedes descargar y facilita las cosas: Ponemos en las celdas amarillas los valores límites :
+No obstante, como esto lo repetiremos muchas veces los cambios de escala, hemos confeccionado [ESTA HOJA DE CÁLCULO](https://docs.google.com/spreadsheets/d/e/2PACX-1vTyASTvUIs_xsZ8c4RZOJ1sEstk4Cc6d--_Drne_U0o1_CXhgzxQkvZ4ZNYGLdKa2lrhLHDKmAwsKnK/pub?output%3Dxlsx) que te lo puedes descargar y facilita las cosas: Ponemos en las celdas amarillas los valores límites :
 
 *   X1= 108 X2=982
 *   Y1=48    Y2=72

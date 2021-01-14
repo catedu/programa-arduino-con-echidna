@@ -8,14 +8,14 @@ Echidna tiene un conector preparado para conectar un módulo de Bluetooth
 
 ![](/images/image72.png)
 
-Nosotros utilizaremos un JY-MCU o [HC-06](https://www.google.com/url?q=https://www.electronicaembajadores.com/es/Productos/Detalle/LCBTHT6/modulos-electronicos/modulos-bluetooth/modulo-bluetooth-hc-06&sa=D&ust=1513946282913000&usg=AFQjCNGVPwbqIaSl83g1qkQu3Eyu5mgYsg) muy común y barato. .
+Nosotros utilizaremos un JY-MCU o [HC-06](https://www.electronicaembajadores.com/es/Productos/Detalle/LCBTHT6/modulos-electronicos/modulos-bluetooth/modulo-bluetooth-hc-06) muy común y barato. .
 
 ![](/images/image71.png)
 
 Te recomendamos estas páginas:
 
-*   [Teoría de Bluetooth](https://www.google.com/url?q=https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/teora_bluetooth.html&sa=D&ust=1513946282913000&usg=AFQjCNExwoGDz-eIrGCuuYS3eRiIGm-fhw)
-*   [Cómo se comunica con un Arduino](https://www.google.com/url?q=https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/mdulo_bluetooth.html&sa=D&ust=1513946282914000&usg=AFQjCNF-hMv5pjD9KSrm30OwufLsCImCxg)
+*   [Teoría de Bluetooth](https://catedu.github.io/programa-arduino-mediante-codigo/teora_bluetooth.html)
+*   [Cómo se comunica con un Arduino](https://catedu.github.io/programa-arduino-mediante-codigo/mdulo_bluetooth.html)
 
 Para conectar el HC-06 lo hacemos hacia abajo de modo que coincida los pines:
 
@@ -30,14 +30,14 @@ Para conectar el HC-06 lo hacemos hacia abajo de modo que coincida los pines:
 
 Nosotros vamos a utilizar la APP BlueControl:
 
-*   [ver cómo funciona](https://www.google.com/url?q=https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/la_app.html&sa=D&ust=1513946282917000&usg=AFQjCNHHg9urZiFpzriTYLu8m3bOPNT7-g)
-*   [ver cómo se vincula con el móvil](https://www.google.com/url?q=https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/vincular_mvil.html&sa=D&ust=1513946282917000&usg=AFQjCNHpsmCx_UeWor-4NHetd1qEQXH25A)
+*   [ver cómo funciona](https://catedu.github.io/programa-arduino-mediante-codigo/la_app.html)
+*   [ver cómo se vincula con el móvil](https://catedu.github.io/programa-arduino-mediante-codigo/vincular_mvil.html)
 
 ![](/assets/2018-02-10 20_47_35-¿Cómo emparejar el Bluetooth del Arduino con el móvil y la APP Bluecontrol - Pre.png)
 
 ### 5.1.2 Problema número 1: ocupamos el puerto serie {#5-1-2-problema-n-mero-1-ocupamos-el-puerto-serie}
 
-Si has leído [Cómo se comunica con un Arduino](https://www.google.com/url?q=https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/mdulo_bluetooth.html&sa=D&ust=1513946282918000&usg=AFQjCNE5YcVVUpUsPb1bHvlMTgS6ZQBUuw) habrás visto que ocupamos LOS MISMOS PINES D0 Y D1 QUE UTILIZA EL ARDUINO PARA COMUNICARSE POR EL PUERTO SERIE CON EL ORDENADOR.
+Si has leído [Cómo se comunica con un Arduino](https://catedu.github.io/programa-arduino-mediante-codigo/mdulo_bluetooth.html) habrás visto que ocupamos LOS MISMOS PINES D0 Y D1 QUE UTILIZA EL ARDUINO PARA COMUNICARSE POR EL PUERTO SERIE CON EL ORDENADOR.
 
 Esto crea un problema: No se puede tener conectado el HC-06 mientras nos comunicamos el ordenador con el Arduino.
 
@@ -68,7 +68,7 @@ Vamos a ejecutar este pequeño programa, que al apretar el botón de arriba se e
 
 #### Segundo hay que subir el programa solucionando los problemas anteriores
 
-Mejor verlo con[ esta presentación:](https://www.google.com/url?q=https://docs.google.com/presentation/d/e/2PACX-1vTu_PBSd5olMZaMepTlp_kIVO67NDKiGwi6WCS9I_ECSQlq5SRAPQ5_P1vNMq_zrj6NujU0jTQzLsP8/pub?start%3Dfalse%26loop%3Dfalse%26delayms%3D3000&sa=D&ust=1513946282920000&usg=AFQjCNGr6QOtYAEir7ENZwslE6wXKGZaeQ)
+Mejor verlo con[ esta presentación:](https://docs.google.com/presentation/d/e/2PACX-1vTu_PBSd5olMZaMepTlp_kIVO67NDKiGwi6WCS9I_ECSQlq5SRAPQ5_P1vNMq_zrj6NujU0jTQzLsP8/pub?start%3Dfalse%26loop%3Dfalse%26delayms%3D3000)
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTu_PBSd5olMZaMepTlp_kIVO67NDKiGwi6WCS9I_ECSQlq5SRAPQ5_P1vNMq_zrj6NujU0jTQzLsP8/embed?start=false&;loop=false&;delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 

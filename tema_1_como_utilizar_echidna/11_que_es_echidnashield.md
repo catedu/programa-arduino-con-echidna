@@ -2,7 +2,7 @@
 
 ### 1.1.1 Primero ¿qué es Arduino? ¿qué es una Shield? {#1-1-1-primero-qu-es-arduino-qu-es-una-shield}
 
-**¿Qué es Arduino?** Pues no podemos explicarlo en este curso, _suponemos que lo conoces_,  te recomendamos que [visites nuestro curso Arduino con código y Edubasica en esta página](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/index0.html), si la lees verás que Arduino tiene un inconveniente: Arduino es una placa microcontroladora orientado para las entradas y las salidas tanto analógicas como digitales, pero…. **"tienes que ponerlas"**, evidentemente, y eso implica cableado y electrónica.
+**¿Qué es Arduino?** Pues no podemos explicarlo en este curso, _suponemos que lo conoces_,  te recomendamos que [visites nuestro curso Arduino con código y Edubasica en esta página](https://catedu.github.io/programa-arduino-mediante-codigo/index0.html), si la lees verás que Arduino tiene un inconveniente: Arduino es una placa microcontroladora orientado para las entradas y las salidas tanto analógicas como digitales, pero…. **"tienes que ponerlas"**, evidentemente, y eso implica cableado y electrónica.
 
 Una solución es utilizar una Shield, está adaptado para ponerlo encima e incluso hay posibilidad utilizar varias a la vez.
 
@@ -26,7 +26,7 @@ Hay muchas en el mercado:
 
 Hay tantas Shields comerciales que la lista es interminable…, prueba poner las palabras_ Shield Arduino_ en tu buscador. Pero centrémosno, lo que nos interesa aquí es el punto educativo: Hay otras están orientadas para **el uso educativo**:
 
-* [Edubásica ](http://www.practicasconarduino.com/edubasica/)que en Aularagón tenemos [un curso dedicado](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/una_placa_de_apoyo_edubsica.html) a esta Shield creada por docentes y para docentes.
+* [Edubásica ](http://www.practicasconarduino.com/edubasica/)que en Aularagón tenemos [un curso dedicado](https://catedu.github.io/programa-arduino-mediante-codigo/una_placa_de_apoyo_edubsica.html) a esta Shield creada por docentes y para docentes.
 * Hay otra muy básica pero muy barata [enlace1](https://www.electrohobby.es/es/shield-arduino/219-shield-multifuncion.html), [enlace2](https://www.e-ika.com/shield-multifuncional-de-aprendizaje), [Tutorial de uso de Javier Fernandez Panadero](https://lacienciaparatodos.files.wordpress.com/2017/02/prc3a1cticas-arduino-javier-fernc3a1ndez-panadero-19-03-2017.pdf).
 * ¿Y cómo no?: nuestra estrella en este curso [Echinda](http://echidna.es/)
 

@@ -9,7 +9,7 @@ Vamos a hacerlo !! Ten en cuenta que mBlock utiliza la notación americana de no
 
 Como las entradas analógicas pueden variar desde 0 a 1024 vamos a fijar como umbral en 500 (si es muy sensible lo subimos, si no nos hace caso lo bajamos, a nosotros nos ha funcionado bien 500).
 
-El código lo subiremos al Arduino pues mBlock responde muy lentamente, si no te acuerdas cómo se hacía mira esta [presentación](https://www.google.com/url?q=https://docs.google.com/presentation/d/e/2PACX-1vTkh8pwo-b7LACnD7_ZAfWzYCchZI9H1_uR-tZqgfBRtOPFOaVDH8ognsCNEXA8khLI7UX6ziUQXZsx/pub?start%3Dfalse%26loop%3Dfalse%26delayms%3D3000&sa=D&ust=1513946282906000&usg=AFQjCNFKwGl4hNX0DvbuGHV6KWk4Um_4wg).
+El código lo subiremos al Arduino pues mBlock responde muy lentamente, si no te acuerdas cómo se hacía mira esta [presentación](https://docs.google.com/presentation/d/e/2PACX-1vTkh8pwo-b7LACnD7_ZAfWzYCchZI9H1_uR-tZqgfBRtOPFOaVDH8ognsCNEXA8khLI7UX6ziUQXZsx/pub?start%3Dfalse%26loop%3Dfalse%26delayms%3D3000).
 
 %accordion%Solución%accordion%
 
@@ -23,7 +23,7 @@ Conectamos cada salida de Makey Makey a unos plátanos y la salida del auricular
 
 **ATENCIÓN VER [1.3 ALIMENTACION DEL ECHIDNA](/tema_1_como_utilizar_echidna/13-alimentacion-del-echidna.md)**
 
-Y el [resultado](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DgyBRvFvs3Mk&sa=D&ust=1513946282908000&usg=AFQjCNHAm9mu3pM9P5Ng4GPBU_95yaO3mg) es …
+Y el [resultado](https://www.youtube.com/watch?v%3DgyBRvFvs3Mk) es …
 
 {% youtube %} https://www.youtube.com/watch?v=gyBRvFvs3Mk{% endyoutube %} 
 

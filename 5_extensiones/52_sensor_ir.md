@@ -12,7 +12,7 @@ hay para  a empezar con uno sencillo de entrada digital que es muy útil: el sen
 
 ![](/images/image28.png)
 
-Para ver más información de este sensor te recomendamos[ esta página.](https://www.google.com/url?q=https://www.luisllamas.es/detectar-obstaculos-con-sensor-infrarrojo-y-arduino/&sa=D&ust=1513946282923000&usg=AFQjCNEtRW_FHKpsxaNaGxRTg8LrhdXQUQ)
+Para ver más información de este sensor te recomendamos[ esta página.](https://www.luisllamas.es/detectar-obstaculos-con-sensor-infrarrojo-y-arduino/)
 
 En el Echidna arriba a la izquierda tienes 3 conectores digitales a elegir, nosotros elegimos el primero D4 luego el pin OUT del sensor se conecta al D4, el resto en el mismo orden
 

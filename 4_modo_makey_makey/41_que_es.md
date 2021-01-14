@@ -31,6 +31,6 @@ Entonces... ¿qué ventajas tiene esta placa con respecto a la original?:
 
 _Nota_:
 
-En [Aularagón](https://www.google.com/url?q=http://moodle.catedu.es/&sa=D&ust=1513946282898000&usg=AFQjCNFbbdhoQZIogmh59s6_ZIDyenPqFA) tienes un curso de manejo de la Makey Makey original con el curso Scractch avanzado y Makey Makey 
+En [Aularagón](http://moodle.catedu.es/) tienes un curso de manejo de la Makey Makey original con el curso Scractch avanzado y Makey Makey 
 
 .

@@ -20,9 +20,9 @@ En esta presentación se enseña COMO CONFIGURAR SNAP4ARDUINO para que se comuni
 
 ###TERCERO EL EJEMPLO SEMÁFORO CON ECHIDNA
 
-El programa es el mismo que el anterior, con los mismos disfraces y se puede abrir desde Snap4Arduino desde [esta URL](https://www.google.com/url?q=http://snap4arduino.org/run%23present:Username%3Djavierquintana%26ProjectName%3DSEMAFORO&sa=D&ust=1513946282814000&usg=AFQjCNHJjV-UySzN7j5tkDlCr-JmawjV2A)
+El programa es el mismo que el anterior, con los mismos disfraces y se puede abrir desde Snap4Arduino desde [esta URL](http://snap4arduino.org/run%23present:Username%3Djavierquintana%26ProjectName%3DSEMAFORO)
 
-El resultado es [este vídeo](https://www.google.com/url?q=https://youtu.be/Ziuze9mRkys&sa=D&ust=1513946282815000&usg=AFQjCNGwY0yzjObUntnZkaQXBJ4k8rMQig)
+El resultado es [este vídeo](https://youtu.be/Ziuze9mRkys)
 
 {% youtube %}https://www.youtube.com/watch?v=Ziuze9mRkys&;feature=youtu.be{% endyoutube %}
 

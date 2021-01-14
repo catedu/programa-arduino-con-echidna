@@ -20,7 +20,7 @@ El sprite lo vamos a seleccionar de la biblioteca: Helicopter y le vamos a añad
 
 Vamos a hacer que se mueva según el acelerómetro:
 
-Posición X: La pantalla de mBlock tiene desde -240 hasta 240 y hemos visto que los márgenes de A2 del acelerómetro va desde 250 hasta 500 luego hacemos el cambio de escala con la [HOJA DE CÁLCULO](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/e/2PACX-1vTyASTvUIs_xsZ8c4RZOJ1sEstk4Cc6d--_Drne_U0o1_CXhgzxQkvZ4ZNYGLdKa2lrhLHDKmAwsKnK/pub?output%3Dxlsx&sa=D&ust=1513946282885000&usg=AFQjCNFTLi5pX_fG-4CrveOTHPAb6tW1Ew) que comentamos anteriormente:
+Posición X: La pantalla de mBlock tiene desde -240 hasta 240 y hemos visto que los márgenes de A2 del acelerómetro va desde 250 hasta 500 luego hacemos el cambio de escala con la [HOJA DE CÁLCULO](https://docs.google.com/spreadsheets/d/e/2PACX-1vTyASTvUIs_xsZ8c4RZOJ1sEstk4Cc6d--_Drne_U0o1_CXhgzxQkvZ4ZNYGLdKa2lrhLHDKmAwsKnK/pub?output%3Dxlsx) que comentamos anteriormente:
 
 ![](/images/image22.png)
 
@@ -46,9 +46,9 @@ El programa para el helicóptero es:
 
 Reutilizamos un poco: Nos copiamos un Sprite.
 
-Vamos a copiar un poco el código de otra persona: Vamos a [scratch](https://www.google.com/url?q=https://scratch.mit.edu/&sa=D&ust=1513946282886000&usg=AFQjCNGamoaBekRsl8WkE6nz4l6rBODONg), elegimos un juego que tenga el sprite que nos interesa: por ejemplo éste (poniendo en su buscador ‘fly’) [https://scratch.mit.edu/projects/128227746/](https://www.google.com/url?q=https://scratch.mit.edu/projects/128227746/&sa=D&ust=1513946282886000&usg=AFQjCNFkit_qcC3-nq6jShgJOPQmkX-xBA)
+Vamos a copiar un poco el código de otra persona: Vamos a [scratch](https://scratch.mit.edu/)
 
-Y seguimos [estos pasos](https://www.google.com/url?q=https://docs.google.com/presentation/d/e/2PACX-1vQU1KCgFxkeWMPgMhi9AhXU6MXlHNc5nO9yrjd2qIOzcNMpWsW_zDiunPCmH-kRl8D3T3iFTKXysuPl/pub?start%3Dfalse%26loop%3Dfalse%26delayms%3D3000&sa=D&ust=1513946282887000&usg=AFQjCNERdSe7qnTWaGeNPvtdGL3Vz8aSGg)
+Y seguimos [estos pasos](https://docs.google.com/presentation/d/e/2PACX-1vQU1KCgFxkeWMPgMhi9AhXU6MXlHNc5nO9yrjd2qIOzcNMpWsW_zDiunPCmH-kRl8D3T3iFTKXysuPl/pub?start%3Dfalse%26loop%3Dfalse%26delayms%3D3000)
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQU1KCgFxkeWMPgMhi9AhXU6MXlHNc5nO9yrjd2qIOzcNMpWsW_zDiunPCmH-kRl8D3T3iFTKXysuPl/embed?start=false&;loop=false&;delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
