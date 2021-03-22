@@ -23,15 +23,11 @@ Conectamos cada salida de Makey Makey a unos plátanos y la salida del auricular
 
 **ATENCIÓN VER [1.3 ALIMENTACION DEL ECHIDNA](/tema_1_como_utilizar_echidna/13-alimentacion-del-echidna.md)**
 
-Y el [resultado](https://www.youtube.com/watch?v%3DgyBRvFvs3Mk) es …
-
-{% youtube %} https://www.youtube.com/watch?v=gyBRvFvs3Mk{% endyoutube %} 
-
 En el kit que te prestamos para hacer este curso no están incluidos los plátanos, así que cálzate y baja a comprar unos. ¿no tienes perras? pues utiliza recursos humanos:
 
 {% youtube %}https://www.youtube.com/watch?v=jv2vGhF0cV8{% endyoutube%}
 
-{% youtube %} https://www.youtube.com/watch?v=M-8-JaDIgY0&feature=youtu.be {% endyoutube %} 
+{% youtube %} https://www.youtube.com/watch?v=M-8-JaDIgY0&feature=youtu.be {% endyoutube %}
 
 Esta noche prepara un karaoke con tus amigos.
 

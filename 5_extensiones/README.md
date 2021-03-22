@@ -7,7 +7,7 @@ Para conexión de otros elementos como relés pero no pueden pasar de 300mA de l
 
  * **Entrada analógica A5**
  * **Salidas/Entradas digitales D4, D7 y D8**
- 
+
 La alimentación de estas I/O se puede elegir entre la salida de 5V  por el Arduino y Vin con la tensión que estemos alimentando al Arduino utilizando el jumper que ya vimos [en su momento](/tema_1_como_utilizar_echidna/13-alimentacion-del-echidna.md).
 <hr />
 Nota: Acuerdate en toda esta sección de poner la Echidna en modo Sensor
@@ -21,5 +21,3 @@ Ahora con las extensiones puedes aumentar más tus proyectos robóticos. Por eje
 {% youtube %}https://www.youtube.com/watch?v=CXOK8tyYp3g{% endyoutube%}
 
 Pero sólo está el límite de tu imaginación para convertir al Echidna el algo más poderoso ...
-
-<iframe src="https://giphy.com/embed/tRUt4lp98BIhW" width="480" height="264" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/star-wars-the-force-awakens-bb8-tRUt4lp98BIhW">via GIPHY</a></p>

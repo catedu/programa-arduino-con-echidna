@@ -8,7 +8,5 @@ En este tema veremos:
 Todos los programas de este curso se encuentran en este repositorio: [https://github.com/JavierQuintana/Echidna](https://github.com/JavierQuintana/Echidna)
 
 ![](/images/image1.png)
-http://echidna.es/
 
-
-
+Source: http://echidna.es/

@@ -10,9 +10,11 @@ En este curso pretende mostrarte el potencial educativo de este sencillo escudo.
 Todos los programas de este curso se encuentran en este repositorio: [https://github.com/JavierQuintana/Echidna](https://github.com/JavierQuintana/Echidna)
 
 ![](/images/image88.png)
+
 Fuente http://echidna.es/
 
 ![](/images/image1.png)
+
 Fuente http://echidna.es/
 
 ![](/assets/HERALDO-jpg.jpg)

@@ -25,16 +25,11 @@ simplemente vamos a comentar las condicionales principales:
 **VA MUY LENTO**
 El resultado lo puedes ver en [este vídeo](https://www.youtube.com/watch?v%3DJzyd5cPb2-Y):
 
-{% youtube %} https://www.youtube.com/watch?v=Jzyd5cPb2-Y{% endyoutube %} 
+{% youtube %} https://www.youtube.com/watch?v=Jzyd5cPb2-Y{% endyoutube %}
 
 
 Por curiosidad puedes ver el mismo programa en **Snap4Arduino **en este vídeo:
 
-{% youtube %} https://www.youtube.com/watch?v=j1lsYq6X5-U{% endyoutube %} 
+{% youtube %} https://www.youtube.com/watch?v=j1lsYq6X5-U{% endyoutube %}
 
 Puedes ver que es mucho **más rápido** que mBlock.
-
-El programa lo puedes abrir en Snap4Arduino desde [este enlace](http://snap4arduino.org/run%23present:Username%3Djavierquintana%26ProjectName%3Dtelesketch-bueno).
-
-
-

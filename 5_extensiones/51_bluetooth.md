@@ -1,4 +1,4 @@
-## 5.1 MONTAJE 13 ENCENDER CON EL MÓVIL Bluetooth {#5-1-bluetooth} 
+## 5.1 MONTAJE 13 ENCENDER CON EL MÓVIL Bluetooth {#5-1-bluetooth}
 
 # ATENCION: MUY DIFICIL
 
@@ -75,10 +75,6 @@ Mejor verlo con[ esta presentación:](https://docs.google.com/presentation/d/e/2
 %/accordion%
 
 O sea, ya podemos jugar con el móvil y con nuestro Echidna !!!
-<iframe src="https://giphy.com/embed/4K0kLjAFNgzao" width="425" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/phone-the-big-bang-theory-4K0kLjAFNgzao">via GIPHY</a></p>
 
-Por ejemplo.. se podría hacer un coche teledirigido, el programa lo tienes en el repositorio: [https://github.com/JavierQuintana/Echidna](https://github.com/JavierQuintana/Echidna) 
+Por ejemplo.. se podría hacer un coche teledirigido, el programa lo tienes en el repositorio: [https://github.com/JavierQuintana/Echidna](https://github.com/JavierQuintana/Echidna)
 y el vídeo en el [muro](/muro.md)
-
-
-

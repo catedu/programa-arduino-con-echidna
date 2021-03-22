@@ -7,3 +7,7 @@ Con Bitbloq:
 Con ArduinoBlocks:
 
 ![](/images/image12.png)
+
+Y un favorito nuestro el **VISUALINO** pues a la vez que haces programación gráfica, va enseñando el código a la derecha:
+
+![](/assets/visualino.jpg)
