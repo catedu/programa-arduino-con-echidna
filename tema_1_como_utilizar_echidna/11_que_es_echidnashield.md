@@ -39,6 +39,10 @@ Es una Shield de Arduino diseñada para facilitar la programación del Arduino e
 _¿Por qué hemos elegido esta Shield?_ Por que tiene un buen equilibrio calidad/precio sencillez/potencial orientado a últimos cursos de primaria, primeros de secundaria:
 
 * Es **OpenHardware**, por lo tanto es un proyecto con garantías de estabilidad, libre, colaborativo y vivo, con la misma filosofía que la placa Arduino.
+
+![](/assets/conexiones.png)
+[Source: Web oficial Echidna- documentación](https://echidnashield.wordpress.com/hardware/documentacion/)
+
 * **Salidas acertadas**:
   * Diodos Red D13, Orange D12 y Green D11.
   * Diodo de 3 colores RGB gobernados por D9, D5 y D6 respectivamente.
@@ -54,8 +58,3 @@ _¿Por qué hemos elegido esta Shield?_ Por que tiene un buen equilibrio calidad
   * Tiene pines para conexión de otros elementos como relés pero no pueden pasar de 300mA para más potencia es mejor utilizar Shield adaptados para ello como Edubásica.
 
 **¿Estás preparado? adelante !!!**
-
-<iframe src="https://giphy.com/embed/bvBeK27koljaM" width="470" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/big-bang-theory-sheldon-cooper-the-bigbang-bvBeK27koljaM">via GIPHY</a></p>
-
-
-
